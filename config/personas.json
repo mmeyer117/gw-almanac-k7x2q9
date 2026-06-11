@@ -1,4 +1,4 @@
 {
   "_comment": "Public persona names (male, initials match the real roster by request). The real-name mapping lives in config/private.local.json (gitignored) or the PRIVATE_CONFIG_JSON secret — never in the repo.",
-  "personas": ["Paul", "Archie", "Jonas", "Eli", "Dexter", "Miles"]
+  "personas": ["Porter", "Archie", "Jonas", "Eli", "Dexter", "Miles"]
 }
