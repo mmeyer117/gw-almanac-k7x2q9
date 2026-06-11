@@ -1,0 +1,83 @@
+{
+  "date": "2026-05-14",
+  "display_date": "Thursday, May 14, 2026",
+  "generated_at": "2026-06-11T01:08:50+00:00",
+  "sections": {
+    "word": {
+      "word": "Imbroglio",
+      "part_of_speech": "noun",
+      "definition": "Imbroglio is a formal word that refers to a complex dispute or argument.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-14"
+    },
+    "sports_fact": {
+      "text": "Nolan Ryan threw seven no-hitters, the last one at age 44 — an age when most pitchers have been retired for a decade.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Athletics",
+            "is_home": false,
+            "venue": "Sutter Health Park",
+            "datetime_utc": "2026-05-14T01:40:00+00:00",
+            "team_score": "2",
+            "opp_score": "6",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Athletics",
+            "is_home": false,
+            "venue": "Sutter Health Park",
+            "datetime_utc": "2026-05-14T19:05:00+00:00",
+            "label": "Today 2:05 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-14T00:30:00+00:00",
+            "team_score": "2",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "D.C. United",
+            "is_home": false,
+            "venue": "Audi Field",
+            "datetime_utc": "2026-05-16T23:30:00+00:00",
+            "label": "Sat 5/16, 6:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Closes Above 50000 as Investors Focus on AI Trade",
+      "summary": "Chip maker Cerebras trades sharply higher after largest IPO of the year",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "My life was not useless; I gave important truths to the world, and it was only for want of understanding that they were disregarded. I have been ahead of my time.",
+      "author": "Robert Owen"
+    },
+    "history": {
+      "year": 1925,
+      "text": "Mrs Dalloway, one of Virginia Woolf's earliest and best-known novels, is published."
+    },
+    "spotlight": {
+      "persona": "Riley",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

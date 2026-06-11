@@ -1,0 +1,80 @@
+{
+  "date": "2026-05-17",
+  "display_date": "Sunday, May 17, 2026",
+  "generated_at": "2026-06-11T01:09:07+00:00",
+  "sections": {
+    "word": {
+      "word": "Affable",
+      "part_of_speech": "adjective",
+      "definition": "Affable describes someone who is friendly and easy to talk to. It can also describe something, such as someone’s personality, that is characterized by ease and friendliness.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-17"
+    },
+    "sports_fact": {
+      "text": "On May 17, 1875, the first Kentucky Derby was run at Churchill Downs, won by a colt named Aristides in front of about 10,000 spectators.",
+      "sport": "horse racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-16T18:15:00+00:00",
+            "team_score": "4",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-17T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "D.C. United",
+            "is_home": false,
+            "venue": "Audi Field",
+            "datetime_utc": "2026-05-16T23:30:00+00:00",
+            "team_score": "1",
+            "opp_score": "1",
+            "won": false,
+            "draw": true
+          },
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Sat 5/23, 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Suspicious Betting in Washington Is on the Rise—and Authorities Are Playing Catch-Up",
+      "summary": "Regulators are seeking information from Kalshi and Polymarket over wagers tied to political events and military operations.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The universal problem into which modern life, as well as past life, rushes and embroils and rends itself, can only be dispersed by a universal means which reduces each nation to what it is in truth; which strips from them all the ideal of supremacy stolen by each of them from the great human ideal; a means which, raising the human ideal definitely beyond the reach of all those immoderate emotions, which shout together \"Mine is the only point of view,\" gives it at last its divine unity.",
+      "author": "Henri Barbusse"
+    },
+    "history": {
+      "year": 1984,
+      "text": "Prince Charles calls a proposed addition to the National Gallery, London, a \"monstrous carbuncle on the face of a much-loved and elegant friend\", sparking controversies on the proper role of the Royal Family and the course of modern architecture."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

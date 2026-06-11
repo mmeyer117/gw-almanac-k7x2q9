@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-01",
+  "display_date": "Monday, June 1, 2026",
+  "generated_at": "2026-06-11T01:10:34+00:00",
+  "sections": {
+    "word": {
+      "word": "Palatable",
+      "part_of_speech": "adjective",
+      "definition": "Palatable describes something that has a pleasant or agreeable taste, or that is pleasant or acceptable to someone.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-01"
+    },
+    "sports_fact": {
+      "text": "Bill Russell won 11 championships in 13 seasons. No player in any major American sport has more rings than Russell has fingers.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-31T23:20:00+00:00",
+            "team_score": "5",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-01T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nvidia Fuels AI Enthusiasm; Oil Rises",
+      "summary": "Stocks rise to records as Anthropic files to go public",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The moral elements are among the most important in war. They constitute the spirit that permeates war as a whole, and at an early stage they establish a close affinity with the will that moves and leads a whole mass of force, practically merging with it, since the will is itself a moral quantity. Unfortunately they will not yield to academic wisdom. They cannot be classified or counted. They have to be seen or felt. … It is paltry philosophy if in the old-fashioned way one lays down rules and principles in total disregard of moral values. As soon as these appear one regards them as exceptions, which gives them a certain scientific status, and thus makes them into rules. Or again one may appeal to genius, which is above all rules; which amounts to admitting that rules are not only made for idiots, but are idiotic in themselves.",
+      "author": "Carl von Clausewitz"
+    },
+    "history": {
+      "year": 1918,
+      "text": "World War I: Western Front: Battle of Belleau Wood: Allied Forces under John J. Pershing and James Harbord engage Imperial German Forces under Wilhelm, German Crown Prince."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Sasha"
+    }
+  }
+}

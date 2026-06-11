@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-26",
+  "display_date": "Tuesday, May 26, 2026",
+  "generated_at": "2026-06-11T01:09:58+00:00",
+  "sections": {
+    "word": {
+      "word": "Gordian Knot",
+      "part_of_speech": "noun",
+      "definition": "Gordian knot refers to a complicated and difficult problem. It is often used in the phrase cut the Gordian knot , which means “to solve a difficult problem in a very direct way by doing something forceful or extreme.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-26"
+    },
+    "sports_fact": {
+      "text": "On May 26, 1959, Pirates pitcher Harvey Haddix threw 12 perfect innings against the Braves — 36 up, 36 down — and still lost the game in the 13th.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-25T18:10:00+00:00",
+            "team_score": "1",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-26T23:40:00+00:00",
+            "label": "Today 6:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Rally Leads S&P 500 Higher",
+      "summary": "Oil rises after fresh Mideast strikes, but investors hold out hope for a deal",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A good writing day is a day when one has written well, and the word counts be damned. Finishing is not the goal. Doing the job well is the goal.",
+      "author": "Caitlín R. Kiernan"
+    },
+    "history": {
+      "year": 1644,
+      "text": "Portuguese Restoration War: Portuguese and Spanish forces both claim victory in the Battle of Montijo."
+    },
+    "spotlight": {
+      "persona": "Charlie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

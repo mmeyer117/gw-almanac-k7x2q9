@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-28",
+  "display_date": "Thursday, May 28, 2026",
+  "generated_at": "2026-06-11T01:10:13+00:00",
+  "sections": {
+    "word": {
+      "word": "Ingratiate",
+      "part_of_speech": "verb",
+      "definition": "To ingratiate yourself with others is to gain their favor or approval by deliberately doing or saying things they will like. Ingratiate is usually used with with , and is often (though not always) used disapprovingly.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-28"
+    },
+    "sports_fact": {
+      "text": "On May 28, 1957, National League owners voted to let the Dodgers and Giants leave New York for Los Angeles and San Francisco — and big-league baseball finally reached the West Coast.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-27T17:40:00+00:00",
+            "team_score": "1",
+            "opp_score": "2",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-29T23:15:00+00:00",
+            "label": "Tomorrow 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Pares Gains as Investors Cling to Hope of Mideast Deal",
+      "summary": "Stocks edge higher to new records",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Humanity, created by God in all its grandeur, is today facing a pivotal choice: either to construct a new Tower of Babel or to build the city in which God and humanity dwell together. Each generation inherits the task of shaping its own era, of guiding history to become a place where the dignity of every person is safeguarded, justice is promoted and fraternity is made possible. Yet every era also runs the risk of creating an inhumane and more unjust world.",
+      "author": "Pope Leo XIV"
+    },
+    "history": {
+      "year": 1948,
+      "text": "Daniel François Malan is elected as Prime Minister of South Africa. He later goes on to implement Apartheid."
+    },
+    "spotlight": {
+      "persona": "Charlie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

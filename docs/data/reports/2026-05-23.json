@@ -1,0 +1,62 @@
+{
+  "date": "2026-05-23",
+  "display_date": "Saturday, May 23, 2026",
+  "generated_at": "2026-06-11T01:09:37+00:00",
+  "sections": {
+    "word": {
+      "word": "Expedite",
+      "part_of_speech": "verb",
+      "definition": "To expedite something is to cause it to happen faster.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-23"
+    },
+    "sports_fact": {
+      "text": "The 1869 Cincinnati Red Stockings were baseball's first openly professional team. They went undefeated on a national tour, winning around 60 straight games.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-05-23T17:10:00+00:00",
+            "label": "Today 12:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Today 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: S&P 500 Clinches Longest Weekly Winning Streak Since 2023",
+      "summary": "Index rises for eighth straight week; Warsh sworn in as Fed chair",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There are addictions to feed and there are mouths to pay So you bargain with the Devil but you're okay for today.",
+      "author": "Jewel (singer)"
+    },
+    "history": {
+      "year": 1945,
+      "text": "World War II: Heinrich Himmler, head of the Schutzstaffel, commits suicide while in Allied custody."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Robin"
+    }
+  }
+}

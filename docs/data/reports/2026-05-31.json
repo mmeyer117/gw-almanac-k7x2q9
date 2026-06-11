@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-31",
+  "display_date": "Sunday, May 31, 2026",
+  "generated_at": "2026-06-11T01:10:27+00:00",
+  "sections": {
+    "word": {
+      "word": "Permutation",
+      "part_of_speech": "noun",
+      "definition": "Permutation is a formal word for any one of the many different ways or forms in which something exists or can be arranged. It can also refer to a major or fundamental change in something based primarily on rearrangement of its existing elements. Permutation is usually used in its plural form.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-31"
+    },
+    "sports_fact": {
+      "text": "The 1980 NBA Finals MVP went to Magic Johnson — a rookie who started at center in Game 6 because Kareem was injured. He scored 42 points and grabbed 15 rebounds.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-30T23:15:00+00:00",
+            "team_score": "1",
+            "opp_score": "6",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-31T23:20:00+00:00",
+            "label": "Today 6:20 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Oil Declines Lift Stocks to Fresh Records",
+      "summary": "Brent crude fell 19% in May, its sharpest monthly drop since 2020.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "<p> We thought our Union grand, and our Constitution grand, I do not say they are not grand and good, for they are, I am this day just as much in love with them as you, Then I am in love with You, and with all my fellows upon the earth.</p><p>We consider bibles and religions divine — I do not say they are not divine, I say they have all grown out of you, and may grow out of you still, It is not they who give the life, it is you who give the life, Leaves are not more shed from the trees, or trees from the earth, than they are shed out of you.</p>",
+      "author": ""
+    },
+    "history": {
+      "year": 1951,
+      "text": "The Uniform Code of Military Justice takes effect as the legal system of the United States Armed Forces."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Riley"
+    }
+  }
+}

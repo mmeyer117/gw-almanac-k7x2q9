@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-16",
+  "display_date": "Saturday, May 16, 2026",
+  "generated_at": "2026-06-11T01:09:03+00:00",
+  "sections": {
+    "word": {
+      "word": "Kiki",
+      "part_of_speech": "noun",
+      "definition": "Kiki is a slang term used for an informal gathering among close friends, especially to share lively gossip or frank conversation. It can also refer more broadly to gossipy conversation. Kiki is especially used in and associated with LGBTQ+ and Black communities.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-16"
+    },
+    "sports_fact": {
+      "text": "Ted Williams hit .406 in 1941 and refused to sit out the final-day doubleheader to protect the mark — he went 6-for-8 instead.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-16T00:15:00+00:00",
+            "team_score": "5",
+            "opp_score": "4",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-16T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "D.C. United",
+            "is_home": false,
+            "venue": "Audi Field",
+            "datetime_utc": "2026-05-16T23:30:00+00:00",
+            "label": "Today 6:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Want a Hot Pre-IPO Company in Your Portfolio? Proceed With Caution",
+      "summary": "Adding a sliver of the hottest private companies to your portfolio can be far more tricky than buying stocks.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The color of the prisoner’s skin, and the form of his features, are not impressed upon the spiritual immortal mind which works beneath. In spite of human pride, he is still your brother, and mine, in form and color accepted and approved by his Father, and yours, and mine, and bears equally with us the proudest inheritance of our race — the image of our Maker. Hold him then to be a Man.",
+      "author": "William H. Seward"
+    },
+    "history": {
+      "year": 1822,
+      "text": "Greek War of Independence: The Turks capture the Greek town of Souli."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

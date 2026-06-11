@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-10",
+  "display_date": "Wednesday, June 10, 2026",
+  "generated_at": "2026-06-11T01:11:22+00:00",
+  "sections": {
+    "word": {
+      "word": "Foible",
+      "part_of_speech": "noun",
+      "definition": "Foibles are minor flaws or shortcomings in someone's character or behavior. In fencing, foible refers to the weakest part of a sword's blade, between the middle and point.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-10"
+    },
+    "sports_fact": {
+      "text": "On June 10, 1944, 15-year-old Joe Nuxhall pitched for the Cincinnati Reds — still the youngest player in MLB history. He didn't appear in another big-league game for eight years.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-09T23:10:00+00:00",
+            "team_score": "7",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-10T23:10:00+00:00",
+            "label": "Today 6:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Drops 953 Points; Trump Says More Attacks Coming on Iran",
+      "summary": "Oil gains; Inflation rises to 4.2% in May",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "And when he came to the place where the wild things are, they roared their terrible roars and gnashed their terrible teeth and rolled their terrible eyes and showed their terrible claws till Max said, \"Be still\" and tamed them with the magic trick of staring into all their yellow eyes without blinking once. And they were frightened and called him the most wild thing of all and made him king of all wild things.",
+      "author": "Maurice Sendak"
+    },
+    "history": {
+      "year": 1918,
+      "text": "World War I:  The Austro-Hungarian battleship SMS Szent István sinks off the Croatian coast after being torpedoed by an Italian MAS motorboat; the event is recorded by camera from a nearby vessel."
+    },
+    "spotlight": {
+      "persona": "Riley",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-25",
+  "display_date": "Monday, May 25, 2026",
+  "generated_at": "2026-06-11T01:09:51+00:00",
+  "sections": {
+    "word": {
+      "word": "Sacrosanct",
+      "part_of_speech": "adjective",
+      "definition": "Sacrosanct is a formal word that describes something too important and respected to be changed or criticized. It can also mean \"most sacred or holy.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-25"
+    },
+    "sports_fact": {
+      "text": "On May 25, 1935, Jesse Owens had the greatest 45 minutes in sports history at the Big Ten championships: he set three world records and tied a fourth — with a sore back, in four different events.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-25T18:10:00+00:00",
+            "label": "Today 1:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Oil Prices Drop on Prospect of Iran Deal, but Investors Aren’t Celebrating Yet",
+      "summary": "Brent crude fell roughly 7%, and Dow Jones Industrial Average futures rallied even as investors remain skeptical about the impact of the U.S.-Iran talks.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "<p>I dance with William Blake For love, for Love's sake; </p><p>And everything comes to One, As we dance on, dance on, dance on.</p>",
+      "author": "Theodore Roethke"
+    },
+    "history": {
+      "year": 1981,
+      "text": "In Riyadh, the Gulf Cooperation Council is created between Bahrain, Kuwait, Oman, Qatar, Saudi Arabia and the United Arab Emirates."
+    },
+    "spotlight": {
+      "persona": "Charlie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Robin"
+    }
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-20",
+  "display_date": "Wednesday, May 20, 2026",
+  "generated_at": "2026-06-11T01:09:21+00:00",
+  "sections": {
+    "word": {
+      "word": "Cordial",
+      "part_of_speech": "adjective",
+      "definition": "Cordial describes someone or something that is politely pleasant and friendly.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-20"
+    },
+    "sports_fact": {
+      "text": "Connie Mack managed the Philadelphia Athletics for 50 consecutive seasons, wearing a suit and tie in the dugout the entire time.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-19T23:45:00+00:00",
+            "team_score": "9",
+            "opp_score": "6",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-20T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Sat 5/23, 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: SpaceX Filing Starts Countdown to Massive IPO",
+      "summary": "Details emerge on ownership and plans for Elon Musk's rocket company",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "All of us are responding to the fact there is no system that can keep any promises. Everybody is fighting each other under the illusion that it is the \"other people\" that are causing the problem. We don't realize that we are all in the same boat. We are all suffering from the absence of a system that can pull us together and assure us that the results of each person's work will come back to him and enhance his life in some way.",
+      "author": "Charles A. Reich"
+    },
+    "history": {
+      "year": 1741,
+      "text": "The Battle of Cartagena de Indias ends in a Spanish victory and the British begin withdrawal towards Jamaica with substantial losses."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Charlie"
+    }
+  }
+}

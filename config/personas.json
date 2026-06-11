@@ -1,0 +1,4 @@
+{
+  "_comment": "Public persona names. The real-name mapping lives in config/private.local.json (gitignored) or the PRIVATE_CONFIG_JSON secret — never in the repo.",
+  "personas": ["Charlie", "Frankie", "Sasha", "Robin", "Jordan", "Riley"]
+}

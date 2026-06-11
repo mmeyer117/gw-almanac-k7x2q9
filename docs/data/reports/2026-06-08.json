@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-08",
+  "display_date": "Monday, June 8, 2026",
+  "generated_at": "2026-06-11T01:11:07+00:00",
+  "sections": {
+    "word": {
+      "word": "Accoutrement",
+      "part_of_speech": "noun",
+      "definition": "An accoutrement is a piece of clothing or equipment that is used in a particular place or for a particular activity. In military contexts, accoutrement refers specifically to a soldier's outfit. The word can also refer to an identifying and often superficial characteristic or device. Accoutrement in any of its uses is often pluralized.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-08"
+    },
+    "sports_fact": {
+      "text": "Scott Skiles dished 30 assists in a single NBA game in 1990 — a record no one has come within 5 of since.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-07T18:15:00+00:00",
+            "team_score": "5",
+            "opp_score": "3",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-09T23:10:00+00:00",
+            "label": "Tomorrow 6:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Closes Higher After Friday Selloff",
+      "summary": "Oil prices rise after flare-up in Middle East tensions",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A touch of madness is, I think, almost always necessary for constructing a destiny.",
+      "author": "Marguerite Yourcenar"
+    },
+    "history": {
+      "year": 1953,
+      "text": "The United States Supreme Court rules in District of Columbia v. John R. Thompson Co. that restaurants in Washington, D.C., cannot refuse to serve black patrons."
+    },
+    "spotlight": {
+      "persona": "Riley",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Charlie"
+    }
+  }
+}

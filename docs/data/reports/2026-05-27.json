@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-27",
+  "display_date": "Wednesday, May 27, 2026",
+  "generated_at": "2026-06-11T01:10:07+00:00",
+  "sections": {
+    "word": {
+      "word": "Benevolent",
+      "part_of_speech": "adjective",
+      "definition": "Benevolent can describe someone or something that is kind and generous or something that is organized for the purpose of doing good.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-27"
+    },
+    "sports_fact": {
+      "text": "In 2024, Shohei Ohtani became the first player in MLB history with 50 home runs and 50 stolen bases in a season — he finished with 54 and 59.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-26T23:40:00+00:00",
+            "team_score": "0",
+            "opp_score": "6",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-05-27T17:40:00+00:00",
+            "label": "Today 12:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Drops on Hopes of Mideast Deal",
+      "summary": "Dow moves higher; Chip stocks pare recent gains",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The Nazis are with us again. Still. Yet. They never went away. And with the spread of cultural illiteracy, historical amnesia, mass communications obfuscation … their puke-coated message is out there once again. For thirty years, they had to keep their rotten bigotry to themselves, but with the passing of time they have emerged into the light, to poison the generations of rock’n’roll that have about as much of a sense of the past as a ground-worm. They can say anything, pass off any kind of obscurantism or illiterate lunacy — like UFO abductees — and there will always be dopes and jerks and illiterates and brain-damage cases who give what they cobble up some credence.",
+      "author": "Harlan Ellison"
+    },
+    "history": {
+      "year": 1958,
+      "text": "First flight of the McDonnell Douglas F-4 Phantom II."
+    },
+    "spotlight": {
+      "persona": "Charlie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Robin"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-29",
+  "display_date": "Friday, May 29, 2026",
+  "generated_at": "2026-06-11T01:10:17+00:00",
+  "sections": {
+    "word": {
+      "word": "Cohort",
+      "part_of_speech": "noun",
+      "definition": "Cohort refers to a group or band of individuals, as in “a cohort of supporters.” It can also be used for a group of individuals who have a statistical factor (such as age) in common in a demographic study, as in “a cohort of people born in the 1980s.” Cohort can be used for individuals too, as for a friend, companion, or colleague, but it is almost always used in its plural form.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-29"
+    },
+    "sports_fact": {
+      "text": "Michael Jordan hit .202 in Double-A Birmingham during his 1994 baseball detour — and baseball people respected that it wasn't worse, given he hadn't played since high school.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-29T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Pares Gains as Investors Cling to Hope of Mideast Deal",
+      "summary": "Stocks edge higher to new records",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "This is our purpose: to make as meaningful as possible this life that has been bestowed upon us; to live in such a way that we may be proud of ourselves; to act in such a way that some part of us lives on.",
+      "author": "Oswald Spengler"
+    },
+    "history": {
+      "year": 1167,
+      "text": "Battle of Monte Porzio: A Roman army supporting Pope Alexander III is defeated by Christian of Buch and Rainald of Dassel."
+    },
+    "spotlight": {
+      "persona": "Charlie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Sasha"
+    }
+  }
+}

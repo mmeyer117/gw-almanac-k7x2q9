@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-03",
+  "display_date": "Wednesday, June 3, 2026",
+  "generated_at": "2026-06-11T01:10:40+00:00",
+  "sections": {
+    "word": {
+      "word": "Engender",
+      "part_of_speech": "verb",
+      "definition": "Engender is a formal word that means “to be the source or cause of something.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-03"
+    },
+    "sports_fact": {
+      "text": "The NBA's 24-second shot clock was invented in 1954 by Syracuse owner Danny Biasone, who did the math on a napkin: 48 minutes ÷ 120 expected shots = 24 seconds. It saved the league.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-02T23:45:00+00:00",
+            "team_score": "4",
+            "opp_score": "7",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-03T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Falls More Than 600 Points Amid Mideast Clashes",
+      "summary": "Oil prices, Treasury yields rise",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I am old, but I certainly have not that sign of old age, extolling the past at the expense of the present.",
+      "author": "Sydney Smith"
+    },
+    "history": {
+      "year": 1984,
+      "text": "Operation Blue Star, a military offensive, is launched by the Indian government at Harmandir Sahib, also known as the Golden Temple, the holiest shrine for Sikhs, in Amritsar. The operation continues until June 6, with casualties, most of them civilians, in excess of 5,000."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

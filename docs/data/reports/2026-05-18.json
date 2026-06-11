@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-18",
+  "display_date": "Monday, May 18, 2026",
+  "generated_at": "2026-06-11T01:09:11+00:00",
+  "sections": {
+    "word": {
+      "word": "Vindicate",
+      "part_of_speech": "verb",
+      "definition": "To vindicate someone is to show that they are not guilty. Vindicate can also mean “to show that someone or something that has been criticized or doubted is correct, true, or reasonable.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-18"
+    },
+    "sports_fact": {
+      "text": "On May 18, 2004, Randy Johnson became the oldest pitcher to throw a perfect game at age 40, retiring all 27 Atlanta Braves batters he faced.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-17T18:15:00+00:00",
+            "team_score": "0",
+            "opp_score": "2",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-19T23:45:00+00:00",
+            "label": "Tomorrow 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Sat 5/23, 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Declines Pressure Nasdaq, S&P 500",
+      "summary": "Oil ticks up while stocks retreat further from records",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "All unhappiness depends upon some kind of disintegration or lack of integration; there is disintegration within the self through lack of coordination between the conscious and the unconscious mind; there is lack of integration between the self and society where the two are not knit together by the force of objective interests and affections. The happy man is the man who does not suffer from either of these failures of unity, whose personality is neither divided against itself nor pitted against the world. Such a man feels himself a citizen of the universe, enjoying freely the spectacle that it offers and the joys that it affords, untroubled by the thought of death because he feels himself not really separate from those who will come after him. It is in such profound instinctive union with the stream of life that the greatest joy is to be found.",
+      "author": ""
+    },
+    "history": {
+      "year": 1955,
+      "text": "Operation Passage to Freedom, the evacuation of 310,000 Vietnamese civilians, soldiers and non-Vietnamese members of the French Army from communist North Vietnam to South Vietnam following the end of the First Indochina War, ends."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Riley"
+    }
+  }
+}

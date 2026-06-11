@@ -1,0 +1,76 @@
+{
+  "date": "2026-05-24",
+  "display_date": "Sunday, May 24, 2026",
+  "generated_at": "2026-06-11T01:09:44+00:00",
+  "sections": {
+    "word": {
+      "word": "Onus",
+      "part_of_speech": "noun",
+      "definition": "Onus is a formal word typically used to refer to a responsibility, obligation, or burden. It is usually preceded by the word the .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-24"
+    },
+    "sports_fact": {
+      "text": "Wrigley Field, which opened in 1914, didn't host a night game until August 1988 — the last big-league park to install lights.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-05-23T23:15:00+00:00",
+            "team_score": "6",
+            "opp_score": "7",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-05-24T17:40:00+00:00",
+            "label": "Today 12:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": null,
+    "quote": {
+      "text": "We cannot observe external things without some degree of Thought; nor can we reflect upon our Thoughts, without being influenced in the course of our reflection by the Things which we have observed.",
+      "author": "William Whewell"
+    },
+    "history": {
+      "year": 1822,
+      "text": "Battle of Pichincha: Antonio José de Sucre secures the independence of the Presidency of Quito."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

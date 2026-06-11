@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-12",
+  "display_date": "Tuesday, May 12, 2026",
+  "generated_at": "2026-06-11T01:08:41+00:00",
+  "sections": {
+    "word": {
+      "word": "Catercorner",
+      "part_of_speech": "",
+      "definition": "Catercorner is used to describe two things that are located across from each other on opposite corners. It is a less common variant of kitty-corner .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-12"
+    },
+    "sports_fact": {
+      "text": "Ozzie Smith won 13 consecutive Gold Gloves at shortstop and did a backflip on Opening Day. The Wizard earned the nickname.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Athletics",
+            "is_home": false,
+            "venue": "Sutter Health Park",
+            "datetime_utc": "2026-05-13T01:40:00+00:00",
+            "label": "Today 8:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-14T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Pares Losses as Investors Digest Inflation Jump",
+      "summary": "Bond yields hit highest level in a year; Intel, Qualcomm drop sharply",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Newton's law is nothing but the statistics of gravitation, it has no power whatever. Let us get rid of the idea of power from law altogether. Call law tabulation of facts, expression of facts, or what you will; anything rather than suppose that it either explains or compels.",
+      "author": "Florence Nightingale"
+    },
+    "history": {
+      "year": 1978,
+      "text": "In Zaire, rebels occupy the city of Kolwezi, the mining center of the province of Shaba (now known as Katanga); the local government asks the US, France and Belgium to restore order."
+    },
+    "spotlight": {
+      "persona": "Riley",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Charlie"
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "date": "2026-05-19",
+  "display_date": "Tuesday, May 19, 2026",
+  "generated_at": "2026-06-11T01:09:16+00:00",
+  "sections": {
+    "word": {
+      "word": "Demeanor",
+      "part_of_speech": "noun",
+      "definition": "Demeanor refers to someone’s outward manner and behavior toward others.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-19"
+    },
+    "sports_fact": {
+      "text": "Ichiro Suzuki collected 262 hits in 2004, breaking an 84-year-old single-season record — and he didn't reach MLB until he was 27.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-19T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Sat 5/23, 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Bond Selloff Deepens on Inflation Fears",
+      "summary": "Stocks pull back; oil retreats after Trump holds off on Iran attack",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Creative thinking — in terms of idea creativity — is not a mystical talent. It is a skill that can be practised and nurtured. You can never tell how a policy has been reached just by looking at the end result. Some people who have achieved a huge amount do not come across as impressive when you speak to them.",
+      "author": "Edward de Bono"
+    },
+    "history": {
+      "year": 1643,
+      "text": "Thirty Years' War: French forces under the duc d'Enghien decisively defeat Spanish forces at the Battle of Rocroi, marking the symbolic end of Spain as a dominant land power."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

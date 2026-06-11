@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-21",
+  "display_date": "Thursday, May 21, 2026",
+  "generated_at": "2026-06-11T01:09:27+00:00",
+  "sections": {
+    "word": {
+      "word": "Lacuna",
+      "part_of_speech": "noun",
+      "definition": "Lacuna is a formal word that refers to a gap or blank space in something—in other words, a missing part. When used with respect to biology, lacuna also refers to a small cavity, pit, or discontinuity in an anatomical structure.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-21"
+    },
+    "sports_fact": {
+      "text": "In 1982, Joel Youngblood got hits for two different teams in two different cities on the same day — traded mid-day from the Mets, he flew to Philadelphia and singled for the Expos that night.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-20T23:45:00+00:00",
+            "team_score": "0",
+            "opp_score": "7",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-21T17:15:00+00:00",
+            "label": "Today 12:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Austin",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-05-23T18:45:00+00:00",
+            "label": "Sat 5/23, 1:45 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Closes at Record High Amid Hopes of Mideast Progress",
+      "summary": "Oil turns lower; Nvidia slips despite strong results",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "In a free society a large degree of human activity is none of the government's business. We should make criminal what's going to hurt other people and other than that we should leave it to people to make their own choices.",
+      "author": "Barney Frank"
+    },
+    "history": {
+      "year": 1863,
+      "text": "American Civil War: The Union Army succeeds in closing off the last escape route from Port Hudson, Louisiana, in preparation for the coming siege."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-06",
+  "display_date": "Saturday, June 6, 2026",
+  "generated_at": "2026-06-11T01:10:54+00:00",
+  "sections": {
+    "word": {
+      "word": "Valedictory",
+      "part_of_speech": "adjective",
+      "definition": "Valedictory describes something expressing or containing a farewell.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-06"
+    },
+    "sports_fact": {
+      "text": "Muggsy Bogues played 14 NBA seasons at 5-foot-3 — and blocked 39 shots, including one on Patrick Ewing.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-06T00:15:00+00:00",
+            "team_score": "10",
+            "opp_score": "3",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-06T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Suffers Worst Week in More Than a Year",
+      "summary": "Tech-heavy index drops 4.2% after hot jobs report raises rate worries",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The manner of giving is worth more than the gift.",
+      "author": "Pierre Corneille"
+    },
+    "history": {
+      "year": 1966,
+      "text": "March Against Fear: African-American civil rights activist James Meredith is wounded in an ambush by white sniper James Aubrey Norvell. Meredith and Norvell are photographed by Jack R. Thornell, whose photo will receive the 1967 Pulitzer Prize in Photography, the last one to be awarded in the category."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

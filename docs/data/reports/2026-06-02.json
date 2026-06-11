@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-02",
+  "display_date": "Tuesday, June 2, 2026",
+  "generated_at": "2026-06-11T01:10:37+00:00",
+  "sections": {
+    "word": {
+      "word": "Crux",
+      "part_of_speech": "noun",
+      "definition": "Crux refers to the most important part of something (such as a problem, issue, or puzzle). It is often used in the phrase \"the crux of.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-02"
+    },
+    "sports_fact": {
+      "text": "UCLA won 10 national titles in 12 years under John Wooden, including an 88-game winning streak that lasted nearly three full seasons.",
+      "sport": "college basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-01T23:45:00+00:00",
+            "team_score": "1",
+            "opp_score": "2",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-02T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Investors Weigh AI Fervor Against Mideast Worries",
+      "summary": "Stocks close at fresh records for fifth straight session",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The value of old age depends upon the person who reaches it. To some men of early performance it is useless. To others, who are late to develop, it just enables them to finish the job.",
+      "author": "Thomas Hardy"
+    },
+    "history": {
+      "year": 1259,
+      "text": "Wedding of Manfred, King of Sicily, and Byzantine princess Helena Angelina Doukaina."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-30",
+  "display_date": "Saturday, May 30, 2026",
+  "generated_at": "2026-06-11T01:10:22+00:00",
+  "sections": {
+    "word": {
+      "word": "Unctuous",
+      "part_of_speech": "adjective",
+      "definition": "Unctuous is a word that’s undergone change in recent years. It now often describes food that is fatty and oily, especially in a pleasing way. Formerly it was more typically applied as a formal adjective describing someone who is figuratively oily—that is, overly or insincerely flattering. Both uses can be found today.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-30"
+    },
+    "sports_fact": {
+      "text": "Wilt Chamberlain averaged 50.4 points per game for the entire 1961-62 NBA season — and played all but 8 minutes of the year.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-29T23:15:00+00:00",
+            "team_score": "6",
+            "opp_score": "5",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-30T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Oil Declines Lift Stocks to Fresh Records",
+      "summary": "Brent crude fell 19% in May, its sharpest monthly drop since 2020.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Everything will pass, and the world will perish, but the Ninth Symphony will remain.",
+      "author": "Mikhail Bakunin"
+    },
+    "history": {
+      "year": 1899,
+      "text": "Pearl Hart, a female outlaw of the Old West, robs a stage coach 30 miles southeast of Globe, Arizona."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Frankie"
+    }
+  }
+}

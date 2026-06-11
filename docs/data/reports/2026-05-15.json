@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-15",
+  "display_date": "Friday, May 15, 2026",
+  "generated_at": "2026-06-11T01:08:54+00:00",
+  "sections": {
+    "word": {
+      "word": "Tortuous",
+      "part_of_speech": "adjective",
+      "definition": "Tortuous describes something that has many literal or figurative twists and turns.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-05-15"
+    },
+    "sports_fact": {
+      "text": "On May 15, 1941, Joe DiMaggio singled against the White Sox — the quiet start of his 56-game hitting streak, a record that has stood for more than 80 years.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Athletics",
+            "is_home": false,
+            "venue": "Sutter Health Park",
+            "datetime_utc": "2026-05-14T19:05:00+00:00",
+            "team_score": "5",
+            "opp_score": "4",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Royals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-05-16T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "D.C. United",
+            "is_home": false,
+            "venue": "Audi Field",
+            "datetime_utc": "2026-05-16T23:30:00+00:00",
+            "label": "Tomorrow 6:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: 30-Year Bond Yield Hits Highest Level Since 2007",
+      "summary": "Stocks sink on oil fears, with Brent crude rising above $109",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The real sin against life is to abuse and destroy beauty, even one's own — even more, one's own, for that has been put in our care and we are responsible for its well-being.",
+      "author": "Katherine Anne Porter"
+    },
+    "history": {
+      "year": 1942,
+      "text": "World War II: In the United States, a bill creating the Women's Army Auxiliary Corps (WAAC) is signed into law."
+    },
+    "spotlight": {
+      "persona": "Riley",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Riley"
+    }
+  }
+}

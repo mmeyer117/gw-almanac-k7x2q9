@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-05",
+  "display_date": "Friday, June 5, 2026",
+  "generated_at": "2026-06-11T01:10:50+00:00",
+  "sections": {
+    "word": {
+      "word": "Interloper",
+      "part_of_speech": "noun",
+      "definition": "An interloper is a person who intrudes in a place or sphere of activity; they are not wanted or welcome by the other people present.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-05"
+    },
+    "sports_fact": {
+      "text": "Basketball at the 1936 Olympics was played outdoors on dirt courts. The gold-medal game was played in driving rain, and the US beat Canada 19-8.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-06T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Suffers Worst Week in More Than a Year",
+      "summary": "Tech-heavy index drops 4.2% after hot jobs report raises rate worries",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The idea of revelation is the idea of special knowledge of God, or of religious truth, possessed by some people and transmitted by them to others. In some form or other the idea is reasonable. In all other matters people differ in their degree of skill or insight. Why not in religion?",
+      "author": "Charles Hartshorne"
+    },
+    "history": {
+      "year": 1864,
+      "text": "American Civil War: Battle of Piedmont: Union forces under General David Hunter defeat a Confederate army at Piedmont, Virginia, taking nearly 1,000 prisoners."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

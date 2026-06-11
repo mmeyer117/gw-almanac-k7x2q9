@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-04",
+  "display_date": "Thursday, June 4, 2026",
+  "generated_at": "2026-06-11T01:10:44+00:00",
+  "sections": {
+    "word": {
+      "word": "Redolent",
+      "part_of_speech": "adjective",
+      "definition": "As a synonym of aromatic , the word redolent can describe something that has a noticeable smell without specifying the scent, but more often it is accompanied by of or with and means “full of a specified fragrance,” as in “redolent with incense.” Redolent can also describe something that causes thoughts or memories of something, as in “music redolent of the 1980s.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-04"
+    },
+    "sports_fact": {
+      "text": "The St. Louis Hawks won the 1958 NBA championship behind Bob Pettit's 50 points in the clinching game — still the city's only NBA title.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Rangers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-03T23:45:00+00:00",
+            "team_score": "5",
+            "opp_score": "3",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-06T00:15:00+00:00",
+            "label": "Tomorrow 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Healthcare Fuels Dow's 875-Point Surge",
+      "summary": "Broadcom drags tech stocks lower; oil slips 3%",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "My convictions have validity for me because I have experimented with the compounds of ideas of others in the laboratory of my mind. And I've tested the results in the living out of my life. At twenty-one, I had drawn an abstract map based on the evidence of others. At sixty, I have accumulated a practical guide grounded in my own experience. At twenty-one, I could discuss transportation theory with authority. At sixty, I know which bus to catch to go where, what the fare is, and how to get back home again. It is not my bus, but I know how to use it.",
+      "author": "Robert Fulghum"
+    },
+    "history": {
+      "year": 1862,
+      "text": "American Civil War: Confederate troops evacuate Fort Pillow on the Mississippi River, leaving the way clear for Union troops to take Memphis, Tennessee."
+    },
+    "spotlight": {
+      "persona": "Sasha",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jordan"
+    }
+  }
+}

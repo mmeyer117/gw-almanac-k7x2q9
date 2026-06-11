@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Private config — real names and group identity NEVER go in the repo.
+# The public repo only ever sees persona names.
+config/private.local.json
+
+# Generated iMessage text (contains real names) — delivered via Telegram, not committed
+messages/
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# Scratch
+_probes/
+*.log
