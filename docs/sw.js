@@ -1,11 +1,12 @@
 /* Minimal service worker: cache-first shell, network-first data. */
-var VERSION = "ga-v1";
+var VERSION = "ga-v2";
 var SHELL = [
   "./",
   "index.html",
   "css/style.css",
   "js/app.js",
   "js/flap.js",
+  "js/share.js",
   "vendor/chart.umd.min.js",
   "manifest.webmanifest",
   "icons/icon.svg",

@@ -315,6 +315,65 @@ body {
   padding: 30px 10px;
 }
 
+/* copy for chat + name settings */
+.action-row { display: flex; justify-content: center; margin: 0 0 14px; }
+.copy-btn {
+  font-family: var(--mono);
+  font-size: 12.5px;
+  font-weight: 700;
+  letter-spacing: .06em;
+  background: var(--red);
+  color: #fff;
+  border: none;
+  border-radius: 999px;
+  padding: 9px 20px;
+  cursor: pointer;
+  box-shadow: var(--shadow);
+}
+.copy-btn:active { transform: scale(.96); }
+.copy-btn:disabled { opacity: .8; }
+
+.chat-setup {
+  margin: 18px 0 4px;
+  font-family: var(--mono);
+  font-size: 11.5px;
+  color: var(--ink-soft);
+}
+.chat-setup summary { cursor: pointer; text-align: center; letter-spacing: .08em; }
+.names-grid {
+  margin-top: 10px;
+  background: var(--card);
+  border: 1px solid var(--paper-line);
+  border-radius: var(--radius);
+  padding: 14px;
+  display: grid;
+  gap: 8px;
+}
+.names-row { display: flex; align-items: center; gap: 8px; }
+.names-row span { width: 72px; text-align: right; }
+.names-row input {
+  flex: 1;
+  font-family: var(--serif-body);
+  font-size: 14px;
+  padding: 6px 10px;
+  border: 1px solid var(--paper-line);
+  border-radius: 8px;
+  background: var(--paper);
+  color: var(--ink);
+}
+.save-names {
+  font-family: var(--mono);
+  font-size: 12px;
+  font-weight: 700;
+  background: var(--board);
+  color: var(--amber);
+  border: none;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+  margin-top: 4px;
+}
+
 /* streak chip */
 .streak {
   display: flex;

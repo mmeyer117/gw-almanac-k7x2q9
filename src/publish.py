@@ -10,7 +10,7 @@ import json
 import os
 from datetime import date, timedelta
 
-from config import DOCS_DATA_DIR, REPORTS_DIR, SITE_NAME
+from config import DOCS_DATA_DIR, REPORTS_DIR, SITE_NAME, load_personas
 
 
 def write_report_json(report):
@@ -59,6 +59,7 @@ def rebuild_index():
 
     index = {
         "site": SITE_NAME,
+        "personas": load_personas(),
         "latest": dates[-1] if dates else None,
         "dates": list(reversed(dates)),
         "badges": badges,

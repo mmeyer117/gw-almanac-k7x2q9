@@ -49,6 +49,10 @@ only**. Real display names and the private chat header live exclusively in
 repository secret in Actions. Without either, everything still runs — output
 just uses personas. The site sets `noindex` and robots-disallows everything.
 
+The site's **📋 Copy for chat** button produces the message-formatted text for
+any day; the optional "chat names" panel substitutes real display names from
+that browser's localStorage only — never transmitted or committed.
+
 See [SETUP.md](SETUP.md) for deployment, [DECISIONS.md](DECISIONS.md) for
 architecture decisions and open questions, [CHANGELOG.md](CHANGELOG.md) for
 the change history.

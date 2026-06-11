@@ -82,32 +82,45 @@ on this day," which is what a calendar reader expects.
 
 ---
 
-## Part 2 — Decisions YOU need to make
+## Part 2 — Decision log (updated after user review, 2026-06-10)
 
-1. **Persona names** — I defaulted to Set C (Charlie, Frankie, Sasha, Robin,
-   Jordan, Riley) because it's gender-ambiguous. Sets A/B/D from the handoff
-   are one config edit + backfill re-run away. The current real↔persona
-   pairing is in `config/private.local.json` — review it.
-2. **Site name** — defaulted to "The Gateway Almanac" (the handoff's leading
-   candidate). Shown in the masthead, manifest, and `index.json`.
-3. **GitHub repo name / URL obscurity** — recommend something like
-   `gw-almanac-k7x2q9` (random suffix). Note honestly: a public repo is
-   discoverable via GitHub search regardless of the Pages URL — the real
-   protection is that nothing private is in it. If you want the repo itself
-   private, GitHub Pages then requires a paid plan; the free alternative is
-   Cloudflare Pages pointed at a private GitHub repo.
-4. **Public vs private repo** — public + personas (current design) is the
-   $0 path. Decide if that's acceptable or if you want the Cloudflare option.
-5. **Telegram bot** — needs you to create it with @BotFather and add two
-   secrets. SETUP.md walks through it (5 minutes).
-6. **GitHub identity** — no global git user is configured on this machine;
-   commits currently use a neutral local identity (`almanac-bot`). Run
-   `gh auth login` when ready to push.
-7. **Char limit behavior** — currently warns on stderr if the text exceeds
-   2,500 chars but doesn't trim (reports run ~1,600–2,000). Want auto-trim?
-8. **Sports facts review** — 135 entries are flagged "pending user review"
-   in the JSON. Spot-check, especially date-keyed ones. Growing toward 366
-   is an open task; the rotation handles any pool size meanwhile.
-9. **2026-06-07 / 06-09 / 05-24 market sections** — genuinely no Wayback
-   capture those days. Leave the gaps (honest) or backfill those three by
-   hand from memory of the week's news? I'd leave them.
+1. **Persona names — RESOLVED.** User wants male names keeping the real
+   initials (M, J, D, P, E, A). Chosen: **Paul, Archie, Jonas, Eli, Dexter,
+   Miles** — picked to avoid nickname-adjacency with the real names (no
+   Pete/Jack/Evan/Danny/Martin). Alternates with the same initials if any
+   feel off: Porter/Preston · August/Abel · Jasper/Jude · Emmett/Ezra ·
+   Duke/Drew · Max/Murphy. Changing later = edit `config/personas.json` +
+   `config/private.local.json` + secret, run `scripts/resync_personas.py`.
+2. **Site name — "The Gateway Almanac" accepted for now.** Alternatives on
+   file (all unindexed either way): *Mound City Almanac* (STL's 19th-century
+   nickname — obscure to outsiders), *Confluence Daily* (the rivers),
+   *Arch City Ledger*, *The Gateway Gazette*, *The Rivergate Register*; or
+   zero-STL options: *The Split-Flap*, *The Morning Board*. One constant in
+   `src/config.py` + masthead/manifest strings to change.
+3. **Hosting — staying on GitHub Pages (public repo + personas).**
+   Cloudflare Pages comparison for the record:
+   - *Pros*: repo could stay private at $0; unlimited bandwidth; pick-your-
+     own `*.pages.dev` subdomain (clean obscurity); deploys auto-trigger on
+     the daily data commit; arguably faster CDN.
+   - *Cons / extra stress*: one more account + dashboard to maintain;
+     a GitHub-app authorization to keep healthy; build config to define
+     once (trivial here: no build, output dir `docs`); deploy failures now
+     happen in a second system you have to check; free tier caps at 500
+     builds/month (daily commits ≈ 30 — fine, but a busy editing day counts
+     against it).
+   - *Verdict*: not needed unless the repo must go private. The current
+     design keeps nothing private in the repo, so public GitHub Pages stays
+     the zero-maintenance choice.
+4. **Telegram — deferred.** The site now has a **📋 Copy for chat** button on
+   every day view producing the exact iMessage-formatted text. Real names:
+   open "⚙ chat names" once on your phone, enter the mapping — it's stored
+   only in that browser's localStorage, never transmitted or committed.
+   `delivery.py` stays dormant until/unless secrets are added.
+5. **Sports facts — provisionally approved.** Goals recorded: uniqueness,
+   no repeats, interesting, sports-related. Rotation guarantees no
+   consecutive-day repeats; each general fact recurs ~3–4×/year ~98 days
+   apart until the pool grows toward 366.
+6. **Char limit — non-issue.** Warn-only stays (reports run ~1,300–2,000).
+7. **Still open**: `gh auth login` + repo creation + Pages enablement
+   (SETUP.md steps 1–2, minus the now-optional Telegram steps), facts
+   deep-review later, three honest market gaps left as-is.

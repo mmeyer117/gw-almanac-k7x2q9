@@ -125,6 +125,9 @@
         html += '<div class="streak"><span class="streak-chip">🔥 ' + streak + "-day reading streak</span></div>";
       }
 
+      // copy-for-chat action row
+      html += '<div class="action-row"><button class="copy-btn" id="copy-chat">📋 Copy for chat</button></div>';
+
       if (s.stl_sports && s.stl_sports.teams && s.stl_sports.teams.length) {
         var lines = s.stl_sports.teams.map(function (t) {
           var bits = "";
@@ -192,7 +195,18 @@
         html += card("The Roster", "🖐", '<div class="roster-row">' + chips + "</div>");
       }
 
+      // chat-name settings (stored only in this browser)
+      html += window.chatSettingsHTML(state.index.personas || []);
+
       $view.innerHTML = html || '<p class="empty-note">No report for this day.</p>';
+
+      var copyBtn = document.getElementById("copy-chat");
+      if (copyBtn) {
+        copyBtn.addEventListener("click", function () {
+          window.copyChatText(rep, copyBtn);
+        });
+      }
+      window.bindChatSettings($view);
     }).catch(function () {
       $view.innerHTML = '<p class="empty-note">Couldn’t load this day’s report.</p>';
     });

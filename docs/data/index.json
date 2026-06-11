@@ -1,5 +1,13 @@
 {
   "site": "The Gateway Almanac",
+  "personas": [
+    "Paul",
+    "Archie",
+    "Jonas",
+    "Eli",
+    "Dexter",
+    "Miles"
+  ],
   "latest": "2026-06-10",
   "dates": [
     "2026-06-10",

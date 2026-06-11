@@ -1,5 +1,22 @@
 # Changelog
 
+## v2.1 — 2026-06-10 (decision round)
+
+- **Personas renamed** per user: male names keeping real initials —
+  Paul, Archie, Jonas, Eli, Dexter, Miles. All 30 published reports and
+  state.json resynced via new `scripts/resync_personas.py` (pure-local,
+  no API calls; picks are seed-stable so real-person assignments held).
+- **📋 Copy for chat** button on every day view (`docs/js/share.js`):
+  rebuilds the exact iMessage-formatted text from the day's JSON in the
+  browser. Optional "⚙ chat names" panel maps personas to real display
+  names via localStorage only — nothing private is transmitted, stored
+  server-side, or committed. Verified byte-equivalent with the Python
+  renderer. Telegram remains optional/dormant.
+- `index.json` now carries the persona roster for the settings panel;
+  service worker bumped to ga-v2.
+- DECISIONS.md Part 2 updated: persona/site-name/hosting/Telegram/facts/
+  char-limit decisions logged, Cloudflare Pages trade-offs recorded.
+
 ## v2 — 2026-06-10 (this session)
 
 Full build-out from the v1 scaffold: pipeline fixes, privacy model, 30-day
