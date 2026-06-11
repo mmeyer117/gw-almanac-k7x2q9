@@ -24,7 +24,7 @@ scripts/             backfill.py (historical days), repair_missing.py
 config/              personas.json (public) · private.local.json (gitignored)
 docs/                the static site — GitHub Pages serves this directory
 docs/data/reports/   one JSON per day (personas only, no private names)
-.github/workflows/   daily.yml — 9 AM Central, DST-safe, commits data + sends Telegram
+.github/workflows/   daily.yml — 8 AM Central, DST-safe, commits data + sends Telegram
 state.json           weekly spotlight persistence (persona name only)
 ```
 

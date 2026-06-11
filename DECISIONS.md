@@ -87,10 +87,10 @@ on this day," which is what a calendar reader expects.
 1. **Persona names — RESOLVED.** User wants male names keeping the real
    initials (M, J, D, P, E, A). Chosen: **Porter, Archie, Jonas, Eli,
    Dexter, Miles** — picked to avoid nickname-adjacency with the real names
-   (no Pete/Jack/Evan/Danny/Martin; "Paul" was swapped for Porter on user
-   request). Remaining same-initial alternates if any feel off:
-   Preston/Patrick · August/Abel · Jasper/Jude · Emmett/Ezra · Duke/Drew ·
-   Max/Murphy. Changing later = edit `config/personas.json` +
+   (no Pete/Jack/Evan/Danny/Martin; "Paul" → Porter and "Miles" → Max were
+   swapped on user request). Remaining same-initial alternates if any feel
+   off: Preston/Patrick · August/Abel · Jasper/Jude · Emmett/Ezra ·
+   Duke/Drew · Murphy. Changing later = edit `config/personas.json` +
    `config/private.local.json` + secret, run `scripts/resync_personas.py`.
 2. **Site name — "The Gateway Almanac" accepted for now.** Alternatives on
    file (all unindexed either way): *Mound City Almanac* (STL's 19th-century

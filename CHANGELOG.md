@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.2 — 2026-06-11
+
+- Personas: "Miles" → **Max** (user request; earlier "Paul" → Porter).
+  Reports/state/index resynced; real-person assignments unchanged
+  (seed-stable).
+- Schedule moved **9:00 → 8:00 AM Central** (crons now 13:00/14:00 UTC,
+  guard hour 08) so the report is ready before anyone wants to share it.
+
 ## v2.1 — 2026-06-10 (decision round)
 
 - **Personas renamed** per user: male names keeping real initials —

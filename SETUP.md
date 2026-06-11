@@ -58,11 +58,11 @@ use persona names.
 ## 5. First run
 
 Repo → Actions → "Daily report" → **Run workflow** (manual runs bypass the
-9 AM gate). Confirm: Telegram message arrives, a new commit lands with
+8 AM gate). Confirm: Telegram message arrives, a new commit lands with
 `docs/data/reports/<today>.json`, and the site shows today.
 
-From then on it fires at 9:00 AM Central daily (DST handled by the dual
-cron + guard).
+From then on it fires at 8:00 AM Central daily (DST handled by the dual
+cron + guard) — early enough to share whenever the group wakes up.
 
 ## 6. Local development
 

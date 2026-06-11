@@ -2,11 +2,11 @@ name: Daily report
 
 on:
   schedule:
-    # Both fire so 9:00 AM America/Chicago is covered year-round:
-    # 14:00 UTC = 9 AM CDT (summer), 15:00 UTC = 9 AM CST (winter).
+    # Both fire so 8:00 AM America/Chicago is covered year-round:
+    # 13:00 UTC = 8 AM CDT (summer), 14:00 UTC = 8 AM CST (winter).
     # The guard step lets only the correct one proceed.
+    - cron: "0 13 * * *"
     - cron: "0 14 * * *"
-    - cron: "0 15 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -20,15 +20,15 @@ jobs:
   report:
     runs-on: ubuntu-latest
     steps:
-      - name: Check it is 9 AM Central (or a manual run)
+      - name: Check it is 8 AM Central (or a manual run)
         id: guard
         run: |
           HOUR=$(TZ=America/Chicago date +%H)
-          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$HOUR" = "09" ]; then
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "$HOUR" = "08" ]; then
             echo "Guard passed (CT hour: $HOUR)"
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Not 9 AM CT (hour: $HOUR) — this is the off-season cron. Skipping."
+            echo "Not 8 AM CT (hour: $HOUR) — this is the off-season cron. Skipping."
             echo "run=false" >> "$GITHUB_OUTPUT"
           fi
 
