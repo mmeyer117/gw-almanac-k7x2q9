@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-11",
+  "display_date": "Thursday, June 11, 2026",
+  "generated_at": "2026-06-11T13:58:35+00:00",
+  "sections": {
+    "word": {
+      "word": "Saturnine",
+      "part_of_speech": "adjective",
+      "definition": "Saturnine is a literary word that typically describes people who are glum and grumpy, or things that suggest or express gloom. It can also mean “slow to act or change.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-11"
+    },
+    "sports_fact": {
+      "text": "On June 11, 1997, Michael Jordan played the 'Flu Game' — visibly ill and barely able to stand, he scored 38 points to beat the Jazz in Game 5 of the Finals.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-10T23:10:00+00:00",
+            "team_score": "9",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-11T17:10:00+00:00",
+            "label": "Today 12:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Investors Shrug Off Iran Tensions, Oracle Earnings",
+      "summary": "Stocks open higher with oil trading in a tight range",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Someday I will understand Auschwitz. This was a brave statement but innocently absurd. No one will ever understand Auschwitz.",
+      "author": "William Styron"
+    },
+    "history": {
+      "year": 1157,
+      "text": "Albert I of Brandenburg, also called The Bear (Ger: Albrecht der Bär), becomes the founder of the Margraviate of Brandenburg, Germany and the first margrave."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
