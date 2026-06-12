@@ -2,13 +2,17 @@ name: Daily report
 
 on:
   schedule:
-    # Target: ~8:00 AM America/Chicago year-round.
-    # 12:50 UTC = 7:50 AM CDT (summer), 13:50 UTC = 7:50 AM CST (winter).
-    # Minute :50 dodges GitHub's congested top-of-hour cron slots, which
-    # routinely delay (hours) or drop :00 schedules. The guard below
-    # tolerates delays until noon CT and dedupes to one publish per day.
-    - cron: "50 12 * * *"
-    - cron: "50 13 * * *"
+    # HARD REQUIREMENT: report available by 8:45 AM America/Chicago.
+    # Earlier is fine. GitHub cron delays/drops individual slots, so four
+    # attempts an hour apart + the dedupe below = exactly one publish from
+    # whichever attempt lands first, with wide margin before the deadline.
+    # Summer (CDT): 5:20 / 6:20 / 7:20 / 8:20 AM CT.
+    # Winter (CST): 4:20 / 5:20 / 6:20 / 7:20 AM CT.
+    # Minute :20 dodges the congested top-of-hour slots.
+    - cron: "20 10 * * *"
+    - cron: "20 11 * * *"
+    - cron: "20 12 * * *"
+    - cron: "20 13 * * *"
   workflow_dispatch: {}
 
 permissions:
@@ -24,7 +28,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Decide whether to run (one publish per day, 7:45-11:59 CT)
+      - name: Decide whether to run (one publish per day, 4:00-11:59 CT)
         id: guard
         run: |
           TODAY=$(TZ=America/Chicago date +%F)
@@ -35,11 +39,11 @@ jobs:
           elif [ -f "docs/data/reports/$TODAY.json" ]; then
             echo "Report for $TODAY already published — nothing to do."
             echo "run=false" >> "$GITHUB_OUTPUT"
-          elif [ "$HM" -ge 745 ] && [ "$HM" -lt 1200 ]; then
+          elif [ "$HM" -ge 400 ] && [ "$HM" -lt 1200 ]; then
             echo "In window (CT $HM) — proceeding."
             echo "run=true" >> "$GITHUB_OUTPUT"
           else
-            echo "Outside window (CT $HM) — off-season cron or stale delay. Skipping."
+            echo "Outside window (CT $HM) — stale delay or odd hour. Skipping."
             echo "run=false" >> "$GITHUB_OUTPUT"
           fi
 

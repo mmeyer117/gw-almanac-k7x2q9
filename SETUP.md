@@ -61,10 +61,12 @@ Repo → Actions → "Daily report" → **Run workflow** (manual runs bypass the
 8 AM gate). Confirm: Telegram message arrives, a new commit lands with
 `docs/data/reports/<today>.json`, and the site shows today.
 
-From then on it publishes by ~8:00 AM Central daily (scheduled at 7:50 to
-dodge GitHub's congested top-of-hour cron slots; the guard tolerates cron
-drift until noon CT and publishes at most once per day, DST handled by the
-dual cron).
+From then on it publishes early morning daily: four cron attempts an hour
+apart (5:20-8:20 AM CT summer / 4:20-7:20 winter), whichever fires first
+wins, and the guard dedupes to exactly one publish per day. GitHub cron
+drift is tolerated until noon CT. Hard requirement: report ready by
+8:45 AM CT — the redundancy exists to make a miss require four
+independent cron failures.
 
 ## 6. Local development
 

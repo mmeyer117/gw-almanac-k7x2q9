@@ -1,5 +1,13 @@
 # Changelog
 
+## v2.4 — 2026-06-12
+
+- Schedule hardened around the user's hard deadline (report ready by
+  8:45 AM CT): four cron attempts an hour apart (10:20-13:20 UTC =
+  5:20-8:20 AM CT summer / 4:20-7:20 winter), guard window widened to
+  4:00-11:59 CT, dedupe unchanged (first attempt to land publishes,
+  the rest no-op).
+
 ## v2.3 — 2026-06-12
 
 - **Fix: morning run never fired.** GitHub's top-of-hour cron slots are
