@@ -61,8 +61,10 @@ Repo → Actions → "Daily report" → **Run workflow** (manual runs bypass the
 8 AM gate). Confirm: Telegram message arrives, a new commit lands with
 `docs/data/reports/<today>.json`, and the site shows today.
 
-From then on it fires at 8:00 AM Central daily (DST handled by the dual
-cron + guard) — early enough to share whenever the group wakes up.
+From then on it publishes by ~8:00 AM Central daily (scheduled at 7:50 to
+dodge GitHub's congested top-of-hour cron slots; the guard tolerates cron
+drift until noon CT and publishes at most once per day, DST handled by the
+dual cron).
 
 ## 6. Local development
 

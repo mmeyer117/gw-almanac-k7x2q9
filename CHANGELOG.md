@@ -1,5 +1,15 @@
 # Changelog
 
+## v2.3 — 2026-06-12
+
+- **Fix: morning run never fired.** GitHub's top-of-hour cron slots are
+  congested (the 13:00 UTC schedule was dropped entirely on 06-12, and a
+  06-11 cron arrived 3.5 h late only for the strict hour==08 guard to
+  skip it). Crons moved to 12:50/13:50 UTC (~7:50 AM CT), the guard now
+  accepts a 7:45–11:59 CT window, and a dedupe check (today's report file
+  already committed?) guarantees at most one publish per day. Runner also
+  rebases before pushing to avoid race failures.
+
 ## v2.2 — 2026-06-11
 
 - Personas: "Miles" → **Max** (user request; earlier "Paul" → Porter).
