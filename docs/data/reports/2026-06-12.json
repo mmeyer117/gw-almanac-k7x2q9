@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-12",
+  "display_date": "Friday, June 12, 2026",
+  "generated_at": "2026-06-12T14:13:10+00:00",
+  "sections": {
+    "word": {
+      "word": "Blandishment",
+      "part_of_speech": "noun",
+      "definition": "Blandishments are nice things that you say or do to convince someone to do something. Blandishment is usually used in the plural form.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-12"
+    },
+    "sports_fact": {
+      "text": "On June 12, 2019, the Blues won the Stanley Cup — Game 7 in Boston, 4-1 — their first championship in 52 seasons of trying, after sitting dead last in the league that January.",
+      "sport": "hockey"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Mets",
+            "is_home": false,
+            "venue": "Citi Field",
+            "datetime_utc": "2026-06-11T17:10:00+00:00",
+            "team_score": "4",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-13T00:10:00+00:00",
+            "label": "Today 7:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "SpaceX IPO Today: Investors Await Historic Test of Market",
+      "summary": "Stocks open mostly higher ahead of the biggest IPO ever",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I don't think about all the misery, but about the beauty that still remains. This is where Mother and I differ greatly. Her advice in the face of melancholy is: \"Think about all the suffering in the world and be thankful you're not part of it.\" My advice is: \"Go outside, to the country, enjoy the sun and all nature has to offer. Go outside and try to recapture the happiness within yourself; think of all the beauty in yourself and in everything around you and be happy.\"",
+      "author": "Anne Frank"
+    },
+    "history": {
+      "year": 1798,
+      "text": "Irish Rebellion of 1798: Battle of Ballynahinch."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
