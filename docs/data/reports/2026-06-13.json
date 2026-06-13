@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-13",
+  "display_date": "Saturday, June 13, 2026",
+  "generated_at": "2026-06-13T12:03:36+00:00",
+  "sections": {
+    "word": {
+      "word": "Hale",
+      "part_of_speech": "adjective",
+      "definition": "Someone described as hale is in good and often exceptional health. Hale is commonly used in the phrase \"hale and hearty.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-13"
+    },
+    "sports_fact": {
+      "text": "The Blues reached the Stanley Cup Final in each of their first three seasons (1968-70) — and were swept all three times. It took 49 more years to win it.",
+      "sport": "hockey"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-13T00:10:00+00:00",
+            "team_score": "8",
+            "opp_score": "9",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-13T18:10:00+00:00",
+            "label": "Today 1:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "How a Student’s Surefire Bet on Polymarket Went to Zero—Thanks to Fine Print",
+      "summary": "Prediction markets issue unilateral ‘clarifications’ over disputed betting contracts, upsetting traders on the losing side of wagers.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It's time for us to wake up and face the truth, that we are a captive species on a prison planet, but the fact that we are so close to understanding the science of our imprisonment means that we are also just beginning to touch the key that locks the door, and if we are strong, if we defy and defeat the sinister forces that rule us now, we have a chance at last to unlock this place and do what we are able to do, that we are richly capable of doing, that those who love us — and they are out there, too — have hoped and sought that we should do from time immemorial.",
+      "author": "Whitley Strieber"
+    },
+    "history": {
+      "year": 1994,
+      "text": "A jury in Anchorage, Alaska, blames recklessness by Exxon and Captain Joseph Hazelwood for the Exxon Valdez disaster, allowing victims of the oil spill to seek $15 billion in damages."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
