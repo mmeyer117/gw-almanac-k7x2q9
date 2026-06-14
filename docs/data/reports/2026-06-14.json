@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-14",
+  "display_date": "Sunday, June 14, 2026",
+  "generated_at": "2026-06-14T12:16:52+00:00",
+  "sections": {
+    "word": {
+      "word": "Emblazon",
+      "part_of_speech": "verb",
+      "definition": "To emblazon something is to decorate its surface, usually with a name, slogan, or picture.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-14"
+    },
+    "sports_fact": {
+      "text": "On June 14, 1998, Michael Jordan hit 'The Last Shot' over Bryon Russell to win his sixth title — 45 points in Game 6, the final shot of his Bulls career.",
+      "sport": "basketball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-13T18:10:00+00:00",
+            "team_score": "9",
+            "opp_score": "6",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-14T18:10:00+00:00",
+            "label": "Today 1:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "SpaceX Is Coming Early to Your Index. How Worried Should You Be?",
+      "summary": "Owen Lamont of Acadian Asset Management says the fast-tracking of mega IPOs shouldn’t keep passive investors up at night, but it isn’t great either.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "We’re going to have a UFC fight. We’re going to have a UFC fight — think of this — on the grounds of the White House. We have a lot of land there.",
+      "author": "Donald Trump"
+    },
+    "history": {
+      "year": 1800,
+      "text": "The French Army of First Consul Napoleon Bonaparte defeats the Austrians at the Battle of Marengo in Northern Italy and re-conquers Italy."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
