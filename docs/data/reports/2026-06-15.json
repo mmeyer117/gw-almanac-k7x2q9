@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-15",
+  "display_date": "Monday, June 15, 2026",
+  "generated_at": "2026-06-15T16:06:14+00:00",
+  "sections": {
+    "word": {
+      "word": "Tenuous",
+      "part_of_speech": "adjective",
+      "definition": "Something described as tenuous is flimsy, weak, or uncertain.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-15"
+    },
+    "sports_fact": {
+      "text": "On June 15, 1938, Johnny Vander Meer threw his second consecutive no-hitter — the only back-to-back no-nos in MLB history — in the first night game ever played at Ebbets Field.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Twins",
+            "is_home": false,
+            "venue": "Target Field",
+            "datetime_utc": "2026-06-14T18:10:00+00:00",
+            "team_score": "4",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Padres",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-15T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Charges Higher as Oil Prices Drop",
+      "summary": "Brent crude falls to its lowest level since early March",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Differences and problems among countries, hardly avoidable, need to be handled through dialogue and cooperation on the basis of equality and mutual respect. One country’s success does not have to mean another country’s failure, and the world is big enough to accommodate common development and progress of all countries.",
+      "author": "Xi Jinping"
+    },
+    "history": {
+      "year": 1972,
+      "text": "Cathay Pacific Flight 700Z is destroyed by a bomb over Pleiku, Vietnam (then South Vietnam) and kills 81 people."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
