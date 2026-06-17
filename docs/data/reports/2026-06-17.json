@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-17",
+  "display_date": "Wednesday, June 17, 2026",
+  "generated_at": "2026-06-17T14:03:16+00:00",
+  "sections": {
+    "word": {
+      "word": "Wifty",
+      "part_of_speech": "adjective",
+      "definition": "Wifty , a synonym of ditzy , describes something or someone eccentrically silly or scatterbrained.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-17"
+    },
+    "sports_fact": {
+      "text": "On June 17, 1994, the World Cup kicked off on US soil for the first time, at Soldier Field in Chicago. The tournament still holds the World Cup attendance record.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Padres",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-16T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Padres",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-17T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Fed Meeting Today: Tech Stocks Advance as Investors Await Rate Decision",
+      "summary": "SpaceX wavers after three days of gains",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I see the next few years as being crucial in the transformation of our culture away from the patriarchal death cults and toward the love of life, of nature, of the female principle.",
+      "author": "Starhawk"
+    },
+    "history": {
+      "year": 1922,
+      "text": "Portuguese naval aviators Gago Coutinho and Sacadura Cabral complete the first aerial crossing of the South Atlantic."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
