@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-19",
+  "display_date": "Friday, June 19, 2026",
+  "generated_at": "2026-06-19T13:51:03+00:00",
+  "sections": {
+    "word": {
+      "word": "Indomitable",
+      "part_of_speech": "adjective",
+      "definition": "Indomitable is a formal word used to describe something that is impossible to defeat or discourage.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-19"
+    },
+    "sports_fact": {
+      "text": "On June 19, 1846, the first organized baseball game under modern rules was played at Elysian Fields in Hoboken, New Jersey. The Knickerbockers — who wrote the rules — lost 23-1.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-18T23:40:00+00:00",
+            "team_score": "6",
+            "opp_score": "14",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-20T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Why Apple’s War Chest Can’t Win the Memory War",
+      "summary": "The iPhone maker’s clout as a buyer has taken a major hit from the AI boom.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Juneteenth has never been a celebration of victory, or an acceptance of the way things are. It's a celebration of progress. It's an affirmation that despite the most painful parts of our history, change is possible –– and there is still so much work to do.",
+      "author": "Barack Obama"
+    },
+    "history": {
+      "year": 1921,
+      "text": "The village of Knockcroghery, Ireland, is burned by British forces."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
