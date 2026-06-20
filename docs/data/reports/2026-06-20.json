@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-20",
+  "display_date": "Saturday, June 20, 2026",
+  "generated_at": "2026-06-20T12:11:32+00:00",
+  "sections": {
+    "word": {
+      "word": "Longueur",
+      "part_of_speech": "noun",
+      "definition": "Longueur refers to a boring part of something (such as a book or play). It is usually used in the plural form.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-20"
+    },
+    "sports_fact": {
+      "text": "Frank Zamboni invented his ice-resurfacing machine in 1949 for his Southern California rink. The family company still makes them, and his name became the word.",
+      "sport": "hockey"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-20T00:15:00+00:00",
+            "team_score": "5",
+            "opp_score": "6",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-21T18:10:00+00:00",
+            "label": "Tomorrow 1:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "One Investor’s Race to Get $80 Million Out of Private Credit",
+      "summary": "Many are waiting in line to get their money out of the once-popular asset class as redemption requests accelerate.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If there's not love present, it's much, much harder to function. When there's love present, it's easier to deal with life.",
+      "author": "Brian Wilson"
+    },
+    "history": {
+      "year": 1944,
+      "text": "World War II: During the Continuation War, the Soviet Union demands unconditional surrender from Finland during the beginning of partially successful Vyborg–Petrozavodsk Offensive. The Finnish government refuses."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
