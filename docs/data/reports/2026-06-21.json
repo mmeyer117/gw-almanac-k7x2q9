@@ -1,0 +1,62 @@
+{
+  "date": "2026-06-21",
+  "display_date": "Sunday, June 21, 2026",
+  "generated_at": "2026-06-21T12:21:39+00:00",
+  "sections": {
+    "word": {
+      "word": "Assiduous",
+      "part_of_speech": "adjective",
+      "definition": "Assiduous is a formal word that means “showing great care, attention, and effort.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-21"
+    },
+    "sports_fact": {
+      "text": "Tom Dempsey, born without toes on his kicking foot, hit a 63-yard field goal in 1970 — a record that stood for 43 years.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-21T18:10:00+00:00",
+            "label": "Today 1:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "All the Money Flooding Into AI Is a Giant Warning Sign",
+      "summary": "When companies as a group turn into sellers, it’s a reasonable sign that stocks are very overpriced.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The more complex the world situation becomes, the more scientific and rational analysis you have to have, the less you can do with simple good will and sentiment.",
+      "author": "Reinhold Niebuhr"
+    },
+    "history": {
+      "year": 1957,
+      "text": "Ellen Fairclough is sworn in as Canada's first female Cabinet Minister."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
