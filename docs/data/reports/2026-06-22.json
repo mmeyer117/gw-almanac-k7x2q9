@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-22",
+  "display_date": "Monday, June 22, 2026",
+  "generated_at": "2026-06-22T15:33:13+00:00",
+  "sections": {
+    "word": {
+      "word": "Cavalcade",
+      "part_of_speech": "noun",
+      "definition": "Cavalcade most often refers to a series of related things. An older meaning, still in use, is “a procession of riders or carriages”; vehicles or ships in a procession can be referred to as a cavalcade too.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-22"
+    },
+    "sports_fact": {
+      "text": "The largest blowout in NFL history is the 1940 championship: Bears 73, Washington 0. Washington had beaten the Bears three weeks earlier.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Royals",
+            "is_home": false,
+            "venue": "Kauffman Stadium",
+            "datetime_utc": "2026-06-21T18:10:00+00:00",
+            "team_score": "12",
+            "opp_score": "10",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-22T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Slides on Signs of Progress in U.S.-Iran Talks",
+      "summary": "Dow advances after JD Vance says Tehran agreed to allow nuclear inspectors back in",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The aim of those who try to control thought is always the same. They find one single explanation of the world, one system of thought and action that will (they believe) cover everything; and then they try to impose that on all thinking people.",
+      "author": "Gilbert Highet"
+    },
+    "history": {
+      "year": 1633,
+      "text": "The Holy Office in Rome forces Galileo Galilei to recant his view that the Sun, not the Earth, is the center of the Universe in the form he presented it in, after heated controversy."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
