@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-23",
+  "display_date": "Tuesday, June 23, 2026",
+  "generated_at": "2026-06-23T12:48:21+00:00",
+  "sections": {
+    "word": {
+      "word": "Quail",
+      "part_of_speech": "verb",
+      "definition": "To quail is to feel afraid and often to show your fear in a way that can be clearly seen.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-23"
+    },
+    "sports_fact": {
+      "text": "On June 23, 1972, Title IX was signed into law. Women's sports scholarships were nearly nonexistent then; the law transformed American athletics within a generation.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-22T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-23T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Selloff Deepens",
+      "summary": "Global markets in the red; Nasdaq futures slide",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Each of our lives is a Shakespearean drama raised to the thousandth degree. Mute separations, mute black, bloody events in every family. Invisible mourning worn by mothers and wives. Now the arrested are returning, and two Russias stare each other in the eyes: the ones that put them in prison and the ones who were put in prison. A new epoch has begun. You and I will wait for it together.",
+      "author": "Anna Akhmatova"
+    },
+    "history": {
+      "year": 1972,
+      "text": "Watergate scandal: U.S. President Richard M. Nixon and White House Chief of Staff H. R. Haldeman are taped talking about illegally using the Central Intelligence Agency to obstruct the Federal Bureau of Investigation's investigation into the Watergate break-ins."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
