@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-24",
+  "display_date": "Wednesday, June 24, 2026",
+  "generated_at": "2026-06-24T12:29:56+00:00",
+  "sections": {
+    "word": {
+      "word": "Pantheon",
+      "part_of_speech": "noun",
+      "definition": "Pantheon usually refers to a group of famous or notable people or things. It also refers to the officially recognized gods of a particular people, as well as to the Roman Pantheon, the domed temple begun in 27 B.C. and rebuilt circa 118-128 A.D.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-24"
+    },
+    "sports_fact": {
+      "text": "The 1972 Dolphins remain the NFL's only perfect season at 17-0 — and their starting QB missed most of the year with a broken leg.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-23T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-24T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Rout Pauses, but Focus Stays Firmly on AI",
+      "summary": "Nasdaq futures point to positive open, oil prices continue to fall",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A popular author is one who writes what the people think. Genius invites them to think something else.",
+      "author": "Ambrose Bierce"
+    },
+    "history": {
+      "year": 1866,
+      "text": "Battle of Custoza: An Austrian army defeats the Italian army during the Austro-Prussian War."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
