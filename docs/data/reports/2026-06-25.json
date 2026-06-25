@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-25",
+  "display_date": "Thursday, June 25, 2026",
+  "generated_at": "2026-06-25T12:33:43+00:00",
+  "sections": {
+    "word": {
+      "word": "Jaundiced",
+      "part_of_speech": "adjective",
+      "definition": "Jaundiced means “showing or influenced by feelings of distrust, distaste, or hostility.” Someone described as jaundiced, or as possessing jaundiced opinions or views, is typically understood to feel that way because of negative past experiences.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-25"
+    },
+    "sports_fact": {
+      "text": "The first pick of the first NFL draft in 1936, Heisman winner Jay Berwanger, never played a pro down — he asked for $1,000 a game and no one would pay it.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-24T23:45:00+00:00",
+            "team_score": "4",
+            "opp_score": "9",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-25T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Micron Earnings Spark Tech Rebound",
+      "summary": "Nasdaq poised to rally after memory-chip maker quells AI doubts; oil within touching distance of prewar levels",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I am well acquainted with all the arguments against freedom of thought and speech — the arguments which claim that it cannot exist, and the arguments which claim that it ought not to. I answer simply that they don't convince me and that our civilization over a period of four hundred years has been founded on the opposite notice.",
+      "author": "George Orwell"
+    },
+    "history": {
+      "year": 1678,
+      "text": "Venetian Elena Cornaro Piscopia is the first woman awarded a doctorate of philosophy when she graduates from the University of Padua."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
