@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-26",
+  "display_date": "Friday, June 26, 2026",
+  "generated_at": "2026-06-26T12:27:13+00:00",
+  "sections": {
+    "word": {
+      "word": "Symbiosis",
+      "part_of_speech": "noun",
+      "definition": "Symbiosis is a formal word that refers to a relationship between two people or groups that work with and depend on each other. In biology, symbiosis refers to the relationship between two different kinds of living things that live together and depend on each other.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-26"
+    },
+    "sports_fact": {
+      "text": "Kurt Warner was stocking grocery shelves in Iowa five years before leading the Rams to a Super Bowl title and winning two MVPs.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-27T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Futures Fall as Tech Selloff Deepens",
+      "summary": "Chip makers lead declines; oil edges closer to pre-war levels",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "What goes up must come down Spinnin' wheel gotta go 'round Talking about your troubles is a crying sin Ride a painted pony, let the spinnin' wheel spin.",
+      "author": "David Clayton-Thomas"
+    },
+    "history": {
+      "year": 1948,
+      "text": "William Shockley files the original patent for the grown-junction transistor, the first bipolar junction transistor."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
