@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-27",
+  "display_date": "Saturday, June 27, 2026",
+  "generated_at": "2026-06-27T11:47:51+00:00",
+  "sections": {
+    "word": {
+      "word": "Oracular",
+      "part_of_speech": "adjective",
+      "definition": "Oracular is a formal word that can describe something used to forecast or prophesize, or something that resembles or relates to something used for such purposes. Oracular can also describe something that resembles an oracle —a person (such as a priestess of ancient Greece) through whom a deity is believed to speak; in this sense, an oracular statement, voice, etc. conveys wisdom or solemnity.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-27"
+    },
+    "sports_fact": {
+      "text": "Marshall Faulk piled up 2,429 yards from scrimmage for the 1999 Rams — a record at the time — as the engine of the Greatest Show on Turf.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-27T00:15:00+00:00",
+            "team_score": "0",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-27T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Rally Collides With a New Slate of Worries",
+      "summary": "The S&amp;P 500 and Nasdaq composite fell in every session this week.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I love to labor with my head and my hands, I am an optimist in spite of all. I used to think I should be thwarted in my desire to do something useful. But I have found out that though the ways in which I can make myself useful are few, yet the work open to me is endless.",
+      "author": "Helen Keller"
+    },
+    "history": {
+      "year": 1898,
+      "text": "The first solo circumnavigation of the globe is completed by Joshua Slocum from Briar Island, Nova Scotia."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
