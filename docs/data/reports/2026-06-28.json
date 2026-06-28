@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-28",
+  "display_date": "Sunday, June 28, 2026",
+  "generated_at": "2026-06-28T11:58:53+00:00",
+  "sections": {
+    "word": {
+      "word": "Gainsay",
+      "part_of_speech": "verb",
+      "definition": "To gainsay something is to deny or disagree with it, or to show or say that it is not true. Gainsay is a formal word usually used in negative statements.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-28"
+    },
+    "sports_fact": {
+      "text": "Deion Sanders is the only person to play in both a Super Bowl and a World Series. He also once played in an NFL and MLB game in the same week.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-27T23:15:00+00:00",
+            "team_score": "1",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-28T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "How Some Private-Equity Managers Collect Big Fees on Paper Gains",
+      "summary": "The fee structures are among the pitfalls of investing in semiliquid funds.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Mindsets play strange tricks on us. We see things the way our minds have instructed our eyes to see. To overcome poverty and the flaws of the economic crisis in our society, we need to envision our social life. We have to free our mind, imagine what has never happened before and write social fiction. We need to imagine things to make them happen. If you don't imagine, it will never happen.",
+      "author": "Muhammad Yunus"
+    },
+    "history": {
+      "year": 1575,
+      "text": "Sengoku period of Japan: The combined forces of Oda Nobunaga and Tokugawa Ieyasu are victorious in the Battle of Nagashino."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
