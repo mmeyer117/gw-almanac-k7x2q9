@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-29",
+  "display_date": "Monday, June 29, 2026",
+  "generated_at": "2026-06-29T14:20:05+00:00",
+  "sections": {
+    "word": {
+      "word": "Umami",
+      "part_of_speech": "noun",
+      "definition": "Umami refers to the taste sensation that is produced by several amino acids and nucleotides and that has a rich or meaty flavor characteristic of cheese, cooked meat, mushrooms, soy, and ripe tomatoes.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-29"
+    },
+    "sports_fact": {
+      "text": "Walter Payton missed one game in 13 NFL seasons — as a rookie — and was furious about it for years.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Marlins",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-06-28T18:15:00+00:00",
+            "team_score": "2",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Braves",
+            "is_home": false,
+            "venue": "Truist Park",
+            "datetime_utc": "2026-06-30T23:15:00+00:00",
+            "label": "Tomorrow 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Rises, Signaling End to Tech Rout",
+      "summary": "Comcast jumps on plan to split in two, oil ticks up",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Every nation is selfish and every nation considers its selfishness sacred.",
+      "author": "Antoine de Saint-Exupéry"
+    },
+    "history": {
+      "year": 1995,
+      "text": "Space Shuttle program: STS-71 Mission (Atlantis) docks with the Russian space station Mir for the first time."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
