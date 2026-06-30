@@ -1,0 +1,65 @@
+{
+  "date": "2026-06-30",
+  "display_date": "Tuesday, June 30, 2026",
+  "generated_at": "2026-06-30T12:25:01+00:00",
+  "sections": {
+    "word": {
+      "word": "Bereft",
+      "part_of_speech": "adjective",
+      "definition": "To be bereft is to be deprived or robbed of something, or to lack something that you need, want, or expect. Bereft is also used as a synonym of bereaved .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-06-30"
+    },
+    "sports_fact": {
+      "text": "In 1916, Georgia Tech beat Cumberland College 222-0. Cumberland had dropped its football program; a contract clause forced them to show up anyway.",
+      "sport": "college football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Braves",
+            "is_home": false,
+            "venue": "Truist Park",
+            "datetime_utc": "2026-06-30T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq On Track to Wrap Quarter With 20% Gain",
+      "summary": "S&amp;P 500 also set to log best performance since 2020, defying war and AI jitters",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I hate the man who builds his name On ruins of another's fame. Thus prudes, by characters o'erthrown, Imagine that they raise their own. Thus Scribblers, covetous of praise, Think slander can transplant the bays.",
+      "author": "John Gay"
+    },
+    "history": {
+      "year": 1906,
+      "text": "The United States Congress passes the Meat Inspection Act and Pure Food and Drug Act."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
