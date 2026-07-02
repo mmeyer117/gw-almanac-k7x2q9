@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-02",
+  "display_date": "Thursday, July 2, 2026",
+  "generated_at": "2026-07-02T12:21:58+00:00",
+  "sections": {
+    "word": {
+      "word": "Sagacious",
+      "part_of_speech": "adjective",
+      "definition": "Someone or something described as sagacious has or shows an ability to understand difficult ideas and situations and to make good decisions. Sagacious may be considered a formal synonym of wise and discerning .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-02"
+    },
+    "sports_fact": {
+      "text": "When England lost to the US 1-0 at the 1950 World Cup — maybe the biggest upset in the sport's history — five of the American starters were from St. Louis.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Braves",
+            "is_home": false,
+            "venue": "Truist Park",
+            "datetime_utc": "2026-07-01T23:15:00+00:00",
+            "team_score": "1",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Braves",
+            "is_home": false,
+            "venue": "Truist Park",
+            "datetime_utc": "2026-07-02T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Global Tech Stocks Struggle Ahead of Jobs Report",
+      "summary": "Nasdaq futures slip; Brent crude trades below prewar level",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "These people were worthy of love and admiration in their blind loyalty, in their blind strength and tenacity. With the exception of one small thing, one tiny little thing, they lacked nothing that the sage and thinker had, and that was the consciousness of the unity of all life. ~",
+      "author": "Hermann Hesse"
+    },
+    "history": {
+      "year": 1966,
+      "text": "France conducts its first nuclear weapon test in the Pacific, on Moruroa Atoll."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
