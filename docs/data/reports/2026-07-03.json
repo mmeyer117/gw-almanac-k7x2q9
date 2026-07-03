@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-03",
+  "display_date": "Friday, July 3, 2026",
+  "generated_at": "2026-07-03T12:20:30+00:00",
+  "sections": {
+    "word": {
+      "word": "Corrode",
+      "part_of_speech": "verb",
+      "definition": "Corrode means \"to slowly break apart and destroy (metal, an object, etc.) through a chemical process\" or \"to undergo such a process.\" It is also used as a synonym of undermine to mean \"to gradually destroy or weaken.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-03"
+    },
+    "sports_fact": {
+      "text": "The original World Cup trophy was stolen in London in 1966 and found a week later by a dog named Pickles. Stolen again in Brazil in 1983, it was never recovered.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Braves",
+            "is_home": false,
+            "venue": "Truist Park",
+            "datetime_utc": "2026-07-02T23:15:00+00:00",
+            "team_score": "11",
+            "opp_score": "5",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-07-03T20:05:00+00:00",
+            "label": "Today 3:05 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Software Loans Hit Rough Patch Even Before AI Fears Triggered SaaS-Pocalypse",
+      "summary": "The share of private software debt down more than 20% was higher in 2025 than at any time in the past five years.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "In the struggle between yourself and the world, back the world.",
+      "author": "Franz Kafka"
+    },
+    "history": {
+      "year": 1839,
+      "text": "The first state normal school in the United States, the forerunner to today's Framingham State University, opens in Lexington, Massachusetts with three students."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
