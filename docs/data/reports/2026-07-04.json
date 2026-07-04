@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-04",
+  "display_date": "Saturday, July 4, 2026",
+  "generated_at": "2026-07-04T11:47:12+00:00",
+  "sections": {
+    "word": {
+      "word": "Semiquincentennial",
+      "part_of_speech": "noun",
+      "definition": "Semiquincentennial refers to a 250th anniversary or its celebration. The word can also be used as an adjective to describe something related to or associated with such an anniversary or its celebration, as in “semiquincentennial festivities.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-04"
+    },
+    "sports_fact": {
+      "text": "On July 4, 1939, Lou Gehrig told a packed Yankee Stadium, 'Today I consider myself the luckiest man on the face of the earth' — two weeks after his ALS diagnosis.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-07-03T20:05:00+00:00",
+            "team_score": "17",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-07-05T00:08:00+00:00",
+            "label": "Today 7:08 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Small Stocks Are Having Their Biggest Run in Decades",
+      "summary": "The Russell 2000 has climbed some 22% in the first six months of the year.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness. — That to secure these rights, Governments are instituted among Men, deriving their just powers from the consent of the governed, — That whenever any Form of Government becomes destructive of these ends, it is the Right of the People to alter or to abolish it, and to institute new Government, laying its foundation on such principles and organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.",
+      "author": "United States Declaration of Independence"
+    },
+    "history": {
+      "year": 1894,
+      "text": "The short-lived Republic of Hawaii is proclaimed by Sanford B. Dole."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
