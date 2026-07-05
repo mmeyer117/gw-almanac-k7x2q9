@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-05",
+  "display_date": "Sunday, July 5, 2026",
+  "generated_at": "2026-07-05T11:48:31+00:00",
+  "sections": {
+    "word": {
+      "word": "Acquisitive",
+      "part_of_speech": "adjective",
+      "definition": "Someone or something described as acquisitive is characterized by a strong desire to own or acquire more things.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-05"
+    },
+    "sports_fact": {
+      "text": "Marta has scored 17 World Cup goals — more than any player in history, men's or women's tournament.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-07-05T00:08:00+00:00",
+            "team_score": "3",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-07-05T18:30:00+00:00",
+            "label": "Today 1:30 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Liquor Stocks Are Priced for a Big Tobacco Moment",
+      "summary": "Declines in drinking are hurting distillers’ shares, but has the selloff gone too far?",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "He is now to be among you at the calling of your hearts Rest assured this troubadour is acting on His part. The union of your spirits, here, has caused Him to remain For whenever two or more of you are gathered in His name There is Love, there is Love.",
+      "author": "Paul Stookey"
+    },
+    "history": {
+      "year": 1809,
+      "text": "The Battle of Wagram between the French and Austrian Empires begins."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
