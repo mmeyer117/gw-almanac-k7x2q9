@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-09",
+  "display_date": "Thursday, July 9, 2026",
+  "generated_at": "2026-07-09T13:59:17+00:00",
+  "sections": {
+    "word": {
+      "word": "Tacit",
+      "part_of_speech": "adjective",
+      "definition": "Tacit is a formal adjective used to describe something that is expressed or understood without being directly stated.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-09"
+    },
+    "sports_fact": {
+      "text": "The longest tennis match ever lasted 11 hours and 5 minutes over three days: Isner beat Mahut 70-68 in the fifth set at Wimbledon 2010. The scoreboard wasn't programmed to go that high.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-08T23:45:00+00:00",
+            "team_score": "5",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Brewers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-09T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Investors Take Mideast Tensions in Stride",
+      "summary": "Nasdaq gains; oil stabilizes after yesterday's jump",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If we are to change our world view, images have to change. The artist now has a very important job to do. He's not a little peripheral figure entertaining rich people, he's really needed.",
+      "author": "David Hockney"
+    },
+    "history": {
+      "year": 1386,
+      "text": "The Old Swiss Confederacy makes great strides in establishing control over its territory by soundly defeating the Duchy of Austria in the Battle of Sempach."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
