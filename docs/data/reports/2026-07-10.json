@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-10",
+  "display_date": "Friday, July 10, 2026",
+  "generated_at": "2026-07-10T12:37:42+00:00",
+  "sections": {
+    "word": {
+      "word": "Effulgence",
+      "part_of_speech": "noun",
+      "definition": "Effulgence means “radiant splendor” or “brilliance.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-10"
+    },
+    "sports_fact": {
+      "text": "Serena Williams won the 2017 Australian Open — her 23rd major — while eight weeks pregnant, without dropping a set.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-09T23:45:00+00:00",
+            "team_score": "4",
+            "opp_score": "8",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Braves",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-11T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Futures Slip Ahead of SK Hynix Debut",
+      "summary": "Chip maker raises $26.51 billion in U.S. listing",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Once upon a time I was falling in love But now I'm only falling apart There's nothing I can do A total eclipse of the heart Once upon a time there was light in my life But now there's only love in the dark Nothing I can say A total eclipse of the heart.",
+      "author": "Jim Steinman"
+    },
+    "history": {
+      "year": 1212,
+      "text": "The most severe of several early fires of London burns most of the city to the ground."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
