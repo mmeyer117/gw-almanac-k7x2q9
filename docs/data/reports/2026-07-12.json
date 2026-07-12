@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-12",
+  "display_date": "Sunday, July 12, 2026",
+  "generated_at": "2026-07-12T11:32:43+00:00",
+  "sections": {
+    "word": {
+      "word": "Fulcrum",
+      "part_of_speech": "noun",
+      "definition": "In technical use, fulcrum refers to the support on which a lever moves when it is used to lift something. In figurative use, fulcrum refers to a person or thing that makes it possible for something to function or develop, or in other words, one who plays an essential role in something.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-12"
+    },
+    "sports_fact": {
+      "text": "Billie Jean King founded the WTA in 1973 and pushed the US Open to become the first major with equal prize money — that same year.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Braves",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-11T23:15:00+00:00",
+            "team_score": "4",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Braves",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-12T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Can AI Make Better Drugs? Not on Wall Street’s Timeline",
+      "summary": "The technology has arrived in the drug lab. But should investors pay up for it?",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The best preparation for tomorrow is to do today's work superbly well.",
+      "author": "William Osler"
+    },
+    "history": {
+      "year": 1812,
+      "text": "The American Army of the Northwest briefly occupies the Upper Canadian settlement at what is now at Windsor, Ontario."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
