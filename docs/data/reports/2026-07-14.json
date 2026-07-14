@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-14",
+  "display_date": "Tuesday, July 14, 2026",
+  "generated_at": "2026-07-14T11:45:50+00:00",
+  "sections": {
+    "word": {
+      "word": "Yaw",
+      "part_of_speech": "verb",
+      "definition": "The verb yaw when used for the action of a ship, aircraft, spacecraft, or projectile means \"to move to the left or right especially in an uncontrolled manner.\" More broadly, yaw is used as a synonym of alternate to mean \"to change from one to another repeatedly.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-14"
+    },
+    "sports_fact": {
+      "text": "Tiger Woods held all four major titles at once in 2000-01 — the 'Tiger Slam.' No golfer had done it since the modern Grand Slam existed.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field",
+            "datetime_utc": "2026-07-18T01:40:00+00:00",
+            "label": "Fri 7/17, 8:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Thu 7/16, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Goldman Sachs Posts Record Quarter as Bank Earnings Kick Off",
+      "summary": "Results due from Citigroup shortly; oil extends climb",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If I've made a film that turns out to be good, that's a good result. If I've made a film that's good and made a couple of friends, that's a great result. If I've made a film that's no good, but I made a friend, that's still another great result. It’s at a time like now that the importance of other people is thrown into even sharper relief. You realise who your friends are. You know where the love is.",
+      "author": "Sam Neill"
+    },
+    "history": {
+      "year": 1853,
+      "text": "Opening of the first major US world's fair, the Exhibition of the Industry of All Nations in New York City."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
