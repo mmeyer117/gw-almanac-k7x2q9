@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-15",
+  "display_date": "Wednesday, July 15, 2026",
+  "generated_at": "2026-07-15T11:50:19+00:00",
+  "sections": {
+    "word": {
+      "word": "Loquacious",
+      "part_of_speech": "adjective",
+      "definition": "Loquacious means “liking to talk and talking smoothly and easily.” Someone described as loquacious might also be called wordy (prone to using more words than necessary) or garrulous (tending to talk a lot).",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-15"
+    },
+    "sports_fact": {
+      "text": "Jack Nicklaus won 18 majors, including a sixth Masters at age 46 — shooting 30 on the back nine on Sunday.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field",
+            "datetime_utc": "2026-07-18T01:40:00+00:00",
+            "label": "Fri 7/17, 8:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Looks to Build on Tuesday Rally",
+      "summary": "Morgan Stanley earnings beat estimates; U.S. crude approaches $80 a barrel",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There is a secret agreement between past generations and the present one. Our coming was expected on earth. Like every generation that preceded us, we have been endowed with a weak Messianic power, a power to which the past has a claim. That claim cannot be settled cheaply.",
+      "author": "Walter Benjamin"
+    },
+    "history": {
+      "year": 1482,
+      "text": "Muhammad XI is crowned the twenty-second and last Nasrid king of Granada."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
