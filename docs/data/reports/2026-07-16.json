@@ -1,0 +1,65 @@
+{
+  "date": "2026-07-16",
+  "display_date": "Thursday, July 16, 2026",
+  "generated_at": "2026-07-16T11:54:34+00:00",
+  "sections": {
+    "word": {
+      "word": "Bibelot",
+      "part_of_speech": "noun",
+      "definition": "A bibelot is a small household ornament or decorative object.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-16"
+    },
+    "sports_fact": {
+      "text": "On July 16, 1950, Uruguay silenced roughly 200,000 fans at the Maracanã by beating Brazil 2-1 in the World Cup's deciding match — the 'Maracanazo,' still soccer's greatest upset.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field (NH)",
+            "datetime_utc": "2026-07-18T01:40:00+00:00",
+            "label": "Tomorrow 8:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Set to Open Lower as Chip Stocks Come Under Pressure",
+      "summary": "Oil prices hold steady",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I am myself, though from moment to moment something else seems to be looking on. Whatever will be required of me, however, can best be done if I remember who I am.",
+      "author": "Sheri S. Tepper"
+    },
+    "history": {
+      "year": 1948,
+      "text": "Following token resistance, the city of Nazareth, revered by Christians as the hometown of Jesus, capitulates to Israeli troops during Operation Dekel in the 1948 Arab–Israeli War."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
