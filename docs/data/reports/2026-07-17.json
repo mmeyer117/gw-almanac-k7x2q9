@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-17",
+  "display_date": "Friday, July 17, 2026",
+  "generated_at": "2026-07-17T11:42:06+00:00",
+  "sections": {
+    "word": {
+      "word": "Obdurate",
+      "part_of_speech": "adjective",
+      "definition": "Obdurate is a formal word that means \"resistant to persuasion.\" It is usually used to describe someone who is not willing to change their methods or opinions, or something that is not easily altered.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-17"
+    },
+    "sports_fact": {
+      "text": "Annika Sörenstam shot 59 in 2001 — still the only sub-60 round in LPGA history.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field",
+            "datetime_utc": "2026-07-18T01:40:00+00:00",
+            "label": "Today 8:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Kansas City",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-17T00:30:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Wed 7/22, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Futures Drop as Chip Selloff Deepens",
+      "summary": "Netflix shares slide after the streamer warns of weaker growth",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It often falls, in course of common life, That right long time is overborne of wrong, Through avarice, or power, or guile, or strife; But justice, though her doom she do prolong, Yet, at the last, she will her own cause right.",
+      "author": "Edmund Spenser"
+    },
+    "history": {
+      "year": 1918,
+      "text": "Tsar Nicholas II of Russia and his immediate family and retainers are executed by Bolshevik Chekists at the Ipatiev House in Yekaterinburg, Russia."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
