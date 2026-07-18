@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-18",
+  "display_date": "Saturday, July 18, 2026",
+  "generated_at": "2026-07-18T11:18:27+00:00",
+  "sections": {
+    "word": {
+      "word": "Quid Pro Quo",
+      "part_of_speech": "noun",
+      "definition": "Quid pro quo refers to something that is given to you or done for you in return for something you have given to or done for someone else.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-18"
+    },
+    "sports_fact": {
+      "text": "The Masters green jacket must stay at Augusta National — champions get to keep it at home for exactly one year, then return it to the club.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field (NH)",
+            "datetime_utc": "2026-07-18T01:40:00+00:00",
+            "team_score": "5",
+            "opp_score": "4",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field (NH)",
+            "datetime_utc": "2026-07-18T20:10:00+00:00",
+            "label": "Today 3:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Wed 7/22, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "The Investors With a New Way to Win in Silicon Valley",
+      "summary": "How venture-capital firms are rewriting the rules in a once-in-a-lifetime IPO boom",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The only ones left with any confidence at all are the New Dumb. It is the beginning of the end of our world as we knew it. Doom is the operative ethic.",
+      "author": "Hunter S. Thompson"
+    },
+    "history": {
+      "year": 1979,
+      "text": "A landslide occurs on the Iliwerung volcano in Indonesia, triggering a tsunami that kills over 530 and leaves 700 missing."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
