@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-19",
+  "display_date": "Sunday, July 19, 2026",
+  "generated_at": "2026-07-19T11:31:35+00:00",
+  "sections": {
+    "word": {
+      "word": "Accentuate",
+      "part_of_speech": "verb",
+      "definition": "To accentuate something is to make it more noticeable.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-19"
+    },
+    "sports_fact": {
+      "text": "Eddie Eagan is the only athlete to win gold at both the Summer and Winter Olympics in different sports: boxing in 1920, bobsled in 1932.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field (NH)",
+            "datetime_utc": "2026-07-18T20:10:00+00:00",
+            "team_score": "3",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field (NH)",
+            "datetime_utc": "2026-07-19T20:10:00+00:00",
+            "label": "Today 3:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Wed 7/22, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Big Food Is Running Out of Moves With Shoppers and Investors",
+      "summary": "Investors have rightly given up on companies such as General Mills and Kraft Heinz, which are squeezed by everything from inflation to GLP-1s.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Even if my country remains at war with yours … remember … I am not your enemy.",
+      "author": "A. J. Cronin"
+    },
+    "history": {
+      "year": 64,
+      "text": "The Great Fire of Rome causes widespread devastation and rages on for six days, destroying half of the city."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
