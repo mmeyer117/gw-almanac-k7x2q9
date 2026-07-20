@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-20",
+  "display_date": "Monday, July 20, 2026",
+  "generated_at": "2026-07-20T12:26:24+00:00",
+  "sections": {
+    "word": {
+      "word": "Raffish",
+      "part_of_speech": "adjective",
+      "definition": "Raffish describes people and things that show a careless but usually attractive unconventionality.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-20"
+    },
+    "sports_fact": {
+      "text": "Abebe Bikila won the 1960 Olympic marathon in Rome barefoot — then defended his title four years later in shoes, setting a world record both times.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": false,
+            "venue": "Chase Field",
+            "datetime_utc": "2026-07-19T20:10:00+00:00",
+            "team_score": "7",
+            "opp_score": "8",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-21T02:00:00+00:00",
+            "label": "Today 9:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Wed 7/22, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Touches $90 as Mideast Tensions Continue",
+      "summary": "Stock futures drift higher",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Our waking life's desire to shape the world to our convenience invites all manner of paradox and difficulty.",
+      "author": "Cormac McCarthy"
+    },
+    "history": {
+      "year": 1936,
+      "text": "The Montreux Convention is signed in Switzerland, authorizing Turkey to fortify the Dardanelles and Bosphorus but guaranteeing free passage to ships of all nations in peacetime."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
