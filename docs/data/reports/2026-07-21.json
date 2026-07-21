@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-21",
+  "display_date": "Tuesday, July 21, 2026",
+  "generated_at": "2026-07-21T12:01:37+00:00",
+  "sections": {
+    "word": {
+      "word": "Dog Days",
+      "part_of_speech": "",
+      "definition": "Dog days is a plural noun that refers to the hottest time of the year, which in the northern hemisphere is usually between early July and early September. Dog days can also refer to a period of stagnation or inactivity suggestive of hot, sultry weather when it can be difficult to summon the energy required for hard work.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-21"
+    },
+    "sports_fact": {
+      "text": "The 1904 Olympics were held in St. Louis — the first Games on US soil. The marathon was chaos: the first finisher rode part of the route in a car, and the actual winner was dosed with strychnine and brandy.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-21T02:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-22T01:38:00+00:00",
+            "label": "Today 8:38 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Tomorrow 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Chip Stocks Lead Futures Higher",
+      "summary": "Oil remains elevated amid more fighting in Mideast",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Throughout Finnegans Wake Joyce specifies the Tower of Babel as the tower of Sleep, that is, the tower of the witless assumption, or what Bacon calls the reign of the Idols.",
+      "author": "Marshall McLuhan"
+    },
+    "history": {
+      "year": 1242,
+      "text": "Battle of Taillebourg: Louis IX of France puts an end to the revolt of his vassals Henry III of England and Hugh X of Lusignan."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
