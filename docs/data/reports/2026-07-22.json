@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-22",
+  "display_date": "Wednesday, July 22, 2026",
+  "generated_at": "2026-07-22T12:04:24+00:00",
+  "sections": {
+    "word": {
+      "word": "Stalwart",
+      "part_of_speech": "adjective",
+      "definition": "Stalwart is a formal word used to describe someone or something that is very loyal and dedicated or that is physically or mentally strong.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-22"
+    },
+    "sports_fact": {
+      "text": "Usain Bolt's 9.58-second 100 meters from 2009 still stands — he ran the last 20 meters celebrating in his world-record 200 the year before.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-22T01:38:00+00:00",
+            "team_score": "1",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-22T20:07:00+00:00",
+            "label": "Today 3:07 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "label": "Today 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Price Jumps to $95 as War Squeezes Supply",
+      "summary": "Stock futures slip ahead of busy earnings day with Tesla, Alphabet on deck",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The burning noon sends floods of molten gold, The calm night crowns thee with its host of stars, The moon enfolds thee with her silver veil, And o'er thee e'er is arched the rainbow's span, — The gorgeous marriage-ring of Earth and Heaven. While ever from the holy altar grand Ascends the incense of the mist and spray, That mounts to God with thy wild roar of praise.",
+      "author": "Emma Lazarus"
+    },
+    "history": {
+      "year": 1942,
+      "text": "The United States government begins compulsory civilian gasoline rationing due to the wartime demands."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
