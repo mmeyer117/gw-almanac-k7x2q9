@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-23",
+  "display_date": "Thursday, July 23, 2026",
+  "generated_at": "2026-07-23T12:03:33+00:00",
+  "sections": {
+    "word": {
+      "word": "Maverick",
+      "part_of_speech": "noun",
+      "definition": "Maverick refers to a person who refuses to follow the customs or rules of a group; in other words, a nonconformist .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-23"
+    },
+    "sports_fact": {
+      "text": "Nadia Comăneci scored the first perfect 10 in Olympic gymnastics history in 1976. The scoreboard, unable to display 10.0, showed 1.00.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Angels",
+            "is_home": false,
+            "venue": "Angel Stadium",
+            "datetime_utc": "2026-07-22T20:07:00+00:00",
+            "team_score": "1",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-23T21:15:00+00:00",
+            "label": "Today 4:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "Dignity Health Sports Park",
+            "datetime_utc": "2026-07-23T02:30:00+00:00",
+            "team_score": "3",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Colorado",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-26T00:30:00+00:00",
+            "label": "Sat 7/25, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Prices Jump After Houthis Claim Attacks on Red Sea Tankers",
+      "summary": "Brent crude tops $98 and bond yields hover near 2026 highs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I write in a sort of broken-down patois which is something like the way a Swiss-waiter talks, and that when I split an infinitive, God damn it, I split it so it will remain split, and when I interrupt the velvety smoothness of my more or less literate syntax with a few sudden words of barroom vernacular, this is done with the eyes wide open and the mind relaxed and attentive. The method may not be perfect, but it is all I have.",
+      "author": "Raymond Chandler"
+    },
+    "history": {
+      "year": 1908,
+      "text": "The Second Constitution accepted by the Ottomans."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
