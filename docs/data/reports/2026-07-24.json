@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-24",
+  "display_date": "Friday, July 24, 2026",
+  "generated_at": "2026-07-24T11:56:18+00:00",
+  "sections": {
+    "word": {
+      "word": "Itinerant",
+      "part_of_speech": "adjective",
+      "definition": "Itinerant describes someone who travels from place to place or only stays in a place for a short amount of time. It is used especially for people who travel in a circuit for their profession.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-24"
+    },
+    "sports_fact": {
+      "text": "Michael Phelps won 28 Olympic medals, 23 of them gold. As a country, he would rank in the top 40 all-time gold medal table.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Diamondbacks",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-23T21:15:00+00:00",
+            "team_score": "6",
+            "opp_score": "10",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-25T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Colorado",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-26T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Futures Edge Higher, Brent Slips",
+      "summary": "Markets are steady after a tumultuous week, with oil lower and stock futures creeping up",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The most difficult thing is the decision to act. The rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life and the procedure. The process is its own reward.",
+      "author": "Amelia Earhart"
+    },
+    "history": {
+      "year": 1950,
+      "text": "Cape Canaveral Air Force Station begins operations with the launch of a Bumper rocket."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
