@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-25",
+  "display_date": "Saturday, July 25, 2026",
+  "generated_at": "2026-07-25T11:36:36+00:00",
+  "sections": {
+    "word": {
+      "word": "Vituperate",
+      "part_of_speech": "verb",
+      "definition": "To vituperate someone is to criticize or censure them severely or abusively. Vituperate can also mean \"to use harsh condemnatory language.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-25"
+    },
+    "sports_fact": {
+      "text": "Wilma Rudolph survived childhood polio that doctors said would keep her from walking — then won three sprint golds at the 1960 Olympics.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-25T00:15:00+00:00",
+            "team_score": "2",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-25T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Colorado",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-26T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Prediction-Markets Race Heats Up as Robinhood and Crypto.com Hold Talks",
+      "summary": "The deal could put the brokerage firm in more direct competition with Kalshi.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Those who discover things for themselves and express them in their own way are not overly bothered by the fact that others have already discovered these things — have even discovered them over and over again — and have expressed what they found in all manner of ways.",
+      "author": "Eric Hoffer"
+    },
+    "history": {
+      "year": 1866,
+      "text": "The United States Congress passes legislation authorizing the rank of General of the Army. Lieutenant General Ulysses S. Grant becomes the first to be promoted to this rank."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
