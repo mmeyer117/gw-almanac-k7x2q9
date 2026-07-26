@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-26",
+  "display_date": "Sunday, July 26, 2026",
+  "generated_at": "2026-07-26T11:38:01+00:00",
+  "sections": {
+    "word": {
+      "word": "Aerie",
+      "part_of_speech": "noun",
+      "definition": "Aerie refers to the nest of a bird (such as an eagle or hawk) built high up on a cliff or on the top of a mountain. It can also be used for a room or building built high up so that people inside can see things happening below them.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-26"
+    },
+    "sports_fact": {
+      "text": "Jim Thorpe was stripped of his 1912 Olympic gold medals because he had been paid $25 a week to play minor league baseball — they were restored in 1983, 30 years after his death.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-25T23:15:00+00:00",
+            "team_score": "7",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-26T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Colorado",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-07-26T00:30:00+00:00",
+            "team_score": "1",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "label": "Sat 8/1, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Investors Don’t Want to Scrap Quarterly Reports. Companies Should Think Twice.",
+      "summary": "Information is the lifeblood of the stock market, but regulators want to let companies provide less of it.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The pendulum of the mind oscillates between sense and nonsense, not between right and wrong. The numinosum is dangerous because it lures men to extremes, so that a modest truth is regarded as the truth and a minor mistake is equated with fatal error.",
+      "author": "Carl Jung"
+    },
+    "history": null,
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
