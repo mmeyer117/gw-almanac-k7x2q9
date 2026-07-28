@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-28",
+  "display_date": "Tuesday, July 28, 2026",
+  "generated_at": "2026-07-28T12:15:07+00:00",
+  "sections": {
+    "word": {
+      "word": "Kludge",
+      "part_of_speech": "noun",
+      "definition": "A kludge is a haphazard or makeshift solution to a problem and especially to a computer or programming problem.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-28"
+    },
+    "sports_fact": {
+      "text": "The marathon is 26.2 miles because the 1908 London course was stretched so it could start at Windsor Castle and finish in front of the royal box.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-27T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "7",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-28T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "label": "Sat 8/1, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Chip Stocks Under Pressure as AI Worries Push Investors to Other Sectors",
+      "summary": "Nasdaq futures drop about 1% while Dow looks set to rise",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There is no history of mankind, there is only an indefinite number of histories of all kinds of aspects of human life. And one of these is the history of political power. This is elevated into the history of the world. But this, I hold, is an offence against every decent conception of mankind. It is hardly better than to treat the history of embezzlement or of robbery or of poisoning as the history of mankind. For the history of power politics is nothing but the history of international crime and mass murder (including it is true, some of the attempts to suppress them). This history is taught in schools, and some of the greatest criminals are extolled as heroes.",
+      "author": "Karl Popper"
+    },
+    "history": {
+      "year": 1932,
+      "text": "During the Great Depression, U.S. president Herbert Hoover orders the United States Army to forcibly evict the \"Bonus Army\" of World War I veterans gathered in Washington, D.C."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
