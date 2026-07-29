@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-29",
+  "display_date": "Wednesday, July 29, 2026",
+  "generated_at": "2026-07-29T12:22:08+00:00",
+  "sections": {
+    "word": {
+      "word": "Inveigle",
+      "part_of_speech": "verb",
+      "definition": "To inveigle someone is to persuade them in a clever or deceptive way to do something. Inveigle can also mean “to get something in a clever or deceptive way.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-29"
+    },
+    "sports_fact": {
+      "text": "Babe Didrikson Zaharias won Olympic gold in the hurdles and javelin, then took up golf and won 10 major championships. Many still call her the greatest all-around athlete ever.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-28T23:45:00+00:00",
+            "team_score": "2",
+            "opp_score": "10",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-29T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "label": "Sat 8/1, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Rises on Mideast Flare-Up as Fed Weighs Interest-Rate Decision",
+      "summary": "SK Hynix sells off after earnings disappoint",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I think physicists are the Peter Pans of the human race. They never grow up, and they keep their curiosity.",
+      "author": "Isidor Isaac Rabi"
+    },
+    "history": {
+      "year": 1901,
+      "text": "Land lottery begins in Oklahoma."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
