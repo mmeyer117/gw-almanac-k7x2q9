@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-30",
+  "display_date": "Thursday, July 30, 2026",
+  "generated_at": "2026-07-30T12:04:43+00:00",
+  "sections": {
+    "word": {
+      "word": "Sultry",
+      "part_of_speech": "adjective",
+      "definition": "Sultry means “very hot and humid” when it describes such things as seasons, days, and weather. When it describes things humans do and possess—voices, poses, looks, and the like—it means “exciting or capable of exciting strong sexual desire.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-30"
+    },
+    "sports_fact": {
+      "text": "Muhammad Ali, hands shaking from Parkinson's, lit the Olympic flame in Atlanta in 1996 — a moment kept secret until he stepped from the shadows.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-29T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-30T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "label": "Sat 8/1, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Bond Selloff Extends After Warsh Shakes Investor Confidence",
+      "summary": "Long-dated Treasury yields at 19-year highs; stock futures advance",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "When you think of the visual style, when you think of the visual language of a film there tends to be a natural separation of the visual style and the narrative elements, but with the great, whether it is Stanley Kubrick, Terrence Malick or Hitchcock what you're seeing is inseparable, a vital relationship between the images and the story he's telling.",
+      "author": "Christopher Nolan"
+    },
+    "history": {
+      "year": 1980,
+      "text": "Israel's Knesset passes the Jerusalem Law."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
