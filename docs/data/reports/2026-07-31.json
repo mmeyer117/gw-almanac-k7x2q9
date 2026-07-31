@@ -1,0 +1,74 @@
+{
+  "date": "2026-07-31",
+  "display_date": "Friday, July 31, 2026",
+  "generated_at": "2026-07-31T12:18:49+00:00",
+  "sections": {
+    "word": {
+      "word": "Comely",
+      "part_of_speech": "adjective",
+      "definition": "Comely is an adjective with an old-fashioned and literary feel that describes someone or something that has a pleasing appearance, or that is pretty or attractive.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-07-31"
+    },
+    "sports_fact": {
+      "text": "Rocky Marciano retired 49-0 — still the only heavyweight champion to finish a career undefeated.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-07-30T18:15:00+00:00",
+            "team_score": "2",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Blue Jays",
+            "is_home": false,
+            "venue": "Rogers Centre",
+            "datetime_utc": "2026-07-31T23:07:00+00:00",
+            "label": "Today 6:07 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Futures Gain Despite Apple Selloff",
+      "summary": "Amazon gains 10% premarket as stock rebound continues",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The society that puts equality before freedom will end up with neither. The society that puts freedom before equality will end up with a great measure of both.",
+      "author": "Milton Friedman"
+    },
+    "history": {
+      "year": 1009,
+      "text": "Pope Sergius IV becomes the 142nd pope, succeeding Pope John XVIII."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
