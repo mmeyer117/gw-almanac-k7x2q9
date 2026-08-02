@@ -1,0 +1,80 @@
+{
+  "date": "2026-08-02",
+  "display_date": "Sunday, August 2, 2026",
+  "generated_at": "2026-08-02T11:35:17+00:00",
+  "sections": {
+    "word": {
+      "word": "Highfalutin",
+      "part_of_speech": "adjective",
+      "definition": "Something or someone described as highfalutin seems, or is trying to seem, great or important.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-02"
+    },
+    "sports_fact": {
+      "text": "The Indy 500 winner drinks milk in victory lane because 1936 winner Louis Meyer asked for buttermilk — a dairy executive saw the photo and made it tradition.",
+      "sport": "racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Blue Jays",
+            "is_home": false,
+            "venue": "Rogers Centre",
+            "datetime_utc": "2026-08-01T19:07:00+00:00",
+            "team_score": "1",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Blue Jays",
+            "is_home": false,
+            "venue": "Rogers Centre",
+            "datetime_utc": "2026-08-02T17:37:00+00:00",
+            "label": "Today 12:37 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Salt Lake",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-02T00:30:00+00:00",
+            "team_score": "1",
+            "opp_score": "1",
+            "won": false,
+            "draw": true
+          },
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Sat 8/15, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "America Is Great at Creating Stock Market Bubbles—and Shrugging Them Off",
+      "summary": "One day the bust will be the big one. But for now the pullback in AI-related stocks has been almost completely offset by gains elsewhere.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Germany has declared war on Russia. Swimming in the afternoon.",
+      "author": "Franz Kafka"
+    },
+    "history": {
+      "year": 1858,
+      "text": "The Government of India Act 1858 replaces Company rule in India with that of the British Raj."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
