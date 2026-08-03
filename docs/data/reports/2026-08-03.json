@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-03",
+  "display_date": "Monday, August 3, 2026",
+  "generated_at": "2026-08-03T13:21:03+00:00",
+  "sections": {
+    "word": {
+      "word": "Mitigate",
+      "part_of_speech": "verb",
+      "definition": "To mitigate something is to make it less severe, harmful, or painful.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-03"
+    },
+    "sports_fact": {
+      "text": "On August 3, 1936, Jesse Owens won the 100 meters at the Berlin Olympics — the first of four gold medals he took in front of Hitler.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Blue Jays",
+            "is_home": false,
+            "venue": "Rogers Centre",
+            "datetime_utc": "2026-08-02T17:37:00+00:00",
+            "team_score": "5",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Yankees",
+            "is_home": false,
+            "venue": "Yankee Stadium",
+            "datetime_utc": "2026-08-03T23:05:00+00:00",
+            "label": "Today 6:05 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Sat 8/15, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dow Futures Jump, Oil Slides on Return to Diplomacy",
+      "summary": "Dow industrials on course to open more than 1% higher",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Cities, like cats, will reveal themselves at night.",
+      "author": "Rupert Brooke"
+    },
+    "history": {
+      "year": 1692,
+      "text": "British-Dutch forces under William III defending the city of Brussels fight an inconclusive battle at Steenkerque against a French army under the duke of Luxembourg, with both sides suffering heavy casualties."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
