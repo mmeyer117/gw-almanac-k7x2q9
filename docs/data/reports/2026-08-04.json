@@ -1,0 +1,74 @@
+{
+  "date": "2026-08-04",
+  "display_date": "Tuesday, August 4, 2026",
+  "generated_at": "2026-08-04T12:19:55+00:00",
+  "sections": {
+    "word": {
+      "word": "élan",
+      "part_of_speech": "noun",
+      "definition": "Élan refers to energy and enthusiasm.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-04"
+    },
+    "sports_fact": {
+      "text": "NASCAR's roots are in Prohibition: the best early drivers learned outrunning federal agents with trunks full of moonshine.",
+      "sport": "racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Yankees",
+            "is_home": false,
+            "venue": "Yankee Stadium",
+            "datetime_utc": "2026-08-03T23:05:00+00:00",
+            "team_score": "13",
+            "opp_score": "7",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Yankees",
+            "is_home": false,
+            "venue": "Yankee Stadium",
+            "datetime_utc": "2026-08-04T23:05:00+00:00",
+            "label": "Today 6:05 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Sat 8/15, 9:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Prices Slip After Bessent Says Iran Deal May Be Near",
+      "summary": "Stocks poised to extend gains ahead of SpaceX’s first earnings",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I don't oppose all wars. What I am opposed to is a dumb war. What I am opposed to is a rash war … That's what I'm opposed to. A dumb war. A rash war. A war based not on reason but on passion, not on principle but on politics.",
+      "author": "Barack Obama"
+    },
+    "history": {
+      "year": 1796,
+      "text": "French Revolutionary Wars: Napoleon leads the French Army of Italy to victory in the Battle of Lonato."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
