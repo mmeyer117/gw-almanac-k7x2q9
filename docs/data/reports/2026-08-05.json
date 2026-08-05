@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-05",
+  "display_date": "Wednesday, August 5, 2026",
+  "generated_at": "2026-08-05T12:18:04+00:00",
+  "sections": {
+    "word": {
+      "word": "Colloquial",
+      "part_of_speech": "adjective",
+      "definition": "Colloquial is used with words like term and word and expression to describe language that is used in familiar and informal conversation.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-05"
+    },
+    "sports_fact": {
+      "text": "Richard Petty won 200 NASCAR races — exactly double second place — including 27 wins in a single season.",
+      "sport": "racing"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: SpaceX Stock Slumps as AI Spending Rattles Investors",
+      "summary": "Dow looks poised to extend 1,600-point rally of past two days",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I'll not assert that it was a diversion which prevented a war, but nevertheless, it was a diversion.",
+      "author": "Neil Armstrong"
+    },
+    "history": {
+      "year": 974,
+      "text": "Abbasid Caliph al-Muti' is forced to abdicate by his Turkic general Sabuktakin and succeeded by his son al-Ta'i'."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
