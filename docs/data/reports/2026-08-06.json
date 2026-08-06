@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-06",
+  "display_date": "Thursday, August 6, 2026",
+  "generated_at": "2026-08-06T12:20:10+00:00",
+  "sections": {
+    "word": {
+      "word": "Torpor",
+      "part_of_speech": "noun",
+      "definition": "Torpor is a formal word for a state of inactivity and sluggishness. It can also be used, especially in the context of hibernating and estivating animals, to refer to a state of lowered physiological activity.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-06"
+    },
+    "sports_fact": {
+      "text": "Secretariat's heart was found to weigh roughly 22 pounds — about two and a half times normal — a genetic quirk now called the 'x-factor.'",
+      "sport": "horse racing"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Futures Slip on AI Anxiety",
+      "summary": "Oil edges higher amid talks to reopen the Strait of Hormuz",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I doubt not through the ages one increasing purpose runs, And the thoughts of men are widened with the process of the suns.",
+      "author": "Alfred, Lord Tennyson"
+    },
+    "history": {
+      "year": 1538,
+      "text": "Bogotá, Colombia, is founded by Gonzalo Jiménez de Quesada."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
