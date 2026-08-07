@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-07",
+  "display_date": "Friday, August 7, 2026",
+  "generated_at": "2026-08-07T11:08:33+00:00",
+  "sections": {
+    "word": {
+      "word": "Invidious",
+      "part_of_speech": "adjective",
+      "definition": "Invidious is a formal word used to describe things that are unpleasant and likely to cause bad feelings in other people. Such bad feelings may include resentment, discontent, animosity, or envy.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-07"
+    },
+    "sports_fact": {
+      "text": "Bo Jackson is the only athlete named an All-Star in both MLB and the NFL Pro Bowl — and he considered football his hobby.",
+      "sport": "football"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Jobs Report Today: Stock Futures Tick Higher, Oil Slips",
+      "summary": "July employment data set to offer clues as to Fed's next move",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Nothing you do for children is ever wasted. They seem not to notice us, hovering, averting our eyes, and they seldom offer thanks, but what we do for them is never wasted.",
+      "author": "Garrison Keillor"
+    },
+    "history": {
+      "year": 1960,
+      "text": "Ivory Coast becomes independent from France."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
