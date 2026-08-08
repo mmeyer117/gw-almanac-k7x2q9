@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-08",
+  "display_date": "Saturday, August 8, 2026",
+  "generated_at": "2026-08-08T10:52:38+00:00",
+  "sections": {
+    "word": {
+      "word": "Nurture",
+      "part_of_speech": "verb",
+      "definition": "Nurture is most often used to mean “to help someone or something grow, develop, or succeed.” It can also mean “to take care of someone or something that is growing or developing by providing food, protection, a place to live, etc.,” or “to hold something, such as an idea or strong feeling, in your mind for a long time.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-08"
+    },
+    "sports_fact": {
+      "text": "Basketball was invented in 1891 by James Naismith with a soccer ball and two peach baskets. The first game was 9-on-9 and ended 1-0.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
+      "summary": "U.S. economy lost jobs in July, prompting traders to scale back rate-hike expectations",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "My birthday wish for Wikipedia is: Let's go forward and see what we can do next.",
+      "author": "Jimmy Wales"
+    },
+    "history": {
+      "year": 1794,
+      "text": "Joseph Whidbey leads an expedition to search for the Northwest Passage near Juneau, Alaska."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
