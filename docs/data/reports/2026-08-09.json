@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-09",
+  "display_date": "Sunday, August 9, 2026",
+  "generated_at": "2026-08-09T10:53:15+00:00",
+  "sections": {
+    "word": {
+      "word": "Anecdote",
+      "part_of_speech": "noun",
+      "definition": "An anecdote is a short narrative about an interesting, funny, or biographical incident.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-09"
+    },
+    "sports_fact": {
+      "text": "Volleyball was invented in 1895 just 10 miles from basketball's birthplace — designed as a gentler alternative for older businessmen.",
+      "sport": "olympics"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, August 7, 2026: S&P 500 Rises to Record After Jobs Data Misses Forecasts",
+      "summary": "U.S. economy lost jobs in July, prompting traders to scale back rate-hike expectations",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There is an adult in every child and a child in every adult. … There exist in the child certain attitudes and beliefs which intellectual development will more and more tend to eliminate: there are others which will acquire more and more importance. The later are not derived from the former but are partly antagonistic to them.",
+      "author": "Jean Piaget"
+    },
+    "history": {
+      "year": 1855,
+      "text": "Åland War: The Battle of Suomenlinna begins."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
