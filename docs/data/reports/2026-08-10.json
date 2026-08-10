@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-10",
+  "display_date": "Monday, August 10, 2026",
+  "generated_at": "2026-08-10T11:27:26+00:00",
+  "sections": {
+    "word": {
+      "word": "Pedagogical",
+      "part_of_speech": "adjective",
+      "definition": "Pedagogical is a formal word used to describe things that are of or related to teachers or education.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-10"
+    },
+    "sports_fact": {
+      "text": "The America's Cup, first contested in 1851, is the oldest trophy in international sport — older than the modern Olympics by 45 years.",
+      "sport": "sailing"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Stocks on Course to Extend Gains",
+      "summary": "Futures tick up, with oil also higher",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You cannot extend the mastery of government over the daily life of a people without somewhere making it master of people's souls and thoughts. Expansion of government in business means that the government, in order to protect itself from the political consequences of its errors, is driven irresistibly without peace to greater and greater control of the Nation's press and platform. Free speech does not live many hours after free industry and free commerce die. It is a false liberalism that interprets itself into Government operation of business. Every step in that direction poisons the very roots of liberalism. It poisons political equality, free speech, free press, and equality of opportunity. It is the road not to more liberty but to less liberty.",
+      "author": "Herbert Hoover"
+    },
+    "history": {
+      "year": 1835,
+      "text": "P. T. Barnum begins his career as a showman and circus entrepreneur by exhibiting Joice Heth, an octogenerian African slave whom he claims was George Washington's nursemaid."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
