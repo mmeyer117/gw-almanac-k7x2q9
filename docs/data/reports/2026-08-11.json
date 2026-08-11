@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-11",
+  "display_date": "Tuesday, August 11, 2026",
+  "generated_at": "2026-08-11T11:06:26+00:00",
+  "sections": {
+    "word": {
+      "word": "Baptism Of Fire",
+      "part_of_speech": "noun",
+      "definition": "A baptism of fire (or baptism by fire, as it is sometimes referred to in the U.S.) is an introductory or initial experience that is a severe ordeal. In military contexts, baptism of fire specifically refers to a soldier's first exposure to enemy fire.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-11"
+    },
+    "sports_fact": {
+      "text": "The 'hat trick' came to hockey from cricket, where a 19th-century bowler who took three wickets in a row was awarded a hat by his club.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Brent Crude Touches $90",
+      "summary": "Stock futures flat, Treasury yields climb on Mideast impasse",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Lo and behold! God made this starry wold, The maggot and the mold; lo and behold! He taught the grass contentment blade by blade, The sanctity of sameness in a shade.",
+      "author": "Nathalia Crane"
+    },
+    "history": {
+      "year": 1919,
+      "text": "Germany's Weimar Constitution is signed into law."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
