@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-12",
+  "display_date": "Wednesday, August 12, 2026",
+  "generated_at": "2026-08-12T11:11:28+00:00",
+  "sections": {
+    "word": {
+      "word": "Gnomic",
+      "part_of_speech": "adjective",
+      "definition": "Gnomic is a formal word that describes something cryptically said or written in few words.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-12"
+    },
+    "sports_fact": {
+      "text": "Stan Musial finished with exactly 3,630 hits: 1,815 at home and 1,815 on the road. Perfect symmetry over 22 seasons.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Tech Earnings Buoy Stock Futures",
+      "summary": "Results from Super Micro, CoreWeave rekindle AI trade ahead of CPI data",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The main difference between me and other people who have amassed this kind of money is that I am primarily interested in ideas, and I don't have much personal use for money. But I hate to think what would have happened if I hadn't made money: My ideas would not have gotten much play.",
+      "author": "George Soros"
+    },
+    "history": {
+      "year": 1204,
+      "text": "The Republic of Venice acquires the right to Crete from Boniface I of Montferrat."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
