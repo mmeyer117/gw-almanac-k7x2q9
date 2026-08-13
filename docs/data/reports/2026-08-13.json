@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-13",
+  "display_date": "Thursday, August 13, 2026",
+  "generated_at": "2026-08-13T11:11:47+00:00",
+  "sections": {
+    "word": {
+      "word": "Salvo",
+      "part_of_speech": "noun",
+      "definition": "In military contexts, salvo refers to various actions involving discharge or release of bombs, rockets, artillery, etc., as well to the bombs or projectiles released in such an action. In general use, salvo is usually used to refer to a strong or sudden verbal attack, but it can also refer to a sudden occurrence of applause, laughter, etc., from many people.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-13"
+    },
+    "sports_fact": {
+      "text": "Bob Gibson's 1.12 ERA in 1968 was so dominant that MLB lowered the mound and shrank the strike zone the following season.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Tick Higher",
+      "summary": "Asian markets climb on AI enthusiasm, yields dip",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "To those who are longing for a higher life, who deeply feel the need of religious satisfactions, we suggest that there is a way in which the demands of the head and the heart may be reconciled. Religion is not necessarily allied with dogma, a new kind of faith is possible, based not upon legend and tradition, not upon the authority of any book, but upon the moral nature of man.",
+      "author": "Felix Adler"
+    },
+    "history": {
+      "year": 1968,
+      "text": "Alexandros Panagoulis attempts to assassinate the Greek dictator Colonel Georgios Papadopoulos in Varkiza, Athens."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
