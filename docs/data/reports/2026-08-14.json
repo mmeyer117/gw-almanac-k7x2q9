@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-14",
+  "display_date": "Friday, August 14, 2026",
+  "generated_at": "2026-08-14T11:09:23+00:00",
+  "sections": {
+    "word": {
+      "word": "Vacuous",
+      "part_of_speech": "adjective",
+      "definition": "Vacuous is a formal word indicating a lack of thought, intelligence, or substance.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-14"
+    },
+    "sports_fact": {
+      "text": "In 1999, Cardinal Fernando Tatis hit two grand slams in the same inning — both off the same pitcher, Chan Ho Park. No one else has ever done it.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: S&P Futures Steady After Record Close",
+      "summary": "Oil is forging higher with Brent crude around $88",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The value of a sentiment is the amount of sacrifice you are prepared to make for it.",
+      "author": "John Galsworthy"
+    },
+    "history": {
+      "year": 1791,
+      "text": "Slaves from plantations in Saint-Domingue hold a Vodou ceremony led by houngan Dutty Boukman at Bois Caïman, marking the start of the Haitian Revolution."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
