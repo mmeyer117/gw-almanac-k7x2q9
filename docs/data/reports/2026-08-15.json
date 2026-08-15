@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-15",
+  "display_date": "Saturday, August 15, 2026",
+  "generated_at": "2026-08-15T10:41:23+00:00",
+  "sections": {
+    "word": {
+      "word": "Circumscribe",
+      "part_of_speech": "verb",
+      "definition": "To circumscribe something is to limit its range or activity.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-15"
+    },
+    "sports_fact": {
+      "text": "The 1944 World Series was an all-St. Louis affair — Cardinals vs. Browns — with every game played at Sportsman's Park. The teams literally shared the stadium.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Jane Street Suffers Loss of About $15 Billion Following Troubles at Situational Awareness",
+      "summary": "The trading firm posted its worst month ever in July after bets at Leopold Aschenbrenner’s hedge fund soured.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If a religion is not universal, it cannot be eternal. A narrow religion, a sectarian religion, an exclusive religion can live only for a limited time and a limited purpose.",
+      "author": "Sri Aurobindo"
+    },
+    "history": {
+      "year": 1995,
+      "text": "Tomiichi Murayama, Prime Minister of Japan, releases the Murayama Statement, which formally expresses remorse for Japanese war crimes committed during World War II."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
