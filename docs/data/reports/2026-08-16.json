@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-16",
+  "display_date": "Sunday, August 16, 2026",
+  "generated_at": "2026-08-16T10:42:10+00:00",
+  "sections": {
+    "word": {
+      "word": "Zeugma",
+      "part_of_speech": "noun",
+      "definition": "Zeugma refers to wordplay in which a single word relates to other words in such a way that it means something different in each case, as in “building a boat and a reputation” and “open a book along with your mind.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-16"
+    },
+    "sports_fact": {
+      "text": "In 1951, Browns owner Bill Veeck sent 3-foot-7 Eddie Gaedel to pinch-hit wearing number 1/8. He walked on four pitches and was banned from baseball the next day.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
+      "summary": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "We're all going to die, all of us, what a circus! That alone should make us love each other but it doesn't. We are terrorized and flattened by trivialities, we are eaten up by nothing.",
+      "author": "Charles Bukowski"
+    },
+    "history": {
+      "year": 1717,
+      "text": "Austro-Turkish War (1716–1718): An imperial coalition army under Prince Eugene of Savoy defeats an Ottoman army under Haji Halil Pasha, leading to the surrender of the Ottoman garrison of Belgrade a few days later."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
