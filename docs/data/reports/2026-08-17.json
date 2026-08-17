@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-17",
+  "display_date": "Monday, August 17, 2026",
+  "generated_at": "2026-08-17T10:48:52+00:00",
+  "sections": {
+    "word": {
+      "word": "Lackadaisical",
+      "part_of_speech": "adjective",
+      "definition": "Something or someone described as lackadaisical is lacking in interest, enthusiasm, or zest.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-17"
+    },
+    "sports_fact": {
+      "text": "Rogers Hornsby hit .424 for the Cardinals in 1924 — the highest batting average of the modern era, and nobody has come within 30 points of it since.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady",
+      "summary": "This week brings earnings from Target, Walmart and others",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "With the emergence of nuclear-missile weaponry, cybernetics, electronics, and computer equipment, any subjective approach to military problems, hare-brained plans, and superficiality can cause irreparable damage.",
+      "author": "Matvei Zakharov"
+    },
+    "history": {
+      "year": 1862,
+      "text": "American Civil War: Major General J. E. B. Stuart is assigned command of all the cavalry of the Confederate Army of Northern Virginia."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
