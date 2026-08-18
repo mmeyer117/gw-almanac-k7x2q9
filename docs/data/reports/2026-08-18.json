@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-18",
+  "display_date": "Tuesday, August 18, 2026",
+  "generated_at": "2026-08-18T10:47:52+00:00",
+  "sections": {
+    "word": {
+      "word": "Oxymoron",
+      "part_of_speech": "noun",
+      "definition": "An oxymoron is a combination of words that have opposite or very different meanings, such as \"cruel kindness\" or \"open secret.\" In broader usage, oxymoron can also refer to something (such as a concept) that is made up of contradictory or incongruous elements.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-18"
+    },
+    "sports_fact": {
+      "text": "Ozzie Smith won 13 consecutive Gold Gloves at shortstop and did a backflip on Opening Day. The Wizard earned the nickname.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Global Bond Rout Deepens",
+      "summary": "Growing fiscal deficits, inflation fears and massive AI spending push up borrowing costs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Carnage added to carnage does not equal peace.",
+      "author": "Brian Aldiss"
+    },
+    "history": {
+      "year": 1938,
+      "text": "The Thousand Islands Bridge, connecting New York, United States, with Ontario, Canada, over the Saint Lawrence River, is dedicated by U.S. President Franklin D. Roosevelt."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
