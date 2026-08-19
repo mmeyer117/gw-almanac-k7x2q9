@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-19",
+  "display_date": "Wednesday, August 19, 2026",
+  "generated_at": "2026-08-19T10:47:16+00:00",
+  "sections": {
+    "word": {
+      "word": "Balmy",
+      "part_of_speech": "adjective",
+      "definition": "Balmy is an adjective that is often used to describe weather that is warm, calm, and pleasant. It can also be used to describe someone or something (such as an idea) that is foolish or irrational.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-19"
+    },
+    "sports_fact": {
+      "text": "Cy Young won 511 games. The next-closest pitcher, Walter Johnson, is 94 wins behind — a gap bigger than most pitchers' entire careers.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Global Bonds Stabilize After Selloff",
+      "summary": "Chinese humanoid-robot maker surges at IPO",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The weather is so very mild, That some would call it warm. Good gracious, aren't we lucky, child? Here comes a thunderstorm.",
+      "author": "Ogden Nash"
+    },
+    "history": {
+      "year": 1989,
+      "text": "Polish president Wojciech Jaruzelski nominates Solidarity activist Tadeusz Mazowiecki to be the first non-communist prime minister in 42 years."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
