@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-20",
+  "display_date": "Thursday, August 20, 2026",
+  "generated_at": "2026-08-20T10:49:02+00:00",
+  "sections": {
+    "word": {
+      "word": "Divulge",
+      "part_of_speech": "verb",
+      "definition": "To divulge something, especially secret or private information, is to make it known.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-20"
+    },
+    "sports_fact": {
+      "text": "Nolan Ryan threw seven no-hitters, the last one at age 44 — an age when most pitchers have been retired for a decade.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Bond Market Steady After Treasury Intervention",
+      "summary": "Brent crude ticks up to $93 a barrel",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Man is estranged from what he essentially is. His existence in a transitory world contradicts his essential participation in the eternal world of ideas.",
+      "author": "Paul Tillich"
+    },
+    "history": {
+      "year": 1977,
+      "text": "Voyager program: NASA launches the Voyager 2 spacecraft."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
