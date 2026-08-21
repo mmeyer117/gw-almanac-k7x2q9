@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-21",
+  "display_date": "Friday, August 21, 2026",
+  "generated_at": "2026-08-21T10:49:17+00:00",
+  "sections": {
+    "word": {
+      "word": "Rigmarole",
+      "part_of_speech": "noun",
+      "definition": "Rigmarole refers to a long, complicated, and annoying process, description, etc.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-21"
+    },
+    "sports_fact": {
+      "text": "Rickey Henderson stole 1,406 bases. Second place is 468 steals behind. He also scored more runs than anyone who ever played.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Yields Steady; S&P Heads for Weekly Loss",
+      "summary": "Bond markets shrug off Treasury efforts to curb borrowing costs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The ending of the dream, the beginning of the wide awake something big is coming...",
+      "author": "Alicia Witt"
+    },
+    "history": {
+      "year": 1991,
+      "text": "Latvia declares renewal of its full independence after its occupation by the Soviet Union since 1940."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
