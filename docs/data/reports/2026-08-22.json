@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-22",
+  "display_date": "Saturday, August 22, 2026",
+  "generated_at": "2026-08-22T10:42:29+00:00",
+  "sections": {
+    "word": {
+      "word": "August",
+      "part_of_speech": "adjective",
+      "definition": "The word august , which is pronounced with the accent on \"gust,\" describes someone or something marked by majestic dignity or grandeur.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-22"
+    },
+    "sports_fact": {
+      "text": "Ted Williams hit .406 in 1941 and refused to sit out the final-day doubleheader to protect the mark — he went 6-for-8 instead.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
+      "summary": "Crypto climbs, bond markets shrug off Treasury efforts to curb borrowing costs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Mysteries abound where most we seek for answers.",
+      "author": "Ray Bradbury"
+    },
+    "history": {
+      "year": 1153,
+      "text": "Crusader–Fatimid wars: The fortress of Ascalon is surrendered by Fatimid Egypt to an army of crusaders, Templars, and Hospitallers led by King Baldwin III of Jerusalem."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
