@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-23",
+  "display_date": "Sunday, August 23, 2026",
+  "generated_at": "2026-08-23T10:42:51+00:00",
+  "sections": {
+    "word": {
+      "word": "Prowess",
+      "part_of_speech": "noun",
+      "definition": "Prowess refers to someone’s great ability, skill, or talent for something specified, as in “the pop star's vocal prowess” or “a lawyer of great prowess.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-23"
+    },
+    "sports_fact": {
+      "text": "Cal Ripken Jr. played 2,632 consecutive games over 16 years — a record many believe will never be broken.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
+      "summary": "Crypto climbs, bond markets shrug off Treasury efforts to curb borrowing costs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The Radical creed, as I understand it, is this: We have not abandoned our old belief in liberty, justice, and Self-help, but we say that under certain conditions the people cannot help themselves, and that then they should be helped by the State representing directly the whole people. In giving this State help, we make three conditions: first, the matter must be one of primary social importance; next, it must be proved to be practicable; thirdly, the State interference must not diminish self-reliance. Even if the chance should arise of removing a great social evil, nothing must be done to weaken those habits of individual self-reliance and voluntary association which have built up the greatness of the English people.",
+      "author": "Arnold Toynbee"
+    },
+    "history": {
+      "year": 1268,
+      "text": "The Battle of Tagliacozzo: The army of Prince Conradin is nearly destroyed by Charles of Anjou, ending Hohenstaufen control over the Kingdom of Sicily and leaving the Angevins in control."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
