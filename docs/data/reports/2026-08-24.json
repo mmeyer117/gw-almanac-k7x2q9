@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-24",
+  "display_date": "Monday, August 24, 2026",
+  "generated_at": "2026-08-24T10:54:52+00:00",
+  "sections": {
+    "word": {
+      "word": "Expeditious",
+      "part_of_speech": "adjective",
+      "definition": "Expeditious is a formal word that is used to describe someone acting in a quick and efficient way, or something done in such a manner.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-24"
+    },
+    "sports_fact": {
+      "text": "The 1906 Cubs won 116 games and lost the World Series to the crosstown White Sox — a team nicknamed the 'Hitless Wonders' for their league-worst batting average.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Oil Drops as Investors Await Bessent’s Plan to Squeeze Iran",
+      "summary": "Tech stocks start week under pressure",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Any time something is written against me, I not only share the sentiment but feel I could do the job far better myself. Perhaps I should advise would-be enemies to send me their grievances beforehand, with full assurance that they will receive my every aid and support. I have even secretly longed to write, under a pen name, a merciless tirade against myself.",
+      "author": "Jorge Luis Borges"
+    },
+    "history": {
+      "year": 1200,
+      "text": "King John of England, signer of the first Magna Carta, marries Isabella of Angoulême in Angoulême Cathedral."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
