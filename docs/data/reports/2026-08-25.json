@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-25",
+  "display_date": "Tuesday, August 25, 2026",
+  "generated_at": "2026-08-25T10:51:08+00:00",
+  "sections": {
+    "word": {
+      "word": "Tilde",
+      "part_of_speech": "noun",
+      "definition": "Tilde refers to the mark ~ placed especially over the letter n (as in the Spanish señor , meaning \"sir\") to denote the sound \\nʸ\\, or over vowels (as in the Portuguese irmã , meaning \"sister\") to indicate nasality . When a tilde appears as an independent character, it usually means \"approximately\" (as in \"we'll be there in ~ 30 minutes\").",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-25"
+    },
+    "sports_fact": {
+      "text": "Ichiro Suzuki collected 262 hits in 2004, breaking an 84-year-old single-season record — and he didn't reach MLB until he was 27.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000",
+      "summary": "Cryptocurrency up over 20% over past week; oil retreats",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I write with a pen and if you have any problem why do not you pick up a pen to protest. … The surprising thing in this part of the world is that they have picked up arms against me because I have expressed my views.",
+      "author": "Taslima Nasrin"
+    },
+    "history": {
+      "year": 1835,
+      "text": "The first Great Moon Hoax article is published in The New York Sun, announcing the discovery of life and civilization on the Moon."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
