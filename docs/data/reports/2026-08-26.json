@@ -1,0 +1,38 @@
+{
+  "date": "2026-08-26",
+  "display_date": "Wednesday, August 26, 2026",
+  "generated_at": "2026-08-26T10:52:17+00:00",
+  "sections": {
+    "word": {
+      "word": "Devolve",
+      "part_of_speech": "verb",
+      "definition": "To devolve is to gradually go from an advanced state to a less advanced state, or to pass something, such as responsibility or power, from one person or group to another at a lower level of authority.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-26"
+    },
+    "sports_fact": {
+      "text": "Connie Mack managed the Philadelphia Athletics for 50 consecutive seasons, wearing a suit and tie in the dugout the entire time.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Brent Crude Retreats to $85, Nvidia Earnings Due",
+      "summary": "Investors will also parse PCE inflation data this morning",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I hope life treats you kind And I hope that you have all That you ever dreamed of And I wish you joy and happiness But above all of this, I wish you love. And I will always love you, I will always love you.",
+      "author": "Dolly Parton"
+    },
+    "history": {
+      "year": 1278,
+      "text": "Ladislaus IV of Hungary and Rudolf I of Germany defeat Ottokar II of Bohemia in the Battle on the Marchfeld near Dürnkrut in (then) Moravia."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
