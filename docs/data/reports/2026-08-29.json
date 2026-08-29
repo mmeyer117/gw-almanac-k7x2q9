@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-29",
+  "display_date": "Saturday, August 29, 2026",
+  "generated_at": "2026-08-29T15:05:31+00:00",
+  "sections": {
+    "word": {
+      "word": "kith",
+      "part_of_speech": "noun",
+      "definition": "Kith is an old-fashioned term that refers to familiar friends, neighbors, or relatives.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/kith-2026-08-29"
+    },
+    "sports_fact": {
+      "text": "The 1869 Cincinnati Red Stockings were baseball's first openly professional team. They went undefeated on a national tour, winning around 60 straight games.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Aug. 28, 2026: Warsh Comments Boost Rate-Hike Bets",
+      "summary": "Yields rise after Fed chairman's speech focuses on inflation",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "He that uses words without any clear and steady meaning, what does he but lead himself and others into errors? And he that designedly does it, ought to be looked on as an enemy to truth and knowledge.",
+      "author": "John Locke"
+    },
+    "history": {
+      "year": 1941,
+      "text": "World War II: Tallinn, the capital of Estonia, is occupied by Nazi Germany following an occupation by the Soviet Union."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
