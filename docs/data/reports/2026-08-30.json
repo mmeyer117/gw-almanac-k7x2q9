@@ -1,0 +1,35 @@
+{
+  "date": "2026-08-30",
+  "display_date": "Sunday, August 30, 2026",
+  "generated_at": "2026-08-30T14:53:01+00:00",
+  "sections": {
+    "word": {
+      "word": "Illustrious",
+      "part_of_speech": "adjective",
+      "definition": "Illustrious describes a person or deed that is highly admired and respected.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-08-30"
+    },
+    "sports_fact": {
+      "text": "Wrigley Field, which opened in 1914, didn't host a night game until August 1988 — the last big-league park to install lights.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Aug. 28, 2026: Warsh Comments Boost Rate-Hike Bets",
+      "summary": "Yields rise after Fed chairman's speech focuses on inflation",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Criticize by category — praise by name.",
+      "author": "Warren Buffett"
+    },
+    "history": {
+      "year": 1813,
+      "text": "First Battle of Kulm: French forces are defeated by an Austrian-Prussian-Russian alliance."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
