@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-01",
+  "display_date": "Tuesday, September 1, 2026",
+  "generated_at": "2026-09-01T14:55:34+00:00",
+  "sections": {
+    "word": {
+      "word": "Conscientious",
+      "part_of_speech": "adjective",
+      "definition": "Conscientious describes someone who is concerned with doing things correctly. It can be used as a synonym for both meticulous and careful .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-01"
+    },
+    "sports_fact": {
+      "text": "Mariano Rivera is the only player ever elected to the Hall of Fame unanimously — and he did it throwing essentially one pitch for 19 years.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Global Bond Selloff Intensifies as Investors Brace for Rate Hikes",
+      "summary": "Japanese 10-year yield hits highest level in three decades; Nasdaq slumps",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Friend. Songwriter. The Great Harmonizer of Humanity. Dolly. Dolly. Dolly. Forever Dolly.",
+      "author": "Lily Tomlin"
+    },
+    "history": {
+      "year": 1449,
+      "text": "Tumu Crisis: The Mongols capture the Emperor of China."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
