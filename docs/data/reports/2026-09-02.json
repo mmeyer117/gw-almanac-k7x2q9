@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-02",
+  "display_date": "Wednesday, September 2, 2026",
+  "generated_at": "2026-09-02T14:31:31+00:00",
+  "sections": {
+    "word": {
+      "word": "Dissonant",
+      "part_of_speech": "adjective",
+      "definition": "Dissonant typically describes music that is not in harmony, or sounds and notes that clash. In non-music contexts, dissonant describes things that clash by not being in agreement or by not fitting well together.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-02"
+    },
+    "sports_fact": {
+      "text": "In 2024, Shohei Ohtani became the first player in MLB history with 50 home runs and 50 stolen bases in a season — he finished with 54 and 59.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Treasury Selloff Pauses While Global Bonds Still Hammered",
+      "summary": "U.S. 10-year yield touches highest level since 2023 overnight; stocks rise",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The great work of the present for every man, and every organization of men, who would improve social conditions, is the work of education — the propagation of ideas. It is only as it aids this that anything else can avail. And in this work every one who can think may aid — first by forming clear ideas himself, and then by endeavoring to arouse the thought of those with whom he comes in contact.",
+      "author": "Henry George"
+    },
+    "history": {
+      "year": -44,
+      "text": "Pharaoh Cleopatra VII of Egypt declares her son co-ruler as Ptolemy XV Caesarion."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
