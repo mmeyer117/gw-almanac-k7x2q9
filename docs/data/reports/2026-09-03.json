@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-03",
+  "display_date": "Thursday, September 3, 2026",
+  "generated_at": "2026-09-03T14:36:03+00:00",
+  "sections": {
+    "word": {
+      "word": "recalcitrant",
+      "part_of_speech": "adjective",
+      "definition": "Recalcitrant is a formal word typically used to describe someone who stubbornly refuses to obey rules or orders.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/recalcitrant-2026-09-03"
+    },
+    "sports_fact": {
+      "text": "Walter Johnson threw 110 shutouts in his career. No active pitcher has 15.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments",
+      "summary": "Dow opens higher after Fed’s Waller says he'd back rate hold if inflation data is supportive; yen rallies",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The human mind, like the silk-worm oppressed with the fullness of its own accumulation, has spun about itself gradually and slowly a cocoon that at last has shut out the light of the world from which it drew the substance of its thread. But this darkness has produced the chrysalis, and we within the darkness feel the beginning of our throes. The inevitable change, after centuries upon centuries of preparation, is about to begin.",
+      "author": "Louis Sullivan"
+    },
+    "history": {
+      "year": 673,
+      "text": "King Wamba of the Visigoths puts down a revolt by Hilderic, governor of Nîmes (France) and rival for the throne."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
