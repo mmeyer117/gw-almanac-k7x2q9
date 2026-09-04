@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-04",
+  "display_date": "Friday, September 4, 2026",
+  "generated_at": "2026-09-04T14:23:21+00:00",
+  "sections": {
+    "word": {
+      "word": "Apiary",
+      "part_of_speech": "noun",
+      "definition": "Apiary refers to a place where bees are kept, and especially a collection of hives or colonies of bees kept for their honey.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-04"
+    },
+    "sports_fact": {
+      "text": "Michael Jordan hit .202 in Double-A Birmingham during his 1994 baseball detour — and baseball people respected that it wasn't worse, given he hadn't played since high school.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Jobs Report Today: Bond Yields Climb After U.S. Added 162,000 Jobs in August",
+      "summary": "Report was expected to show economy added 53,000 jobs; bond yields climb",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "When humans are ranked instead of linked, everyone loses .",
+      "author": "Gloria Steinem"
+    },
+    "history": {
+      "year": 1882,
+      "text": "The Pearl Street Station in New York City becomes the first power plant to supply electricity to paying customers."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
