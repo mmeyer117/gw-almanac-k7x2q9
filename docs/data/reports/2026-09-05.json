@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-05",
+  "display_date": "Saturday, September 5, 2026",
+  "generated_at": "2026-09-05T13:28:00+00:00",
+  "sections": {
+    "word": {
+      "word": "Matriculate",
+      "part_of_speech": "verb",
+      "definition": "To matriculate is to enroll or be enrolled as a student, especially at a college or university.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-05"
+    },
+    "sports_fact": {
+      "text": "Wilt Chamberlain averaged 50.4 points per game for the entire 1961-62 NBA season — and played all but 8 minutes of the year.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 4, 2026: Short-Term Treasury Yields Climb After Strong Jobs Report",
+      "summary": "The U.S. economy added 162,000 jobs in August, boosting chances of a rate hike; stocks slip",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The problem is not that Christians are conservative or liberal, but that some are so confident that their position is God's position that they become dismissive and intolerant toward others and divisive forces in our national life.",
+      "author": "John Danforth"
+    },
+    "history": {
+      "year": 1882,
+      "text": "The first United States Labor Day parade is held in New York City."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
