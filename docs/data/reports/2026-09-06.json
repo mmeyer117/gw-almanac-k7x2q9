@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-06",
+  "display_date": "Sunday, September 6, 2026",
+  "generated_at": "2026-09-06T13:41:21+00:00",
+  "sections": {
+    "word": {
+      "word": "inexorable",
+      "part_of_speech": "adjective",
+      "definition": "Inexorable is a formal word used to describe something that cannot be stopped or changed.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/inexorable-2026-09-06"
+    },
+    "sports_fact": {
+      "text": "On September 6, 1995, Cal Ripken Jr. played his 2,131st consecutive game, passing Lou Gehrig. The ovation lasted 22 minutes and he was pushed into a lap around Camden Yards.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 4, 2026: Short-Term Treasury Yields Climb After Strong Jobs Report",
+      "summary": "The U.S. economy added 162,000 jobs in August, boosting chances of a rate hike; stocks slip",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The hero of the Odyssey is a great fighter, a wily schemer, a ready speaker, a man of stout heart and broad wisdom who knows that he must endure without too much complaining what the gods send; and he can both build and sail a boat, drive a furrow as straight as anyone, beat a young braggart at throwing the discus, challenge the Pheacian youth at boxing, wrestling or running; flay, skin, cut up and cook an ox, and be moved to tears by a song. He is in fact an excellent all-rounder; he has surpassing aretê.",
+      "author": "Robert M. Pirsig"
+    },
+    "history": {
+      "year": 1634,
+      "text": "Thirty Years' War: In the Battle of Nördlingen, the Catholic Imperial army defeats Swedish and German Protestant forces."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
