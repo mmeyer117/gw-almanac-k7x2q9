@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-07",
+  "display_date": "Monday, September 7, 2026",
+  "generated_at": "2026-09-07T15:53:20+00:00",
+  "sections": {
+    "word": {
+      "word": "gist",
+      "part_of_speech": "noun",
+      "definition": "Gist , which almost always appears in the phrase “the gist,” refers to the general or basic meaning of something written or said.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/gist-2026-09-07"
+    },
+    "sports_fact": {
+      "text": "Bill Russell won 11 championships in 13 seasons. No player in any major American sport has more rings than Russell has fingers.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Hunter Biden (and His Laptop) Enter the Cryptosphere With New Meme Coin",
+      "summary": "The personal computer that launched a thousand memes will debut this week as a digital token.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A wise man distrusts his neighbor. A wiser man distrusts both his neighbor and himself. The wisest man of all distrusts his government.",
+      "author": "Taylor Caldwell"
+    },
+    "history": {
+      "year": 1970,
+      "text": "Fighting begins between Arab guerrillas and government forces in Jordan."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
