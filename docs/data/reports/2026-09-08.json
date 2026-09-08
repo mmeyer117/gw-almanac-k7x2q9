@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-08",
+  "display_date": "Tuesday, September 8, 2026",
+  "generated_at": "2026-09-08T14:34:49+00:00",
+  "sections": {
+    "word": {
+      "word": "magnanimous",
+      "part_of_speech": "adjective",
+      "definition": "Magnanimous is a formal word that means “having or showing a generous and kind nature.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/magnanimous-2026-09-08"
+    },
+    "sports_fact": {
+      "text": "On September 8, 1998, Mark McGwire hit home run number 62 off Steve Trachsel at Busch Stadium, breaking Roger Maris's record — and hugged the Maris family in the front row.",
+      "sport": "baseball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Oil Nears $100, Dow Drops",
+      "summary": "Brent crude climbs after Houthi attacks on energy infrastructure in Saudi Arabia",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It's not enough simply to say that Trump and his followers are extremists who do not believe in democracy and the rule of law. Democrats should be making it absolutely clear that the people the Republicans take their money from, and the people whom Republican policies serve — the very rich and the very powerful individuals who seek an America where uber-capitalism defines every aspect of our economy and of our society — are the problem. There is a reason why Republicans oppose saving the planet, oppose taxing the rich, oppose regulating corporations. And oppose responding to inflation by addressing corporate price gouging and profiteerring. They are delivering for their billionaire donors and their corporate sponsors. Pure and simple. Democrats should be making it clear that they are prepared to challenge the rich and powerful on behalf of the working class.",
+      "author": "Bernie Sanders"
+    },
+    "history": {
+      "year": 1796,
+      "text": "French Revolutionary Wars: Battle of Bassano: French forces defeat Austrian troops at Bassano del Grappa."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
