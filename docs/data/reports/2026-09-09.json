@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-09",
+  "display_date": "Wednesday, September 9, 2026",
+  "generated_at": "2026-09-09T14:38:18+00:00",
+  "sections": {
+    "word": {
+      "word": "stigma",
+      "part_of_speech": "noun",
+      "definition": "Stigma refers to a set of negative and often unfair beliefs that a society or group of people have about something.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/stigma-2026-09-09"
+    },
+    "sports_fact": {
+      "text": "The NBA's 24-second shot clock was invented in 1954 by Syracuse owner Danny Biasone, who did the math on a napkin: 48 minutes ÷ 120 expected shots = 24 seconds. It saved the league.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Oil Hits $100 for First Time Since July",
+      "summary": "Escalating conflict in Middle East stokes fears of supply disruptions",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A dream is a creation of the intelligence, the creator being present but not knowing how it will end.",
+      "author": "Cesare Pavese"
+    },
+    "history": {
+      "year": 1939,
+      "text": "World War II: The Battle of Hel begins, the longest-defended pocket of Polish Army resistance during the German invasion of Poland."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
