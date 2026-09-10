@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-10",
+  "display_date": "Thursday, September 10, 2026",
+  "generated_at": "2026-09-10T14:28:31+00:00",
+  "sections": {
+    "word": {
+      "word": "Loath",
+      "part_of_speech": "adjective",
+      "definition": "A person who is loath to do something is unwilling or reluctant to do that thing.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-10"
+    },
+    "sports_fact": {
+      "text": "The St. Louis Hawks won the 1958 NBA championship behind Bob Pettit's 50 points in the clinching game — still the city's only NBA title.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Bond Yields Jump as Oil Climbs",
+      "summary": "Brent crude moves about $105 a barrel; stocks fall",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I don't know exactly what a prayer is. I do know how to pay attention, how to fall down into the grass, how to kneel down in the grass, how to be idle and blessed, how to stroll through the fields, which is what I have been doing all day. Tell me, what else should I have done? Doesn't everything die at last, and too soon? Tell me, what is it you plan to do with your one wild and precious life?",
+      "author": "Mary Oliver"
+    },
+    "history": {
+      "year": 1509,
+      "text": "An earthquake known as \"The Lesser Judgment Day\" hits Constantinople."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
