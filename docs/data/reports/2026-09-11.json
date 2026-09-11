@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-11",
+  "display_date": "Friday, September 11, 2026",
+  "generated_at": "2026-09-11T14:27:49+00:00",
+  "sections": {
+    "word": {
+      "word": "Patina",
+      "part_of_speech": "noun",
+      "definition": "A patina is a usually green film that forms on copper and bronze that is exposed to moist air for an extended time. The word patina can also refer to a shiny or dark surface that over time forms naturally on something (such as wood or leather), or to a literal or figurative thin layer.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-11"
+    },
+    "sports_fact": {
+      "text": "Basketball at the 1936 Olympics was played outdoors on dirt courts. The gold-medal game was played in driving rain, and the US beat Canada 19-8.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Inflation Figure Boosts Odds of Rate Hike Next Week",
+      "summary": "Traders increase chance of Fed rate increase to more than 80%; Dow rallies",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Remember the day The first signs of trouble The dust and the rubble Unspeakable loss And remember the day The courage and valor That ran to the towers At such a great cost Remember the day How we were shaken And our hearts awakened To what matters most.",
+      "author": "Steven Curtis Chapman"
+    },
+    "history": {
+      "year": 1967,
+      "text": "China's People's Liberation Army (PLA) launched an attack on Indian posts at Nathu La, Sikkim, India, which resulted in military clashes."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
