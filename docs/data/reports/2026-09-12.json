@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-12",
+  "display_date": "Saturday, September 12, 2026",
+  "generated_at": "2026-09-12T13:37:11+00:00",
+  "sections": {
+    "word": {
+      "word": "Hobnob",
+      "part_of_speech": "verb",
+      "definition": "To hobnob is to socialize with others, especially with people of high social status.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-12"
+    },
+    "sports_fact": {
+      "text": "Muggsy Bogues played 14 NBA seasons at 5-foot-3 — and blocked 39 shots, including one on Patrick Ewing.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Heart Disease, a Historic Strength for Big Pharma, Becomes a Weakness",
+      "summary": "Heart disease remains humanity’s top killer, yet for drugmakers and Wall Street, it is becoming one of the hardest places to make money.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I believe in the complete freedom of thought and speech — alike for the humblest man and the mightiest, and in the utmost freedom of conduct that is consistent with living in organized society. I believe in the capacity of man to conquer his world, and to find out what it is made of, and how it is run. I believe in the reality of progress. I — But the whole thing, after all, may be put very simply. I believe that it is better to tell the truth than to lie. I believe that it is better to be free than to be a slave. And I believe that it is better to know than be ignorant.",
+      "author": "H. L. Mencken"
+    },
+    "history": {
+      "year": 1984,
+      "text": "Dwight Gooden sets the baseball record for strikeouts in a season by a rookie with 276, previously set by Herb Score with 246 in 1954. Gooden's 276 strikeouts that season, pitched in 218 innings, set the current record."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
