@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-13",
+  "display_date": "Sunday, September 13, 2026",
+  "generated_at": "2026-09-13T14:25:34+00:00",
+  "sections": {
+    "word": {
+      "word": "Shofar",
+      "part_of_speech": "noun",
+      "definition": "A shofar is the horn of an animal (usually a ram) blown as a trumpet by the ancient Hebrews in battle and during religious observances. It is used in modern Judaism especially during Rosh Hashanah and at the end of Yom Kippur.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-13"
+    },
+    "sports_fact": {
+      "text": "Klay Thompson once scored 37 points in a single quarter — a perfect 13-for-13 from the field. The other team scored 24 that quarter.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Larry Ellison Scraps Plan to Sell Up to $7.5 Billion Worth of Oracle Stock",
+      "summary": "The billionaire said that no stock was sold, and that he canceled a plan to unload 50 million shares.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "\"Dreams is very mystical things,\" the BFG said. \"Human beans is not understanding them at all. Not even their brainiest prossefors is understanding them.\"",
+      "author": "Roald Dahl"
+    },
+    "history": {
+      "year": 1898,
+      "text": "Hannibal Goodwin patents celluloid photographic film."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
