@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-14",
+  "display_date": "Monday, September 14, 2026",
+  "generated_at": "2026-09-14T16:22:58+00:00",
+  "sections": {
+    "word": {
+      "word": "Empirical",
+      "part_of_speech": "adjective",
+      "definition": "When we describe something, such as data, as empirical , we mean that it originated in, or was based on, observation or experience. Empirical can also be used to describe something that can be verified or disproved by observation or experiment, as in “empirical laws.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/2026-09-14"
+    },
+    "sports_fact": {
+      "text": "Scott Skiles dished 30 assists in a single NBA game in 1990 — a record no one has come within 5 of since.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: 10-Year Treasury Yield Touches 5%, Pushed by Oil Surge",
+      "summary": "Concerns about AI safety weigh on tech stocks",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There is not one of you whose actions do not operate on the actions of others — operate, we mean, in the way of example. He would be insignificant who could only destroy his own soul; but you are all, alas! of importance enough to help also to destroy the souls of others. ...Ye cannot live for yourselves; a thousand fibres connect you with your fellow-men, and along those fibres, as along sympathetic threads, run your actions as causes, and return to you as effects.",
+      "author": "Henry Melvill"
+    },
+    "history": {
+      "year": 1917,
+      "text": "The Russian Empire is formally replaced by the Russian Republic."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
