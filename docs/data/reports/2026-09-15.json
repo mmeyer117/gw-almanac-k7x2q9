@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-15",
+  "display_date": "Tuesday, September 15, 2026",
+  "generated_at": "2026-09-15T15:02:15+00:00",
+  "sections": {
+    "word": {
+      "word": "quorum",
+      "part_of_speech": "noun",
+      "definition": "Quorum refers to the smallest number of people who must be present at a meeting in order for official decisions to be made.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/quorum-2026-09-15"
+    },
+    "sports_fact": {
+      "text": "When the ABA folded into the NBA in 1976, it brought the 3-point line, the dunk contest, and four franchises: the Spurs, Nuggets, Pacers, and Nets.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: 10-Year Treasury Yield Hits Fresh High Above 5%",
+      "summary": "Dow falls 500 points; Oil rises to $108 a barrel",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The very existence of government at all, infers inequality. The citizen who is preferred to office becomes the superior to those who are not, so long as he is the repository of power, and the child inherits the wealth of the parent as a controlling law of society.",
+      "author": "James Fenimore Cooper"
+    },
+    "history": {
+      "year": 1556,
+      "text": "Departing from Vlissingen, ex-Holy Roman Emperor Charles V returns to Spain."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
