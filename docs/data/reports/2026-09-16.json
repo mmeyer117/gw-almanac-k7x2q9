@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-16",
+  "display_date": "Wednesday, September 16, 2026",
+  "generated_at": "2026-09-16T14:59:33+00:00",
+  "sections": {
+    "word": {
+      "word": "facsimile",
+      "part_of_speech": "noun",
+      "definition": "A facsimile is an exact copy of something.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/facsimile-2026-09-16"
+    },
+    "sports_fact": {
+      "text": "Kareem Abdul-Jabbar's career scoring record of 38,387 points stood for nearly 39 years before LeBron James passed it in 2023.",
+      "sport": "basketball"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Fed Meeting Today: Markets Steady as Investors Await Rate Decision",
+      "summary": "The 10-year Treasury yield falls below 5%, with oil retreating slightly",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "<p>Enough of dreams! No longer mock The burdened hearts of men! Not on the cloud, but on the rock Build thou thy faith again;</p> <p>O range no more the realms of air, Stoop to the glen-bound streams; Thy hope was all too like despair: Enough, enough of dreams.</p>",
+      "author": "Alfred Noyes"
+    },
+    "history": {
+      "year": 1810,
+      "text": "With the Grito de Dolores, Father Miguel Hidalgo begins Mexico's fight for independence from Spain."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
