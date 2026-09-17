@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-17",
+  "display_date": "Thursday, September 17, 2026",
+  "generated_at": "2026-09-17T15:03:03+00:00",
+  "sections": {
+    "word": {
+      "word": "watershed",
+      "part_of_speech": "noun",
+      "definition": "Watershed , used figuratively, refers to a crucial dividing point, line, or factor.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/watershed-2026-09-17"
+    },
+    "sports_fact": {
+      "text": "The Stanley Cup is the oldest trophy awarded to a professional sports franchise in North America, dating back to 1893.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Stocks Climb as Markets Retrace Post-Fed Moves",
+      "summary": "The 10-year Treasury yield is just below 5% as oil retreats",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There are no events but thoughts and the heart's hard turning, the heart's slow learning where to love and whom. The rest is merely gossip, and tales for other times.",
+      "author": "Annie Dillard"
+    },
+    "history": {
+      "year": 1683,
+      "text": "Antonie van Leeuwenhoek writes a letter to the Royal Society describing \"animalcules\", later known as protozoa."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
