@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-18",
+  "display_date": "Friday, September 18, 2026",
+  "generated_at": "2026-09-18T14:31:54+00:00",
+  "sections": {
+    "word": {
+      "word": "churlish",
+      "part_of_speech": "adjective",
+      "definition": "Churlish is a formal word used to describe someone or something that is impolite or rude.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/churlish-2026-09-18"
+    },
+    "sports_fact": {
+      "text": "Wayne Gretzky has more career assists (1,963) than any other player has total points. You could erase every goal he ever scored and he'd still be the NHL's all-time scoring leader.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Nasdaq Heads for Weekly Gain as AI Stocks Rise",
+      "summary": "10-year yield edges higher as oil retraces earlier losses",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Few things are impossible to diligence and skill.",
+      "author": "Samuel Johnson"
+    },
+    "history": {
+      "year": 1973,
+      "text": "The Bahamas, East Germany and West Germany are admitted to the United Nations."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
