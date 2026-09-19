@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-19",
+  "display_date": "Saturday, September 19, 2026",
+  "generated_at": "2026-09-19T13:56:07+00:00",
+  "sections": {
+    "word": {
+      "word": "aggrandize",
+      "part_of_speech": "verb",
+      "definition": "To aggrandize someone (or something) is to enhance their power, wealth, position, or reputation.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/aggrandize-2026-09-19"
+    },
+    "sports_fact": {
+      "text": "The Blues reached the Stanley Cup Final in each of their first three seasons (1968-70) — and were swept all three times. It took 49 more years to win it.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 18, 2026: Tech Stocks Climb as Treasury Yields Rise",
+      "summary": "The 2-year Treasury yield moved to its highest level in two years in anticipation of more Fed rate hikes.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I don’t like the word \"allegorical\", I don’t like the word \"symbolic\", the word I really like is \"mythic\" and people always think that means \"full of lies\" when what it really means is full of a truth that cannot be told in any other way but a story.",
+      "author": "William Golding"
+    },
+    "history": {
+      "year": 1870,
+      "text": "Franco-Prussian War: The siege of Paris begins. The city held out for over four months before surrendering."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
