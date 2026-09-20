@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-20",
+  "display_date": "Sunday, September 20, 2026",
+  "generated_at": "2026-09-20T14:14:47+00:00",
+  "sections": {
+    "word": {
+      "word": "volition",
+      "part_of_speech": "noun",
+      "definition": "Volition is a formal word that means “the power to make your own choices or decisions.” Usually, though not always, volition follows own , as in “left the company of her own volition.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/volition-2026-09-20"
+    },
+    "sports_fact": {
+      "text": "On September 20, 1973, Billie Jean King beat Bobby Riggs in the 'Battle of the Sexes' before 30,000 at the Astrodome and a TV audience of 90 million.",
+      "sport": "tennis"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 18, 2026: Tech Stocks Climb as Treasury Yields Rise",
+      "summary": "The 2-year Treasury yield moved to its highest level in two years in anticipation of more Fed rate hikes.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "When the first savage saw his hut destroyed by a bolt of lightning, he fell down upon his face in terror. He had no conception of natural forces, of laws of electricity; he saw this event as the act of an individual intelligence. … The story of the hero who slays the devouring dragon was not merely a symbol of day and night, of summer and winter; it was a literal explanation of the phenomena, it was the science of early times.",
+      "author": "Upton Sinclair"
+    },
+    "history": {
+      "year": 1954,
+      "text": "The Moomin comics, created by Tove Jansson and Lars Jansson, is published internationally in the London newspaper The Evening News."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
