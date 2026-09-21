@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-21",
+  "display_date": "Monday, September 21, 2026",
+  "generated_at": "2026-09-21T16:29:02+00:00",
+  "sections": {
+    "word": {
+      "word": "elegiac",
+      "part_of_speech": "adjective",
+      "definition": "Elegiac means “of, relating to, or comprising an elegy ,\" an elegy being a sorrowful poem or song, and especially one that expresses sorrow for someone who is dead.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/elegiac-2026-09-21"
+    },
+    "sports_fact": {
+      "text": "Goalie Glenn Hall played 502 consecutive complete games — without a mask. He later backstopped the expansion Blues to three straight Cup Finals.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Drop in Oil Prices Unlocks Rally in Tech Shares",
+      "summary": "Brent crude trades below $100 amid optimism around U.S.-China talks",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It's coming through a hole in the air From those nights in Tiananmen Square It's coming from the feel That it ain't exactly real Or it's real, but it ain't exactly there From the war against disorder From the sirens night and day From the fires of the homeless From the ashes of the gay Democracy is coming to the U.S.A.",
+      "author": "Leonard Cohen"
+    },
+    "history": {
+      "year": 1981,
+      "text": "Belize is granted full independence from the United Kingdom."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
