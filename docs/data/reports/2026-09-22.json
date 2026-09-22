@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-22",
+  "display_date": "Tuesday, September 22, 2026",
+  "generated_at": "2026-09-22T14:57:21+00:00",
+  "sections": {
+    "word": {
+      "word": "nemesis",
+      "part_of_speech": "noun",
+      "definition": "A nemesis is a formidable foe—an opponent or enemy who is very difficult to defeat.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/nemesis-2026-09-22"
+    },
+    "sports_fact": {
+      "text": "Bobby Orr is the only defenseman ever to lead the NHL in scoring — and he did it twice.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Oil Sinks Below $100, Lifting Tech Stocks",
+      "summary": "Trump addressing world leaders this morning",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It is an undoubted truth, that the less one has to do, the less time one finds to do it in. One yawns, one procrastinates, one can do it when one will, and therfore one seldom does it at all.",
+      "author": "Philip Stanhope, 4th Earl of Chesterfield"
+    },
+    "history": {
+      "year": 1919,
+      "text": "The steel strike of 1919, led by the Amalgamated Association of Iron and Steel Workers, begins in Pennsylvania before spreading across the United States."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
