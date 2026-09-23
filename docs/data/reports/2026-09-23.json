@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-23",
+  "display_date": "Wednesday, September 23, 2026",
+  "generated_at": "2026-09-23T15:02:43+00:00",
+  "sections": {
+    "word": {
+      "word": "compendious",
+      "part_of_speech": "adjective",
+      "definition": "A compendious book, research paper, article, etc.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/compendious-2026-09-23"
+    },
+    "sports_fact": {
+      "text": "The 1919 Stanley Cup Final was cancelled mid-series due to the influenza pandemic — one of only two years the Cup has not been awarded.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: 10-Year Treasury Yield Jumps Above 5%",
+      "summary": "Nasdaq falls 1%; moves come as oil prices rise and a Fed governor says more rate hikes are likely",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The gentle rain falls softly on my weary eyes As if to hide a lonely tear My life will be forever autumn Now you're not here.",
+      "author": "Gary Osborne"
+    },
+    "history": {
+      "year": 1932,
+      "text": "Saudi National Day: Crown Prince (later king) Faisal of Saudi Arabia, on behalf of Ibn Saud, proclaims the unification of the Kingdom of Saudi Arabia, the current iteration of the Third Saudi State."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
