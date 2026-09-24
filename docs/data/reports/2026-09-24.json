@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-24",
+  "display_date": "Thursday, September 24, 2026",
+  "generated_at": "2026-09-24T15:09:28+00:00",
+  "sections": {
+    "word": {
+      "word": "pundit",
+      "part_of_speech": "noun",
+      "definition": "A pundit is someone, especially an expert, who presents their opinions and ideas on a particular subject via the media.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/pundit-2026-09-24"
+    },
+    "sports_fact": {
+      "text": "The 'Original Six' era — just six NHL teams — lasted 25 years, until 1967, when the league doubled overnight and the expansion St. Louis Blues were born.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Global Bond Selloff Dings Stocks",
+      "summary": "Treasury yields edge up as oil prices continue to rise",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "HIPCRIME You committed one when you opened this book. Keep it up. It's our only hope.",
+      "author": "John Brunner"
+    },
+    "history": {
+      "year": 1935,
+      "text": "Earl and Weldon Bascom produce the first rodeo ever held outdoors under electric lights."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
