@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-25",
+  "display_date": "Friday, September 25, 2026",
+  "generated_at": "2026-09-25T15:17:43+00:00",
+  "sections": {
+    "word": {
+      "word": "tactile",
+      "part_of_speech": "adjective",
+      "definition": "Tactile typically describes something, such as a sensation or experience, relating to the sense of touch.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/tactile-2026-09-25"
+    },
+    "sports_fact": {
+      "text": "Teemu Selanne scored 76 goals as a rookie in 1992-93 — 23 more than any first-year player before or since.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Bond Yields Move Higher Near End of Volatile Week",
+      "summary": "Dow edges up amid hopes for a deal to reopen Hormuz",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "It is my ambition to be, as a private individual, abolished and voided from history, leaving it markless, no refuse save the printed books; I wish I had enough sense to see ahead thirty years ago, and like some of the Elizabethans, not signed them. It is my aim, and every effort bent, that the sum and history of my life, which in the same sentence is my obit and epitaph too, shall be them both: He made the books and he died.",
+      "author": "William Faulkner"
+    },
+    "history": {
+      "year": 1911,
+      "text": "An explosion of badly degraded propellant charges on board the French battleship Liberté detonates the forward ammunition magazines and destroys the ship."
+    },
+    "spotlight": {
+      "persona": "Porter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
