@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-26",
+  "display_date": "Saturday, September 26, 2026",
+  "generated_at": "2026-09-26T14:31:38+00:00",
+  "sections": {
+    "word": {
+      "word": "confabulate",
+      "part_of_speech": "verb",
+      "definition": "Confabulate has two very different meanings.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/confabulate-2026-09-26"
+    },
+    "sports_fact": {
+      "text": "Frank Zamboni invented his ice-resurfacing machine in 1949 for his Southern California rink. The family company still makes them, and his name became the word.",
+      "sport": "hockey"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 25, 2026: Bond Yields Drop With Oil Prices Near End of Volatile Week",
+      "summary": "Dow rises amid hopes for a deal to reopen the Strait of Hormuz",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Philosophy will not be able to effect an immediate transformation of the present condition of the world. This is not only true of philosophy, but of all merely human thought and endeavor. Only a god can save us. The sole possibility that is left for us is to prepare a sort of readiness, through thinking and poeticizing, for the appearance of the god or for the absence of the god in the time of foundering for in the face of the god who is absent, we founder.",
+      "author": "Martin Heidegger"
+    },
+    "history": {
+      "year": 1917,
+      "text": "World War I: The Battle of Polygon Wood begins."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
