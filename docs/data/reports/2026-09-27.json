@@ -1,0 +1,35 @@
+{
+  "date": "2026-09-27",
+  "display_date": "Sunday, September 27, 2026",
+  "generated_at": "2026-09-27T15:10:40+00:00",
+  "sections": {
+    "word": {
+      "word": "bellwether",
+      "part_of_speech": "noun",
+      "definition": "Bellwether usually refers to something that serves as an indicator of trends.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/bellwether-2026-09-27"
+    },
+    "sports_fact": {
+      "text": "Tom Dempsey, born without toes on his kicking foot, hit a 63-yard field goal in 1970 — a record that stood for 43 years.",
+      "sport": "football"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market News, Sept. 25, 2026: Bond Yields Drop With Oil Prices Near End of Volatile Week",
+      "summary": "Dow rises amid hopes for a deal to reopen the Strait of Hormuz",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "All men have a right to remain in a state of nature as long as they please; and in case of intolerable oppression, civil or religious, to leave the society they belong to, and enter into another.",
+      "author": "Samuel Adams"
+    },
+    "history": {
+      "year": 1928,
+      "text": "The Republic of China is recognized by the United States."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
