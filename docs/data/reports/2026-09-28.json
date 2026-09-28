@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-28",
+  "display_date": "Monday, September 28, 2026",
+  "generated_at": "2026-09-28T20:16:56+00:00",
+  "sections": {
+    "word": {
+      "word": "fungible",
+      "part_of_speech": "adjective",
+      "definition": "Fungible describes things, such as currency, goods, and commodities, that can be exchanged for something else of the same kind or value.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/fungible-2026-09-28"
+    },
+    "sports_fact": {
+      "text": "The largest blowout in NFL history is the 1940 championship: Bears 73, Washington 0. Washington had beaten the Bears three weeks earlier.",
+      "sport": "football"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Treasury Yields Climb to Fresh Highs; Tech Stocks Drop",
+      "summary": "Oil price rises; Nvidia shares gain after buyback plan",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Shakespeare's stage Must hold the glass to every age,— A thousand forms and passions glow Upon the world -wide canvas. So With larger scope our art we ply; And if the crown be harder won, Diviner rays around it run, With strains of fuller harmony .",
+      "author": "Francis Turner Palgrave"
+    },
+    "history": {
+      "year": 1924,
+      "text": "The first aerial circumnavigation is completed by a team from the US Army."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
