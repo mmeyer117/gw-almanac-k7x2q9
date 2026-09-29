@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-29",
+  "display_date": "Tuesday, September 29, 2026",
+  "generated_at": "2026-09-29T16:31:33+00:00",
+  "sections": {
+    "word": {
+      "word": "argot",
+      "part_of_speech": "noun",
+      "definition": "Argot refers to the language or set of words used by a particular group of people.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/argot-2026-09-29"
+    },
+    "sports_fact": {
+      "text": "Jerry Rice's 22,895 receiving yards are almost 5,500 more than second place — roughly three full seasons of separation.",
+      "sport": "football"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Relentless Rise in Treasury Yields Continues",
+      "summary": "30-year yield hits highest level since 2002; Dow slips",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "First gain the victory and then make the best use of it you can.",
+      "author": "Horatio Nelson"
+    },
+    "history": {
+      "year": 1923,
+      "text": "The Mandate for Syria and Lebanon takes effect."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
