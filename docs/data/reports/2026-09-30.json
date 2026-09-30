@@ -1,0 +1,38 @@
+{
+  "date": "2026-09-30",
+  "display_date": "Wednesday, September 30, 2026",
+  "generated_at": "2026-09-30T15:16:47+00:00",
+  "sections": {
+    "word": {
+      "word": "epistemic",
+      "part_of_speech": "adjective",
+      "definition": "Epistemic means \"of or relating to knowledge or knowing.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/epistemic-2026-09-30"
+    },
+    "sports_fact": {
+      "text": "The 1972 Dolphins remain the NFL's only perfect season at 17-0 — and their starting QB missed most of the year with a broken leg.",
+      "sport": "football"
+    },
+    "stl_sports": null,
+    "market": {
+      "headline": "Stock Market Today: Signs of Strength in U.S. Economy Power Stocks",
+      "summary": "Nasdaq rises after second-quarter GDP growth revised to 2.2%",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You, who are so-called illegal aliens, must know that no human being is \"illegal.\" That is a contradiction in terms. Human beings can be beautiful or more beautiful, they can be fat or skinny, they can be right or wrong, but illegal? How can a human being be illegal?",
+      "author": "Elie Wiesel"
+    },
+    "history": {
+      "year": 1915,
+      "text": "World War I: Radoje Ljutovac becomes the first soldier in history to shoot down an enemy aircraft with ground-to-air fire."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
