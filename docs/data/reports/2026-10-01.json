@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-01",
+  "display_date": "Thursday, October 1, 2026",
+  "generated_at": "2026-10-01T16:19:07+00:00",
+  "sections": {
+    "word": {
+      "word": "slew",
+      "part_of_speech": "noun",
+      "definition": "Slew is an informal word for a large number of people or things.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/slew-2026-10-01"
+    },
+    "sports_fact": {
+      "text": "On October 1, 1961, Roger Maris hit home run number 61 off Tracy Stallard on the season's final day, breaking Babe Ruth's single-season record under crushing pressure.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Tomorrow 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "team_score": "3",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Bond Selloff Eases in Volatile Trading Day",
+      "summary": "Stock indexes fall, led by the Dow",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Since honour from the honourer proceeds, How well do they deserve that memorize And leave in Books, for all posterities The names of worthies and their virtuous deeds: When all their glory else, like water-weeds Without their element, presèntly dies, And all their greatness quite forgotten lies, And when and how they flourished no man heeds! How poor remembrances are statues, tombs, And other monuments that men erect To princes, which remain in closèd rooms Where but a few behold them, in respect Of Books, that to the universal eye Show how they lived; the other where they lie!",
+      "author": "John Florio"
+    },
+    "history": {
+      "year": 1962,
+      "text": "James Meredith becomes the first African American student to enroll at the University of Mississippi."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
