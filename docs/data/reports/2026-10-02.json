@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-02",
+  "display_date": "Friday, October 2, 2026",
+  "generated_at": "2026-10-02T11:00:17+00:00",
+  "sections": {
+    "word": {
+      "word": "heterodox",
+      "part_of_speech": "adjective",
+      "definition": "Like both unorthodox and unconventional , heterodox describes something, such an idea or belief, that is contrary to or different from an acknowledged standard, a traditional form, or an established religion.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/heterodox-2026-10-02"
+    },
+    "sports_fact": {
+      "text": "Kurt Warner was stocking grocery shelves in Iowa five years before leading the Rams to a Super Bowl title and winning two MVPs.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Today 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Jobs Report Today: Bond Market Steadies as Investors Await Employment Numbers",
+      "summary": "Economists expect U.S. to have added 84,000 jobs last month, enough to keep Fed focused on inflation",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "No human being can really understand another, and no one can arrange another's happiness.",
+      "author": "Graham Greene"
+    },
+    "history": {
+      "year": 1980,
+      "text": "Michael Myers becomes the first member of either chamber of Congress to be expelled since the Civil War."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
