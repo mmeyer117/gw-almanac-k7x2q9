@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-03",
+  "display_date": "Saturday, October 3, 2026",
+  "generated_at": "2026-10-03T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "tittle",
+      "part_of_speech": "noun",
+      "definition": "Used chiefly in British English, tittle refers to a very small part or amount; it is often paired with the word jot .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/tittle-2026-10-03"
+    },
+    "sports_fact": {
+      "text": "Marshall Faulk piled up 2,429 yards from scrimmage for the 1999 Rams — a record at the time — as the engine of the Greatest Show on Turf.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "team_score": "4",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Avalanche",
+            "is_home": false,
+            "venue": "Ball Arena",
+            "datetime_utc": "2026-10-04T01:00:00+00:00",
+            "label": "Today 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Oct. 2, 2026: Stocks Jump as Hiring Softens",
+      "summary": "Nasdaq hits new intraday record; bond yields turn higher",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If a man has talent and can't use it, he's failed. If he uses only half of it, he has partly failed. If he uses the whole of it, he has succeeded, and won a satisfaction and triumph few men ever know.",
+      "author": "Thomas Wolfe"
+    },
+    "history": {
+      "year": 1792,
+      "text": "A militia departs from the Spanish stronghold of Valdivia to quell a Huilliche uprising in southern Chile."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
