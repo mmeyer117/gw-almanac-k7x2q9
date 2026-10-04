@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-04",
+  "display_date": "Sunday, October 4, 2026",
+  "generated_at": "2026-10-04T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "adventitious",
+      "part_of_speech": "adjective",
+      "definition": "Adventitious is a formal word that most often describes something that comes from an outside source, and is neither inherent or innate.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/adventitious-2026-10-04"
+    },
+    "sports_fact": {
+      "text": "Deion Sanders is the only person to play in both a Super Bowl and a World Series. He also once played in an NFL and MLB game in the same week.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Avalanche",
+            "is_home": false,
+            "venue": "Ball Arena",
+            "datetime_utc": "2026-10-04T01:00:00+00:00",
+            "team_score": "1",
+            "opp_score": "6",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Blackhawks",
+            "is_home": false,
+            "venue": "United Center",
+            "datetime_utc": "2026-10-07T00:00:00+00:00",
+            "label": "Tue 10/6, 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Oct. 2, 2026: Stocks Jump as Hiring Softens",
+      "summary": "Nasdaq hits new intraday record; bond yields turn higher",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Charlie Chaplin and I would have a friendly contest: Who could do the feature film with the least subtitles?",
+      "author": "Buster Keaton"
+    },
+    "history": {
+      "year": 1963,
+      "text": "Hurricane Flora kills 6,000 in Cuba and Haiti."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
