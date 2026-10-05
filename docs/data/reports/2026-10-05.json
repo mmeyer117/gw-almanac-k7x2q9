@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-05",
+  "display_date": "Monday, October 5, 2026",
+  "generated_at": "2026-10-05T11:00:16+00:00",
+  "sections": {
+    "word": {
+      "word": "perseverate",
+      "part_of_speech": "verb",
+      "definition": "To perseverate is to intently focus one's attention on a thought or thoughts.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/perseverate-2026-10-05"
+    },
+    "sports_fact": {
+      "text": "Walter Payton missed one game in 13 NFL seasons — as a rookie — and was furious about it for years.",
+      "sport": "football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Blackhawks",
+            "is_home": false,
+            "venue": "United Center",
+            "datetime_utc": "2026-10-07T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dollar Strengthens as Investors Look for Safety",
+      "summary": "Euro dragged by France's fiscal woes",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "People who live in the post-totalitarian system know only too well that the question of whether one or several political parties are in power, and how these parties define and label themselves, is of far less importance than the question of whether or not it is possible to live like a human being.",
+      "author": "Václav Havel"
+    },
+    "history": {
+      "year": 1945,
+      "text": "A six-month strike by Hollywood set decorators turns into a bloody riot at the gates of the Warner Brothers studio."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
