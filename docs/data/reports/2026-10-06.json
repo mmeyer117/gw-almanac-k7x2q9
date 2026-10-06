@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-06",
+  "display_date": "Tuesday, October 6, 2026",
+  "generated_at": "2026-10-06T11:00:24+00:00",
+  "sections": {
+    "word": {
+      "word": "regimen",
+      "part_of_speech": "noun",
+      "definition": "Regimen refers to a plan or set of rules about food, exercise, etc., designed to make someone become or stay healthy.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/regimen-2026-10-06"
+    },
+    "sports_fact": {
+      "text": "In 1916, Georgia Tech beat Cumberland College 222-0. Cumberland had dropped its football program; a contract clause forced them to show up anyway.",
+      "sport": "college football"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Blackhawks",
+            "is_home": false,
+            "venue": "United Center",
+            "datetime_utc": "2026-10-07T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: S&P Futures Rise, Putting New Record In Sight",
+      "summary": "U.S. 10-year bond yield eases; oil slips",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There rolls the deep where grew the tree. O earth, what changes hast thou seen! There where the long street roars, hath been The stillness of the central sea . The hills are shadows, and they flow From form to form, and nothing stands; They melt like mist, the solid lands, Like clouds they shape themselves and go. But in my spirit will I dwell, And dream my dream, and hold it true; For tho’ my lips may breathe adieu I cannot think the thing farewell.",
+      "author": "Alfred, Lord Tennyson"
+    },
+    "history": {
+      "year": 1683,
+      "text": "Immigrant families found Germantown, Pennsylvania in the first major immigration of German people to America."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
