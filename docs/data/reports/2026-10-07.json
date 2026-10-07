@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-07",
+  "display_date": "Wednesday, October 7, 2026",
+  "generated_at": "2026-10-07T11:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "discreet",
+      "part_of_speech": "adjective",
+      "definition": "Discreet describes someone who is careful about not allowing something to be known or noticed by many people.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/discreet-2026-10-07"
+    },
+    "sports_fact": {
+      "text": "Pelé is still the only player to win three World Cups — and he won his first at 17, scoring twice in the final.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Blackhawks",
+            "is_home": false,
+            "venue": "United Center",
+            "datetime_utc": "2026-10-07T00:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Sharks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-09T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
+      "summary": "Treasury yields inch higher; oil rises",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A law is foolish which does not aim at abstract or intrinsic justice; and so is it foolish to attempt to achieve abstract justice as the sole good by succumbing to the fallacy to which the mind is prone, which regards direct consequences as if they were the only consequences. Those who believe anything sanctioned by law is right commit one great error; those who believe the law should sanction only what is right commit another. Either error might result in foolish laws; and, although a foolish law may be preferable to a wise dictator, a wise law is preferable to both.",
+      "author": "Harry V. Jaffa"
+    },
+    "history": {
+      "year": 1691,
+      "text": "The charter for the Province of Massachusetts Bay is issued."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
