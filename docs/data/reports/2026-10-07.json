@@ -1,7 +1,7 @@
 {
   "date": "2026-10-07",
   "display_date": "Wednesday, October 7, 2026",
-  "generated_at": "2026-10-07T11:00:15+00:00",
+  "generated_at": "2026-10-07T15:45:22+00:00",
   "sections": {
     "word": {
       "word": "discreet",
@@ -51,8 +51,8 @@
       ]
     },
     "market": {
-      "headline": "Stock Market Today: S&P 500, Nasdaq Futures Retreat After Record Highs",
-      "summary": "Treasury yields inch higher; oil rises",
+      "headline": "Stock Market Today: Dow Falls, Treasury Yields Hit Fresh 24-Year Highs",
+      "summary": "Oil prices edge higher",
       "source": "WSJ Markets"
     },
     "quote": {
