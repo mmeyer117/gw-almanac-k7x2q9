@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-08",
+  "display_date": "Thursday, October 8, 2026",
+  "generated_at": "2026-10-08T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "etiquette",
+      "part_of_speech": "noun",
+      "definition": "Etiquette refers to rules or customs that dictate what behavior is considered appropriate and expected in a particular setting.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/etiquette-2026-10-08"
+    },
+    "sports_fact": {
+      "text": "When England lost to the US 1-0 at the 1950 World Cup — maybe the biggest upset in the sport's history — five of the American starters were from St. Louis.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Sharks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-09T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Jumps, Dow Futures Slide on Fresh Tanker Attack",
+      "summary": "Brent crude trades above $105 a barrel; Treasury yields near multidecade highs",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I now believe that evolution, or deevolution, never ends short of death, that no society has ever achieved an absolute pinnacle, that all humans are not created equal. In fact, I believe attempts to create some abstract equalization create a morass of injustices that rebound on the equalizers. Equal justice and equal opportunity are ideals we should seek, but we should recognize that humans administer the ideals and that humans do not have equal ability.",
+      "author": "Frank Herbert"
+    },
+    "history": {
+      "year": 1829,
+      "text": "Stephenson's Rocket wins the Rainhill Trials."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
