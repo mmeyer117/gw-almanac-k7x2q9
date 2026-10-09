@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-09",
+  "display_date": "Friday, October 9, 2026",
+  "generated_at": "2026-10-09T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "inscrutable",
+      "part_of_speech": "adjective",
+      "definition": "Inscrutable means \"not readily investigated, interpreted, or understood.\" It often describes things that are mysterious or difficult to comprehend.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/inscrutable-2026-10-09"
+    },
+    "sports_fact": {
+      "text": "The original World Cup trophy was stolen in London in 1966 and found a week later by a dog named Pickles. Stolen again in Brazil in 1983, it was never recovered.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Sharks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-09T00:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Blue Jackets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-10T23:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Sun 10/11, 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Mood in Markets Improves After Trump Vows Not to Strike Iran Before Midterms",
+      "summary": "Nasdaq futures jump, Brent crude slips",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Reality leaves a lot to the imagination.",
+      "author": "John Lennon"
+    },
+    "history": {
+      "year": 1708,
+      "text": "Peter the Great defeats the Swedes at the Battle of Lesnaya."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
