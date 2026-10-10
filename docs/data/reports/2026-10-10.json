@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-10",
+  "display_date": "Saturday, October 10, 2026",
+  "generated_at": "2026-10-10T11:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "Luddite",
+      "part_of_speech": "noun",
+      "definition": "Luddite refers to someone who is opposed to change, and especially to technological change.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/luddite-2026-10-10"
+    },
+    "sports_fact": {
+      "text": "The fastest World Cup goal ever came 10.8 seconds into a 2002 match, by Turkey's Hakan Şükür — before some TV viewers had found their seats.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Blue Jackets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-10T23:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
+      "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The more I know, the more sure I am I know so little. The eternal paradox.",
+      "author": "James Clavell"
+    },
+    "history": {
+      "year": 1920,
+      "text": "The Carinthian plebiscite determines that the larger part of the Duchy of Carinthia should remain part of Austria."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
