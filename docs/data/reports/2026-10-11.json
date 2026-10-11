@@ -1,0 +1,71 @@
+{
+  "date": "2026-10-11",
+  "display_date": "Sunday, October 11, 2026",
+  "generated_at": "2026-10-11T11:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "galore",
+      "part_of_speech": "adjective",
+      "definition": "Galore is an informal adjective that describes something as being in large numbers or amounts.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/galore-2026-10-11"
+    },
+    "sports_fact": {
+      "text": "Marta has scored 17 World Cup goals — more than any player in history, men's or women's tournament.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Blue Jackets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-10T23:00:00+00:00",
+            "team_score": "5",
+            "opp_score": "3",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Senators",
+            "is_home": false,
+            "venue": "Canadian Tire Centre",
+            "datetime_utc": "2026-10-13T23:30:00+00:00",
+            "label": "Tue 10/13, 6:30 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Oct. 9, 2026: Stocks Rise as Tech Shakes Off Thursday Selloff",
+      "summary": "Dollar set for fourth straight week of gains on higher Fed rate expectations",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The Nobel Peace Prize for 2026 goes to a person who with exceptional courage and integrity has led the way towards a more comprehensive global legal order. This year's Laureate has been instrumental in ensuring that war crimes, crimes against humanity and genocide are prosecuted. The Norwegian Nobel Committee has decided to award the Nobel Peace Prize for 2026 to Navanethem \"Navi\" Pillay for her efforts to promote peace and international law. Navi Pillay's commitment to universal legal principles and her firm moral compass are constants in a long career.",
+      "author": "Norwegian Nobel Committee"
+    },
+    "history": {
+      "year": 1899,
+      "text": "The Second Boer War erupts in South Africa between the British-ruled Cape Colony, and the Boer-ruled Transvaal and Orange Free State."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
