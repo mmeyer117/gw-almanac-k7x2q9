@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-12",
+  "display_date": "Monday, October 12, 2026",
+  "generated_at": "2026-10-12T11:00:17+00:00",
+  "sections": {
+    "word": {
+      "word": "nexus",
+      "part_of_speech": "noun",
+      "definition": "A nexus is a relationship or connection between people or things.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/nexus-2026-10-12"
+    },
+    "sports_fact": {
+      "text": "The US women have won four World Cups — no other country, men's or women's side combined, has more than Brazil's five.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Senators",
+            "is_home": false,
+            "venue": "Canadian Tire Centre",
+            "datetime_utc": "2026-10-13T23:30:00+00:00",
+            "label": "Tomorrow 6:30 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "LA Galaxy",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-11T23:00:00+00:00",
+            "team_score": "6",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-15T00:30:00+00:00",
+            "label": "Wed 10/14, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Diesel Prices Slip on Trump Push for Russia-Ukraine Truce",
+      "summary": "Stock futures point to small gains",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If there is sufficient aspiration, invoking, and soliciting, there is no doubt that even Gods apparently lost could come back again. They are there all the time. For nothing that has any truth in it can be destroyed. It merely goes out of manifestation; but it could reappear under propitious circumstances. So could the old Gods come to life again in response to new summons.",
+      "author": "Ram Swarup"
+    },
+    "history": {
+      "year": 1901,
+      "text": "President Theodore Roosevelt officially renames the \"Executive Mansion\" to the White House."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
