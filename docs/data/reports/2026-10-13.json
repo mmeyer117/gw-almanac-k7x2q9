@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-13",
+  "display_date": "Tuesday, October 13, 2026",
+  "generated_at": "2026-10-13T11:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "abscond",
+      "part_of_speech": "verb",
+      "definition": "To abscond is to leave, flee, or escape a place in secret and go into hiding.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/abscond-2026-10-13"
+    },
+    "sports_fact": {
+      "text": "In 2023, St. Louis City SC became the first MLS expansion team to win its conference's regular season in its debut year — and sold out every home match.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Senators",
+            "is_home": false,
+            "venue": "Canadian Tire Centre",
+            "datetime_utc": "2026-10-13T23:30:00+00:00",
+            "label": "Today 6:30 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-15T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Bank Earnings Roll In: JPMorgan Stock Falls After Profit Misses Expectations",
+      "summary": "Wells Fargo revenue disappoints",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "<p>You cannot walk with the holy, If you're just a halfway decent man. But I don't pretend that I'm a mastermind With a genius marketing plan.</p><p>I'm trying to tap into some wisdom, Even a little drop would do. I want to rid my heart of envy And cleanse my soul of rage Before I'm through.</p>",
+      "author": "Paul Simon"
+    },
+    "history": {
+      "year": 1944,
+      "text": "World War II: The Soviet Riga Offensive captures the city."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
