@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-14",
+  "display_date": "Wednesday, October 14, 2026",
+  "generated_at": "2026-10-14T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "deportment",
+      "part_of_speech": "noun",
+      "definition": "Deportment refers to the way in which one conducts oneself especially in a formal setting.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/deportment-2026-10-14"
+    },
+    "sports_fact": {
+      "text": "The 2026 World Cup is the first with 48 teams and three host countries — and the final will be played in New Jersey.",
+      "sport": "soccer"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Senators",
+            "is_home": false,
+            "venue": "Canadian Tire Centre",
+            "datetime_utc": "2026-10-13T23:30:00+00:00",
+            "team_score": "7",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Wild",
+            "is_home": false,
+            "venue": "Grand Casino Arena",
+            "datetime_utc": "2026-10-16T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-15T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Investors Await Inflation Report, Bank of America Misses Expectations",
+      "summary": "BlackRock reports record assets",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "We don't have to save the world. The world is big enough to look after itself. What we have to be concerned about is whether or not the world we live in will be capable of sustaining us in it.",
+      "author": "Douglas Adams"
+    },
+    "history": {
+      "year": 1923,
+      "text": "After the Irish Civil War the 1923 Irish hunger strikes were undertaken by thousands of Irish republican prisoners protesting the continuation of their internment without trial."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
