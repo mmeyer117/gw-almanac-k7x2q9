@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-15",
+  "display_date": "Thursday, October 15, 2026",
+  "generated_at": "2026-10-15T11:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "outlandish",
+      "part_of_speech": "adjective",
+      "definition": "Outlandish can describe things that are strikingly strange or unusual; in this use, it’s a synonym of bizarre .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/outlandish-2026-10-15"
+    },
+    "sports_fact": {
+      "text": "The longest tennis match ever lasted 11 hours and 5 minutes over three days: Isner beat Mahut 70-68 in the fifth set at Wimbledon 2010. The scoreboard wasn't programmed to go that high.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Wild",
+            "is_home": false,
+            "venue": "Grand Casino Arena",
+            "datetime_utc": "2026-10-16T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Vancouver",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-15T00:30:00+00:00",
+            "team_score": "0",
+            "opp_score": "0",
+            "won": false,
+            "draw": true
+          },
+          "next": {
+            "opponent": "Minnesota",
+            "is_home": false,
+            "venue": "Allianz Field",
+            "datetime_utc": "2026-10-17T20:30:00+00:00",
+            "label": "Sat 10/17, 3:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Selloff to Extend Into Second Day",
+      "summary": "Asian stocks slump and Nasdaq futures slide; Treasury yields ease",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Few can believe that suffering, especially by others, is in vain. Anything that is disagreeable must surely have beneficial economic effects.",
+      "author": "John Kenneth Galbraith"
+    },
+    "history": {
+      "year": 1923,
+      "text": "The German Rentenmark is introduced in Germany to counter hyperinflation in the Weimar Republic."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
