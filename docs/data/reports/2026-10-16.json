@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-16",
+  "display_date": "Friday, October 16, 2026",
+  "generated_at": "2026-10-16T11:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "zenith",
+      "part_of_speech": "noun",
+      "definition": "Zenith refers to the strongest or most successful period of time for a person or thing.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/zenith-2026-10-16"
+    },
+    "sports_fact": {
+      "text": "Serena Williams won the 2017 Australian Open — her 23rd major — while eight weeks pregnant, without dropping a set.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Wild",
+            "is_home": false,
+            "venue": "Grand Casino Arena",
+            "datetime_utc": "2026-10-16T00:00:00+00:00",
+            "team_score": "4",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-10-18T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Minnesota",
+            "is_home": false,
+            "venue": "Allianz Field",
+            "datetime_utc": "2026-10-17T20:30:00+00:00",
+            "label": "Tomorrow 3:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Investors Pare Rate-Hike Bets After Warsh Declines to Guide on Next Move",
+      "summary": "Markets steady and oveseas stocks regain some ground, but AI anxieties remain",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "All executive power — from the reign of ancient kings to the rule of modern dictators — has the outward appearance of efficiency. Legislative power, by contrast, is slower to exercise. … Legislative action may indeed often be cumbersome, time-consuming, and apparently inefficient. But as Mr. Justice Brandeis stated … \"The doctrine of the separation of powers was adopted by the Convention of 1787, not to promote efficiency but to preclude the exercise of arbitrary power. The purpose was, not to avoid friction, but, by means of the inevitable friction incident to the distribution of the governmental powers among three departments, to save the people from autocracy.\"",
+      "author": "William O. Douglas"
+    },
+    "history": {
+      "year": 1984,
+      "text": "Desmond Tutu is awarded the Nobel Peace Prize."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
