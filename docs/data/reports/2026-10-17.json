@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-17",
+  "display_date": "Saturday, October 17, 2026",
+  "generated_at": "2026-10-17T11:00:10+00:00",
+  "sections": {
+    "word": {
+      "word": "syncretic",
+      "part_of_speech": "adjective",
+      "definition": "Syncretic describes things that are characterized or brought about by a combination of different forms of belief or practice.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/syncretic-2026-10-17"
+    },
+    "sports_fact": {
+      "text": "Steffi Graf's 1988 'Golden Slam' — all four majors plus Olympic gold in one year — has never been matched by any player.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-10-18T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Minnesota",
+            "is_home": false,
+            "venue": "Allianz Field",
+            "datetime_utc": "2026-10-17T20:30:00+00:00",
+            "label": "Today 3:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "It’s Too Late for Small Fixes at Pepsi",
+      "summary": "The problem may be bigger than a few weak brands. Pepsi needs to stop tinkering and consider more fundamental changes.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Few of us can easily surrender our belief that society must somehow make sense. The thought that the state has lost its mind and is punishing so many innocent people is intolerable. And so the evidence has to be internally denied .",
+      "author": "Arthur Miller"
+    },
+    "history": {
+      "year": 1912,
+      "text": "Bulgaria, Greece and Serbia declare war on the Ottoman Empire, joining Montenegro in the First Balkan War."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
