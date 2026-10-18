@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-18",
+  "display_date": "Sunday, October 18, 2026",
+  "generated_at": "2026-10-18T11:00:10+00:00",
+  "sections": {
+    "word": {
+      "word": "bon vivant",
+      "part_of_speech": "noun",
+      "definition": "A bon vivant is a sociable person who has refined tastes especially with respect to food and drink.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/bon-vivant-2026-10-18"
+    },
+    "sports_fact": {
+      "text": "On October 18, 1977, Reggie Jackson hit three home runs on three consecutive pitches — off three different pitchers — to clinch the World Series. 'Mr. October' was born.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-10-18T00:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Jets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-21T00:00:00+00:00",
+            "label": "Tue 10/20, 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Minnesota",
+            "is_home": false,
+            "venue": "Allianz Field",
+            "datetime_utc": "2026-10-17T20:30:00+00:00",
+            "team_score": "2",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T00:30:00+00:00",
+            "label": "Sat 10/24, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different",
+      "summary": "The artificial intelligence build-out hasn’t shown it can avoid the problems of past massive capital projects, such as railways and the internet.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "No fearless fool now fronts thee. I own thy speechless, placeless power; but to the last gasp of my earthquake life will dispute its unconditional, unintegral mastery in me. In the midst of the personified impersonal, a personality stands here.",
+      "author": "Herman Melville"
+    },
+    "history": {
+      "year": 1977,
+      "text": "German Autumn: A set of events revolving around the kidnapping of Hanns Martin Schleyer and the hijacking of a Lufthansa flight by the Red Army Faction (RAF) comes to an end when Schleyer is murdered and various RAF members allegedly commit suicide."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
