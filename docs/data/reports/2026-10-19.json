@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-19",
+  "display_date": "Monday, October 19, 2026",
+  "generated_at": "2026-10-19T11:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "fervid",
+      "part_of_speech": "adjective",
+      "definition": "Fervid is used to describe people or things that express or are expressive of strong feelings.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/fervid-2026-10-19"
+    },
+    "sports_fact": {
+      "text": "Roger Federer started as a ballboy at the Basel tournament he later won ten times.",
+      "sport": "tennis"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Jets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-21T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T00:30:00+00:00",
+            "label": "Sat 10/24, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Rebound After Friday's Tech Selloff",
+      "summary": "Protests weigh on French bonds, euro",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Fishes do not roar; they cannot express any sound of suffering; and therefore the angler chooses to think they do not suffer, more than it is convenient for him to fancy. Now it is a poor sport that depends for its existence on the want of a voice in the sufferer, and of imagination in the sportsman.",
+      "author": "Leigh Hunt"
+    },
+    "history": {
+      "year": 1943,
+      "text": "Streptomycin, the first antibiotic remedy for tuberculosis, is isolated by researchers at Rutgers University."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
