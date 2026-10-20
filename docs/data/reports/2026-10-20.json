@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-20",
+  "display_date": "Tuesday, October 20, 2026",
+  "generated_at": "2026-10-20T11:00:10+00:00",
+  "sections": {
+    "word": {
+      "word": "compunction",
+      "part_of_speech": "noun",
+      "definition": "Compunction refers to a feeling of misgiving, that is, doubt or suspicion especially concerning a future event.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/compunction-2026-10-20"
+    },
+    "sports_fact": {
+      "text": "On October 20, 1968, Dick Fosbury won Olympic high jump gold going over the bar backwards. The 'Fosbury Flop' was mocked at the time; today every elite jumper uses it.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Jets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-21T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T00:30:00+00:00",
+            "label": "Sat 10/24, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Dismal Data-Center IPO Weighs on Tech Investors",
+      "summary": "Nasdaq futures slip; SpaceX, Netflix earnings due in the afternoon",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Life is the farce we are all forced to endure.",
+      "author": "Arthur Rimbaud"
+    },
+    "history": {
+      "year": 1951,
+      "text": "The \"Johnny Bright incident\" occurs during a football game between the Drake Bulldogs and Oklahoma A&M Aggies."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
