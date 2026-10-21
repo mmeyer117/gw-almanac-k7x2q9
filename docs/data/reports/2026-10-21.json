@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-21",
+  "display_date": "Wednesday, October 21, 2026",
+  "generated_at": "2026-10-21T11:00:11+00:00",
+  "sections": {
+    "word": {
+      "word": "jilt",
+      "part_of_speech": "verb",
+      "definition": "To jilt someone is usually to abruptly end a romantic relationship with them.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/jilt-2026-10-21"
+    },
+    "sports_fact": {
+      "text": "Jack Nicklaus won 18 majors, including a sixth Masters at age 46 — shooting 30 on the back nine on Sunday.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Jets",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-21T00:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Golden Knights",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-23T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T00:30:00+00:00",
+            "label": "Sat 10/24, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: SpaceX Shares Surge on Tesla Deal Talks",
+      "summary": "Nasdaq futures rose after a strong earnings report from SpaceX and news that the company has launched preliminary talks to merge with Tesla",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "No man was ever yet a great poet, without being at the same time a profound philosopher.",
+      "author": "Samuel Taylor Coleridge"
+    },
+    "history": {
+      "year": 1879,
+      "text": "Thomas Edison applies for a patent for his design for an incandescent light bulb."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
