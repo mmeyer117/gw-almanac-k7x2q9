@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-23",
+  "display_date": "Friday, October 23, 2026",
+  "generated_at": "2026-10-23T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "asunder",
+      "part_of_speech": "adverb",
+      "definition": "or adjective Asunder is most often used as an adverb—often with a verb such as tear or rip —to mean \"apart\" or \"into pieces.\" It is more rarely used as an adjective meaning \"apart from each other,\" as in \"standing with legs wide asunder.\"",
+      "url": "https://www.merriam-webster.com/word-of-the-day/asunder-2026-10-23"
+    },
+    "sports_fact": {
+      "text": "Annika Sörenstam shot 59 in 2001 — still the only sub-60 round in LPGA history.",
+      "sport": "golf"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Golden Knights",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-23T00:00:00+00:00",
+            "team_score": "6",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Hurricanes",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-24T23:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T01:30:00+00:00",
+            "label": "Tomorrow 8:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Prices Climb to Highest in Five Months as Mideast Tensions Rise",
+      "summary": "Tech selloff shows signs of easing at end of rollercoaster week",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I sat upon a Cypress stump I listened close, and I heard the ghost of Osceola cry So blow, blow Seminole wind Blow like you're never gonna blow again I'm calling to you like a long-lost friend But I know who you are.",
+      "author": "John Anderson (singer)"
+    },
+    "history": {
+      "year": 1955,
+      "text": "The people of the Saar region vote in a referendum to unite with West Germany instead of France."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
