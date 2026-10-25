@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-25",
+  "display_date": "Sunday, October 25, 2026",
+  "generated_at": "2026-10-25T14:24:12+00:00",
+  "sections": {
+    "word": {
+      "word": "emissary",
+      "part_of_speech": "noun",
+      "definition": "Emissary refers to a person who is sent on a mission to represent another person or organization.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/emissary-2026-10-25"
+    },
+    "sports_fact": {
+      "text": "Eddie Eagan is the only athlete to win gold at both the Summer and Winter Olympics in different sports: boxing in 1920, bobsled in 1932.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Hurricanes",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-24T23:00:00+00:00",
+            "team_score": "0",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Canadiens",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-28T00:00:00+00:00",
+            "label": "Tue 10/27, 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Salt Lake",
+            "is_home": false,
+            "venue": "America First Field",
+            "datetime_utc": "2026-10-25T01:30:00+00:00",
+            "team_score": "0",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Portland",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-29T00:30:00+00:00",
+            "label": "Wed 10/28, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Two AI Chipmakers Make Up 34% of America’s Earnings Boom",
+      "summary": "Ten companies—including Nvidia, Micron and other AI giants—account for roughly two-thirds of corporate profit growth.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Physically Americans were pioneers; in the realm of social and economic institutions, too, their tradition has been one of pioneering. From the beginning, intellectual and spiritual diversity have been as characteristic of America as racial and linguistic. The most distinctively American philosophies have been transcendentalism — which is the philosophy of the Higher Law and pragmatism — which is the philosophy of experimentation and pluralism. These two principles are the very core of Americanism: the principle of the Higher Law, or of obedience to the dictates of conscience rather than of statutes, and the principle of pragmatism, or the rejection of a single good and of the notion of a finished universe. From the beginning Americans have known that there were new worlds to conquer, new truths to be discovered. Every effort to confine Americanism to a single pattern, to constrain it to a single formula, is disloyalty to everything that is valid in Americanism.",
+      "author": "Henry Steele Commager"
+    },
+    "history": {
+      "year": 1918,
+      "text": "British forces attack Turkish forces under Mustafa Kemal in the battle of Aleppo, which the British capture the following day."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
