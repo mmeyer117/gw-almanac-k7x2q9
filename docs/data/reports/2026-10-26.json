@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-26",
+  "display_date": "Monday, October 26, 2026",
+  "generated_at": "2026-10-26T11:00:17+00:00",
+  "sections": {
+    "word": {
+      "word": "disparate",
+      "part_of_speech": "adjective",
+      "definition": "Disparate things are noticeably distinct from one another in quality or character.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/disparate-2026-10-26"
+    },
+    "sports_fact": {
+      "text": "Abebe Bikila won the 1960 Olympic marathon in Rome barefoot — then defended his title four years later in shoes, setting a world record both times.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Canadiens",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-28T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Portland",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-29T00:30:00+00:00",
+            "label": "Wed 10/28, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stocks Set to Edge Up, but AI Jitters Persist",
+      "summary": "Brazilian stocks set to sell off after Lula's surprise election win",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "speak to me don't mislead me, the calm I feel means a storm is swelling there's no telling where it starts or how it ends",
+      "author": "Natalie Merchant"
+    },
+    "history": {
+      "year": 1912,
+      "text": "First Balkan War: The Ottomans lose the cities of Thessaloniki and Skopje."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
