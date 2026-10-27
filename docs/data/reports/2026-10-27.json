@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-27",
+  "display_date": "Tuesday, October 27, 2026",
+  "generated_at": "2026-10-27T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "milieu",
+      "part_of_speech": "noun",
+      "definition": "Milieu is a formal word that refers to the physical or social setting in which people live or in which something happens or develops.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/milieu-2026-10-27"
+    },
+    "sports_fact": {
+      "text": "On October 27, 2011, David Freese — a St. Louis kid — saved the Cardinals with a two-strike, two-out triple in the 9th, then won Game 6 with a walk-off homer in the 11th. 'We will see you tomorrow night!'",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Canadiens",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-28T00:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Portland",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-29T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Brent Crude Slips Just Below $110 a Barrel With Mideast in Focus",
+      "summary": "Israeli elections could prove consequential in course of Iran war; U.S. stock futures muted",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You can tear a poem apart to see what makes it technically tick … You're back with the mystery of having been moved by words. The best craftsmanship always leaves holes and gaps in the works of the poem so that something that is not in the poem can creep, crawl, flash, or thunder in. The joy and function of poetry is, and was, the celebration of man, which is also the celebration of God.",
+      "author": "Dylan Thomas"
+    },
+    "history": {
+      "year": 1971,
+      "text": "The Democratic Republic of the Congo is renamed Zaire."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
