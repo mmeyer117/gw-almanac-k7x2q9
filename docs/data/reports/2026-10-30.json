@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-30",
+  "display_date": "Friday, October 30, 2026",
+  "generated_at": "2026-10-30T11:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "reticent",
+      "part_of_speech": "adjective",
+      "definition": "Someone may be described as reticent if they are feeling or showing reluctance, that is, hesitation or unwillingness to do something.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/reticent-2026-10-30"
+    },
+    "sports_fact": {
+      "text": "On October 30, 1974, Muhammad Ali knocked out George Foreman in the 'Rumble in the Jungle' in Zaire, using the rope-a-dope to exhaust the most feared puncher alive.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Bruins",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-10-30T00:00:00+00:00",
+            "team_score": "4",
+            "opp_score": "1",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Red Wings",
+            "is_home": false,
+            "venue": "Little Caesars Arena",
+            "datetime_utc": "2026-10-31T17:00:00+00:00",
+            "label": "Tomorrow 12:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Diego",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-31T19:00:00+00:00",
+            "label": "Tomorrow 2:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Amazon, Intel Earnings Add Fuel to Tech Selloff",
+      "summary": "Disappointing results send stocks tumbling and further stoke fears around AI trade",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I didn’t sit in my trailer thinking, \"Jean-Luc Picard, you know, who am I, who is he, where does he come from, what’s he like?\" No, I could walk onto the set confident that I knew how he would respond to almost any situation. Because I had absorbed him, he became me. And that was one of the things that was kind of hard about it, that he was … as was Charles Xavier. Both of them were characters I immensely admired for their morality, for their kindness, for their sensitivity, for their compassion. Even for their intellectual capacities. And so to get that close, playing Jean-Luc for all those years had a real impact on me.",
+      "author": "Patrick Stewart"
+    },
+    "history": {
+      "year": 1991,
+      "text": "The Israeli-Palestinian conflict: The Madrid Conference commences in an effort to revive peace negotiations between Israel and Palestine."
+    },
+    "spotlight": {
+      "persona": "Dexter",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
