@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-31",
+  "display_date": "Saturday, October 31, 2026",
+  "generated_at": "2026-10-31T11:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "wraith",
+      "part_of_speech": "noun",
+      "definition": "Wraith refers to the spirit of a dead person, or in other words, a ghost.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/wraith-2026-10-31"
+    },
+    "sports_fact": {
+      "text": "Wilma Rudolph survived childhood polio that doctors said would keep her from walking — then won three sprint golds at the 1960 Olympics.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Wings",
+            "is_home": false,
+            "venue": "Little Caesars Arena",
+            "datetime_utc": "2026-10-31T17:00:00+00:00",
+            "label": "Today 12:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "The New Bottleneck in America’s AI Build-Out: A Shortage of Cheap Money",
+      "summary": "Lenders and investors are getting choosier about their bets and demanding stricter terms, as the AI build-out enters a new phase.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Some think I have lost that poetical ardour and fire 'tis said I once had — the fact is, perhaps I have; but, instead of that, I hope I shall substitute a more thoughtful and quiet power.",
+      "author": "John Keats"
+    },
+    "history": {
+      "year": 1822,
+      "text": "Emperor Agustín de Iturbide attempts to dissolve the Congress of the Mexican Empire."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
