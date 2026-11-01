@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-01",
+  "display_date": "Sunday, November 1, 2026",
+  "generated_at": "2026-11-01T12:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "Pyrrhic",
+      "part_of_speech": "adjective",
+      "definition": "The adjective Pyrrhic describes something that is achieved at an excessive cost.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/pyrrhic-2026-11-01"
+    },
+    "sports_fact": {
+      "text": "Jim Thorpe was stripped of his 1912 Olympic gold medals because he had been paid $25 a week to play minor league baseball — they were restored in 1983, 30 years after his death.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Red Wings",
+            "is_home": false,
+            "venue": "Little Caesars Arena",
+            "datetime_utc": "2026-10-31T17:00:00+00:00",
+            "team_score": "5",
+            "opp_score": "4",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Rangers",
+            "is_home": false,
+            "venue": "Madison Square Garden",
+            "datetime_utc": "2026-11-04T00:00:00+00:00",
+            "label": "Tue 11/3, 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "San Diego",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-31T19:00:00+00:00",
+            "team_score": "0",
+            "opp_score": "1",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Investors Are Betting a Blue Wave Will Help Hospitals. Don’t Count on It.",
+      "summary": "Markets are anticipating a reversal of Trump’s Medicaid cuts. That may be easier said than done.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You let yourselves be deprived before your own eyes of the best part of your revenues; your fields are plundered, your homes robbed, your family heirlooms taken away. You live in such a way that you cannot claim a single thing as your own; and it would seem that you consider yourselves lucky to be loaned your property, your families, and your very lives.",
+      "author": "Étienne de La Boétie"
+    },
+    "history": {
+      "year": 1942,
+      "text": "World War II: Matanikau Offensive begins during the Guadalcanal campaign and ends three days later with an American victory."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
