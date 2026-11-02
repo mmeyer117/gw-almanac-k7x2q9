@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-02",
+  "display_date": "Monday, November 2, 2026",
+  "generated_at": "2026-11-02T12:00:19+00:00",
+  "sections": {
+    "word": {
+      "word": "satiate",
+      "part_of_speech": "verb",
+      "definition": "To satiate a need, desire, etc., is to satisfy it fully.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/satiate-2026-11-02"
+    },
+    "sports_fact": {
+      "text": "Olympic gold medals are mostly silver — they're required to contain only about 6 grams of actual gold.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Rangers",
+            "is_home": false,
+            "venue": "Madison Square Garden",
+            "datetime_utc": "2026-11-04T00:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Recover After Friday's Selloff",
+      "summary": "Oil slides on signs Mideast escalation may be avoided for now",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Surely only correct understanding could lead to correct action.",
+      "author": "Lois McMaster Bujold"
+    },
+    "history": {
+      "year": 1899,
+      "text": "The Boers begin their 118-day siege of British-held Ladysmith during the Second Boer War."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
