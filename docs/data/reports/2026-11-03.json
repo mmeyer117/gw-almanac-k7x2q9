@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-03",
+  "display_date": "Tuesday, November 3, 2026",
+  "generated_at": "2026-11-03T12:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "candidate",
+      "part_of_speech": "noun",
+      "definition": "A candidate is someone who aspires to or is nominated or qualified for an office, membership, or award.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/candidate-2026-11-03"
+    },
+    "sports_fact": {
+      "text": "The marathon is 26.2 miles because the 1908 London course was stretched so it could start at Windsor Castle and finish in front of the royal box.",
+      "sport": "track"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Rangers",
+            "is_home": false,
+            "venue": "Madison Square Garden",
+            "datetime_utc": "2026-11-04T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Mixed After Apple Earnings Disappoint",
+      "summary": "Investors eye midterm elections that could change control of Congress",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The character structure of modern man , who reproduces a six-thousand-year-old patriarchal authoritarian culture is typified by characterological armoring against his inner nature and against the social misery which surrounds him. This characterolgical armoring of the character is the basis of isolation, indigence, craving for authority, fear of responsibility, mystic longing, sexual misery, and neurotically impotent rebelliousness.",
+      "author": "Wilhelm Reich"
+    },
+    "history": {
+      "year": 1978,
+      "text": "Dominica gains its independence from the United Kingdom."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
