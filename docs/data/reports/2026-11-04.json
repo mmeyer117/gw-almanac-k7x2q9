@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-04",
+  "display_date": "Wednesday, November 4, 2026",
+  "generated_at": "2026-11-04T12:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "fulsome",
+      "part_of_speech": "adjective",
+      "definition": "Fulsome describes someone or something that is generous in amount, extent, or spirit.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/fulsome-2026-11-04"
+    },
+    "sports_fact": {
+      "text": "Babe Didrikson Zaharias won Olympic gold in the hurdles and javelin, then took up golf and won 10 major championships. Many still call her the greatest all-around athlete ever.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Rangers",
+            "is_home": false,
+            "venue": "Madison Square Garden",
+            "datetime_utc": "2026-11-04T00:00:00+00:00",
+            "team_score": "1",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Devils",
+            "is_home": false,
+            "venue": "Prudential Center",
+            "datetime_utc": "2026-11-06T00:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Rebound as Investors Weigh Democratic Sweep",
+      "summary": "Dow futures jump, reversing initial knee-jerk reaction",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Ours will neither be a perfect world, nor a world without disagreement and occasional violence. But it will be a world where the overwhelming majority of national leaders will consistently abide by the rule of world law, and those who won't will be dealt with effectively and with due process by the structures of that same world law. We will never have a city without crime, but we would never want to live in a city that had no system of law to deal with the criminals who will always be with us.",
+      "author": "Walter Cronkite"
+    },
+    "history": {
+      "year": 1918,
+      "text": "World War I: The Armistice of Villa Giusti between Italy and Austria-Hungary is implemented."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
