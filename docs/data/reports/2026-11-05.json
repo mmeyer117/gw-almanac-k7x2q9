@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-05",
+  "display_date": "Thursday, November 5, 2026",
+  "generated_at": "2026-11-05T12:00:16+00:00",
+  "sections": {
+    "word": {
+      "word": "effrontery",
+      "part_of_speech": "noun",
+      "definition": "Effrontery is a formal word that refers to bold shamelessness, or in other words an attitude or way of behaving that is both confident and  shocking or rude.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/effrontery-2026-11-05"
+    },
+    "sports_fact": {
+      "text": "Muhammad Ali, hands shaking from Parkinson's, lit the Olympic flame in Atlanta in 1996 — a moment kept secret until he stepped from the shadows.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Devils",
+            "is_home": false,
+            "venue": "Prudential Center",
+            "datetime_utc": "2026-11-06T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: AI Stocks Under Pressure as Investors Reassess Positions",
+      "summary": "Chipmaker Qualcomm's earnings disappoint",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There is no chance no destiny, no fate, Can circumvent or hinder or control The firm resolve of a determined soul.",
+      "author": "Ella Wheeler Wilcox"
+    },
+    "history": {
+      "year": 1862,
+      "text": "American Indian Wars: In Minnesota, 303 Dakota warriors are found guilty of rape and murder of whites and are sentenced to death. Thirty-eight are ultimately hanged and the others reprieved."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
