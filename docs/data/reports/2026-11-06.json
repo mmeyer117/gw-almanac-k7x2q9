@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-06",
+  "display_date": "Friday, November 6, 2026",
+  "generated_at": "2026-11-06T12:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "quondam",
+      "part_of_speech": "adjective",
+      "definition": "Quondam is an adjective that means “former” or “sometime.”",
+      "url": "https://www.merriam-webster.com/word-of-the-day/quondam-2026-11-06"
+    },
+    "sports_fact": {
+      "text": "Rocky Marciano retired 49-0 — still the only heavyweight champion to finish a career undefeated.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Devils",
+            "is_home": false,
+            "venue": "Prudential Center",
+            "datetime_utc": "2026-11-06T00:00:00+00:00",
+            "team_score": "4",
+            "opp_score": "5",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-11-07T18:00:00+00:00",
+            "label": "Tomorrow 12:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: AI Stocks Set to Stage Rebound After Brutal Week for Nasdaq",
+      "summary": "Tech futures recover while Dow is poised for further losses; Asian indexes swoon",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You might occasionally feel that some people are standing in the way and slowing your progress, but in reality the biggest person standing in your way is you. Others can stop you temporarily — you are the only one who can do it permanently.",
+      "author": "Zig Ziglar"
+    },
+    "history": {
+      "year": 1217,
+      "text": "The Charter of the Forest is sealed at St Paul's Cathedral, London by King Henry III, acting under the regency of William Marshall, 1st Earl of Pembroke which re-establishes for free men rights of access to the royal forest that had been eroded by William the Conqueror and his heirs."
+    },
+    "spotlight": {
+      "persona": "Jonas",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
