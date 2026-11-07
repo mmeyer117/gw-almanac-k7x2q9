@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-07",
+  "display_date": "Saturday, November 7, 2026",
+  "generated_at": "2026-11-07T12:00:19+00:00",
+  "sections": {
+    "word": {
+      "word": "abandon",
+      "part_of_speech": "noun",
+      "definition": "Abandon refers to a feeling or attitude of wild or complete freedom.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/abandon-2026-11-07"
+    },
+    "sports_fact": {
+      "text": "Boxing's first million-dollar gate was Dempsey-Carpentier in 1921, in a wooden stadium built just for the fight — and torn down right after.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-11-07T18:00:00+00:00",
+            "label": "Today 12:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "A Berkshire Hathaway Electric Utility Wants a Historic Rate Hike in California",
+      "summary": "Pacific Power is asking state regulators to approve a 57% rate increase that would boost the typical residential power bill by $120 a month.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Nothing is harder to understand than a symbolic work. A symbol always transcends the one who makes use of it and makes him say in reality more than he is aware of expressing.",
+      "author": "Albert Camus"
+    },
+    "history": {
+      "year": 1665,
+      "text": "The London Gazette, the oldest surviving journal, is first published."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
