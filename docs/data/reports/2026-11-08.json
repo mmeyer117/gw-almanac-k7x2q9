@@ -1,0 +1,80 @@
+{
+  "date": "2026-11-08",
+  "display_date": "Sunday, November 8, 2026",
+  "generated_at": "2026-11-08T12:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "cockamamie",
+      "part_of_speech": "adjective",
+      "definition": "Cockamamie describes something that is ridiculous, silly, or incredible.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/cockamamie-2026-11-08"
+    },
+    "sports_fact": {
+      "text": "The Indy 500 winner drinks milk in victory lane because 1936 winner Louis Meyer asked for buttermilk — a dairy executive saw the photo and made it tradition.",
+      "sport": "racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Predators",
+            "is_home": false,
+            "venue": "Bridgestone Arena",
+            "datetime_utc": "2026-11-07T18:00:00+00:00",
+            "team_score": "1",
+            "opp_score": "3",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Red Wings",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-11T01:00:00+00:00",
+            "label": "Tue 11/10, 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "Houston",
+            "is_home": false,
+            "venue": "Shell Energy Stadium",
+            "datetime_utc": "2026-11-08T00:00:00+00:00",
+            "team_score": "1",
+            "opp_score": "0",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Don’t Trust the Market’s Knee-Jerk Reaction to the Midterms",
+      "summary": "There are usually good reasons for politically driven trades. Yet they often prove catastrophic once the postelection hype settles down.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Our Soul may never have rest in things that are beneath itself.",
+      "author": "Julian of Norwich"
+    },
+    "history": {
+      "year": 1932,
+      "text": "Franklin D. Roosevelt is elected as the 32nd President of the United States, defeating incumbent president Herbert Hoover."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
