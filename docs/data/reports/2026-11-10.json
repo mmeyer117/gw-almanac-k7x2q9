@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-10",
+  "display_date": "Tuesday, November 10, 2026",
+  "generated_at": "2026-11-10T12:00:11+00:00",
+  "sections": {
+    "word": {
+      "word": "defer",
+      "part_of_speech": "verb",
+      "definition": "To defer something is to put it off or delay it, to choose to do it at a later time.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/defer-2026-11-10"
+    },
+    "sports_fact": {
+      "text": "NASCAR's roots are in Prohibition: the best early drivers learned outrunning federal agents with trunks full of moonshine.",
+      "sport": "racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Wings",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-11T01:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Oil Prices Fall on Trump Iran Comments; Investors Await CPI Report",
+      "summary": "Nvidia stock on course to recover some losses",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The pain which conscience gives the man who has already done wrong, is soon got over. Conscience is a coward, and those faults it has not strength enough to prevent it seldom has justice enough to accuse.",
+      "author": "Oliver Goldsmith"
+    },
+    "history": {
+      "year": 1983,
+      "text": "Bill Gates introduces Windows 1.0."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
