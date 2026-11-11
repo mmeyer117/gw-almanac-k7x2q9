@@ -1,0 +1,74 @@
+{
+  "date": "2026-11-11",
+  "display_date": "Wednesday, November 11, 2026",
+  "generated_at": "2026-11-11T12:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "valorous",
+      "part_of_speech": "adjective",
+      "definition": "Someone or something described as valorous is courageous or brave.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/valorous-2026-11-11"
+    },
+    "sports_fact": {
+      "text": "Richard Petty won 200 NASCAR races — exactly double second place — including 27 wins in a single season.",
+      "sport": "racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Red Wings",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-11T01:00:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Mammoth",
+            "is_home": false,
+            "venue": "Delta Center",
+            "datetime_utc": "2026-11-13T02:00:00+00:00",
+            "label": "Tomorrow 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Stocks Poised to Rise After CoreWeave Earnings",
+      "summary": "Cloud provider has been at center of AI jitters",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You know, in my opinion, it's sometimes even good to be ridiculous, if not better: we can the sooner forgive each other, the sooner humble ourselves; we can't understand everything at once, we cant start right out with perfection! To achieve perfection, one must first begin by not understanding many things! And if we understand too quickly, we may not understand well. This I tell you, you, who have already been able to understand. … and not understand … so much.",
+      "author": "Fyodor Dostoevsky"
+    },
+    "history": {
+      "year": 1942,
+      "text": "World War II: France's zone libre is occupied by German forces in Case Anton."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
