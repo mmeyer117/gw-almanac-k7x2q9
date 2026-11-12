@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-12",
+  "display_date": "Thursday, November 12, 2026",
+  "generated_at": "2026-11-12T12:00:16+00:00",
+  "sections": {
+    "word": {
+      "word": "gauntlet",
+      "part_of_speech": "noun",
+      "definition": "Gauntlet originally referred to a double file of men facing each other and armed with clubs or other weapons with which to strike at an individual made to run between them.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/gauntlet-2026-11-12"
+    },
+    "sports_fact": {
+      "text": "Secretariat's heart was found to weigh roughly 22 pounds — about two and a half times normal — a genetic quirk now called the 'x-factor.'",
+      "sport": "horse racing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2027-03-25T20:10:00+00:00",
+            "label": "Thu 3/25, 3:10 PM CT"
+          }
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Mammoth",
+            "is_home": false,
+            "venue": "Delta Center",
+            "datetime_utc": "2026-11-13T02:00:00+00:00",
+            "label": "Today 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Nvidia Shares Tumble Over Leadership Crisis",
+      "summary": "Nasdaq futures drop 1%, while Asian indexes decline",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "In most cases I enjoyed the role I was playing, and I learned something about myself in the process. All these years later, I’m able to look back at a treasure trove of memories I might otherwise have forfeited for the distant hope of a shot at movie stardom.",
+      "author": "Stacy Keach"
+    },
+    "history": {
+      "year": 1905,
+      "text": "Norway holds a referendum resulting in popular approval of the Storting's decision to authorise the government to make the offer of the throne of the newly independent country."
+    },
+    "spotlight": {
+      "persona": "Max",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
