@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-15",
+  "display_date": "Sunday, November 15, 2026",
+  "generated_at": "2026-11-15T12:00:19+00:00",
+  "sections": {
+    "word": {
+      "word": "lissome",
+      "part_of_speech": "adjective",
+      "definition": "Lissome is an adjective used to describe someone or something characterized by easy flexibility and grace.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/lissome-2026-11-15"
+    },
+    "sports_fact": {
+      "text": "Volleyball was invented in 1895 just 10 miles from basketball's birthplace — designed as a gentler alternative for older businessmen.",
+      "sport": "olympics"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2027-03-25T20:10:00+00:00",
+            "label": "Thu 3/25, 3:10 PM CT"
+          }
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Panthers",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-15T00:00:00+00:00",
+            "team_score": "1",
+            "opp_score": "4",
+            "won": false,
+            "draw": false
+          },
+          "next": {
+            "opponent": "Ducks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-18T01:00:00+00:00",
+            "label": "Tue 11/17, 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+      "summary": "AI trade faces major tests next week with chip giant's earnings and Anthropic's IPO",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Act well at the moment, and you have performed a good action to all eternity.",
+      "author": "Johann Kaspar Lavater"
+    },
+    "history": {
+      "year": 1777,
+      "text": "American Revolutionary War: After 16 months of debate the Continental Congress approves the Articles of Confederation."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
