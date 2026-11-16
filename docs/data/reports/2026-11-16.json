@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-16",
+  "display_date": "Monday, November 16, 2026",
+  "generated_at": "2026-11-16T12:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "travesty",
+      "part_of_speech": "noun",
+      "definition": "Travesty refers to something that is shocking, upsetting, or ridiculous because it is not what it is supposed to be, but is instead a distorted or badly inferior imitation of it.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/travesty-2026-11-16"
+    },
+    "sports_fact": {
+      "text": "The America's Cup, first contested in 1851, is the oldest trophy in international sport — older than the modern Olympics by 45 years.",
+      "sport": "sailing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2027-03-25T20:10:00+00:00",
+            "label": "Thu 3/25, 3:10 PM CT"
+          }
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Ducks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-18T01:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LA Galaxy",
+            "is_home": false,
+            "venue": "",
+            "datetime_utc": "2027-02-21T03:00:00+00:00",
+            "label": "Sat 2/20, 9:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Stocks Under Pressure at Start of Crucial Week for AI",
+      "summary": "Nvidia to report earnings amid leadership crisis, Anthropic mega-IPO to test markets",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Be content to bless each other, that is all the blessing you need, and how I wish that all blessings were so.",
+      "author": "José Saramago"
+    },
+    "history": {
+      "year": 1979,
+      "text": "The first line of Bucharest Metro (Line M1) is opened from Timpuri Noi to Semănătoarea in Bucharest, Romania."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
