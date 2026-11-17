@@ -13,7 +13,32 @@
       "text": "Richard Petty won 200 NASCAR races — exactly double second place — including 27 wins in a single season.",
       "sport": "racing"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Yankees",
+            "is_home": false,
+            "venue": "Yankee Stadium",
+            "datetime_utc": "2026-08-04T23:05:00+00:00",
+            "team_score": "0",
+            "opp_score": "2",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Yankees",
+            "is_home": false,
+            "venue": "Yankee Stadium",
+            "datetime_utc": "2026-08-05T23:05:00+00:00",
+            "label": "Today 6:05 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: SpaceX Stock Slumps as AI Spending Rattles Investors",
       "summary": "Dow looks poised to extend 1,600-point rally of past two days",

@@ -13,7 +13,34 @@
       "text": "Basketball at the 1936 Olympics was played outdoors on dirt courts. The gold-medal game was played in driving rain, and the US beat Canada 19-8.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "White Sox",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-12T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Minnesota",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-09-13T00:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Inflation Figure Boosts Odds of Rate Hike Next Week",
       "summary": "Traders increase chance of Fed rate increase to more than 80%; Dow rallies",

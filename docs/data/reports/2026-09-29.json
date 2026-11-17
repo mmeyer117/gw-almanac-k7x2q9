@@ -13,7 +13,34 @@
       "text": "Jerry Rice's 22,895 receiving yards are almost 5,500 more than second place — roughly three full seasons of separation.",
       "sport": "football"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Fri 10/2, 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Tomorrow 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Relentless Rise in Treasury Yields Continues",
       "summary": "30-year yield hits highest level since 2002; Dow slips",

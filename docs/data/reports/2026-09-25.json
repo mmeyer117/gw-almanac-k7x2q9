@@ -13,7 +13,56 @@
       "text": "Teemu Selanne scored 76 goals as a rookie in 1992-93 — 23 more than any first-year player before or since.",
       "sport": "hockey"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Pirates",
+            "is_home": false,
+            "venue": "PNC Park",
+            "datetime_utc": "2026-09-24T16:35:00+00:00",
+            "team_score": "1",
+            "opp_score": "2",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-09-25T23:40:00+00:00",
+            "label": "Today 6:40 PM CT"
+          }
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Fri 10/2, 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Wed 9/30, 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Bond Yields Move Higher Near End of Volatile Week",
       "summary": "Dow edges up amid hopes for a deal to reopen Hormuz",

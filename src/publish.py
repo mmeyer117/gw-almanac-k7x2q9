@@ -30,7 +30,7 @@ def _badge_from_game(game):
     if game.get("won") is True:
         return "W"
     if game.get("won") is False:
-        return "L"
+        return "OTL" if game.get("overtime") else "L"
     return None
 
 
@@ -41,7 +41,7 @@ def rebuild_index():
         if fn.endswith(".json") and len(fn) == 15
     )
 
-    badges = {}
+    team_badges = {}
     for d in dates:
         path = os.path.join(REPORTS_DIR, f"{d}.json")
         try:
@@ -51,18 +51,20 @@ def rebuild_index():
             continue
         stl = (rep.get("sections") or {}).get("stl_sports") or {}
         for team in stl.get("teams", []):
-            game = team.get("yesterday")
-            badge = _badge_from_game(game)
-            if badge and team.get("team") == "Cardinals":
+            badge = _badge_from_game(team.get("yesterday"))
+            if badge:
                 game_day = (date.fromisoformat(d) - timedelta(days=1)).isoformat()
-                badges[game_day] = badge
+                team_badges.setdefault(team.get("team"), {})[game_day] = badge
 
     index = {
         "site": SITE_NAME,
         "personas": load_personas(),
         "latest": dates[-1] if dates else None,
         "dates": list(reversed(dates)),
-        "badges": badges,
+        "team_badges": team_badges,
+        # Cardinals-only legacy field for clients still running the old app.js
+        "badges": {k: ("L" if v == "OTL" else v)
+                   for k, v in team_badges.get("Cardinals", {}).items()},
     }
     path = os.path.join(DOCS_DATA_DIR, "index.json")
     os.makedirs(DOCS_DATA_DIR, exist_ok=True)

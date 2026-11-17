@@ -26,7 +26,8 @@
             "team_score": "7",
             "opp_score": "8",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Angels",

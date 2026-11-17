@@ -13,7 +13,44 @@
       "text": "In 2024, Shohei Ohtani became the first player in MLB history with 50 home runs and 50 stolen bases in a season — he finished with 54 and 59.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Dodgers",
+            "is_home": false,
+            "venue": "Dodger Stadium",
+            "datetime_utc": "2026-09-02T02:10:00+00:00",
+            "team_score": "13",
+            "opp_score": "8",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Dodgers",
+            "is_home": false,
+            "venue": "Dodger Stadium",
+            "datetime_utc": "2026-09-03T02:10:00+00:00",
+            "label": "Today 9:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": false,
+            "venue": "BC Place",
+            "datetime_utc": "2026-09-06T02:30:00+00:00",
+            "label": "Sat 9/5, 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Treasury Selloff Pauses While Global Bonds Still Hammered",
       "summary": "U.S. 10-year yield touches highest level since 2023 overnight; stocks rise",

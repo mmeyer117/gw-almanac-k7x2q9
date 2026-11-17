@@ -26,7 +26,8 @@
             "team_score": "4",
             "opp_score": "5",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Predators",

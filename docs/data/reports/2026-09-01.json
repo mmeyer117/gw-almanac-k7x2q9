@@ -13,7 +13,34 @@
       "text": "Mariano Rivera is the only player ever elected to the Hall of Fame unanimously — and he did it throwing essentially one pitch for 19 years.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Dodgers",
+            "is_home": false,
+            "venue": "Dodger Stadium",
+            "datetime_utc": "2026-09-02T02:10:00+00:00",
+            "label": "Today 9:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": false,
+            "venue": "BC Place",
+            "datetime_utc": "2026-09-06T02:30:00+00:00",
+            "label": "Sat 9/5, 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Global Bond Selloff Intensifies as Investors Brace for Rate Hikes",
       "summary": "Japanese 10-year yield hits highest level in three decades; Nasdaq slumps",

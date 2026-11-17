@@ -26,7 +26,8 @@
             "team_score": "4",
             "opp_score": "1",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Braves",

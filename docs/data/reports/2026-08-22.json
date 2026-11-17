@@ -13,7 +13,44 @@
       "text": "Ted Williams hit .406 in 1941 and refused to sit out the final-day doubleheader to protect the mark — he went 6-for-8 instead.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Phillies",
+            "is_home": false,
+            "venue": "Citizens Bank Park",
+            "datetime_utc": "2026-08-21T22:40:00+00:00",
+            "team_score": "6",
+            "opp_score": "7",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Phillies",
+            "is_home": false,
+            "venue": "Citizens Bank Park",
+            "datetime_utc": "2026-08-22T22:05:00+00:00",
+            "label": "Today 5:05 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Houston",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-23T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market News, Aug. 21, 2026: Bitcoin Jumps; S&P 500 Ends Friday With Weekly Loss",
       "summary": "Crypto climbs, bond markets shrug off Treasury efforts to curb borrowing costs",

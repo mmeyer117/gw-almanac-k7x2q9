@@ -26,7 +26,8 @@
             "team_score": "2",
             "opp_score": "5",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Jets",
@@ -47,14 +48,15 @@
             "team_score": "2",
             "opp_score": "3",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Salt Lake",
             "is_home": false,
             "venue": "America First Field",
-            "datetime_utc": "2026-10-25T00:30:00+00:00",
-            "label": "Sat 10/24, 7:30 PM CT"
+            "datetime_utc": "2026-10-25T01:30:00+00:00",
+            "label": "Sat 10/24, 8:30 PM CT"
           }
         }
       ]

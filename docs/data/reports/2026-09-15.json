@@ -13,7 +13,44 @@
       "text": "When the ABA folded into the NBA in 1976, it brought the 3-point line, the dunk contest, and four franchises: the Spurs, Nuggets, Pacers, and Nets.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Giants",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-14T23:45:00+00:00",
+            "team_score": "2",
+            "opp_score": "1",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Giants",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-15T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Toronto",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-09-20T00:30:00+00:00",
+            "label": "Sat 9/19, 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: 10-Year Treasury Yield Hits Fresh High Above 5%",
       "summary": "Dow falls 500 points; Oil rises to $108 a barrel",

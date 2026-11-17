@@ -13,7 +13,34 @@
       "text": "The 1972 Dolphins remain the NFL's only perfect season at 17-0 — and their starting QB missed most of the year with a broken leg.",
       "sport": "football"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Fri 10/2, 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Today 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Signs of Strength in U.S. Economy Power Stocks",
       "summary": "Nasdaq rises after second-quarter GDP growth revised to 2.2%",

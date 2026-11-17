@@ -13,7 +13,44 @@
       "text": "Stan Musial finished with exactly 3,630 hits: 1,815 at home and 1,815 on the road. Perfect symmetry over 22 seasons.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Phillies",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-11T23:45:00+00:00",
+            "team_score": "2",
+            "opp_score": "0",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Phillies",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-12T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Sat 8/15, 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Tech Earnings Buoy Stock Futures",
       "summary": "Results from Super Micro, CoreWeave rekindle AI trade ahead of CPI data",

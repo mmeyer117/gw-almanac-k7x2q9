@@ -13,7 +13,44 @@
       "text": "The NBA's 24-second shot clock was invented in 1954 by Syracuse owner Danny Biasone, who did the math on a napkin: 48 minutes ÷ 120 expected shots = 24 seconds. It saved the league.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Giants",
+            "is_home": false,
+            "venue": "Oracle Park",
+            "datetime_utc": "2026-09-09T01:45:00+00:00",
+            "team_score": "1",
+            "opp_score": "2",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Giants",
+            "is_home": false,
+            "venue": "Oracle Park",
+            "datetime_utc": "2026-09-09T19:45:00+00:00",
+            "label": "Today 2:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Portland",
+            "is_home": false,
+            "venue": "Providence Park",
+            "datetime_utc": "2026-09-10T02:30:00+00:00",
+            "label": "Today 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Oil Hits $100 for First Time Since July",
       "summary": "Escalating conflict in Middle East stokes fears of supply disruptions",

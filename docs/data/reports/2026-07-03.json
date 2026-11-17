@@ -26,7 +26,8 @@
             "team_score": "11",
             "opp_score": "5",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Cubs",
@@ -34,18 +35,6 @@
             "venue": "Wrigley Field",
             "datetime_utc": "2026-07-03T20:05:00+00:00",
             "label": "Today 3:05 PM CT"
-          }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "Kansas City",
-            "is_home": true,
-            "venue": "Energizer Park",
-            "datetime_utc": "2026-07-17T00:30:00+00:00",
-            "label": "Thu 7/16, 7:30 PM CT"
           }
         }
       ]

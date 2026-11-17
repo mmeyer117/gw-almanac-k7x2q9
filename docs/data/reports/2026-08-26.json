@@ -13,7 +13,44 @@
       "text": "Connie Mack managed the Philadelphia Athletics for 50 consecutive seasons, wearing a suit and tie in the dugout the entire time.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Orioles",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-25T23:45:00+00:00",
+            "team_score": "1",
+            "opp_score": "13",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Orioles",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-26T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Dallas",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-30T23:00:00+00:00",
+            "label": "Sun 8/30, 6:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Brent Crude Retreats to $85, Nvidia Earnings Due",
       "summary": "Investors will also parse PCE inflation data this morning",

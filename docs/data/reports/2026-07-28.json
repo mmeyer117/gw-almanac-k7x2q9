@@ -26,7 +26,8 @@
             "team_score": "3",
             "opp_score": "7",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Cubs",

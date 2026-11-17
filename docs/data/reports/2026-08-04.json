@@ -26,7 +26,8 @@
             "team_score": "13",
             "opp_score": "7",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Yankees",
@@ -34,18 +35,6 @@
             "venue": "Yankee Stadium",
             "datetime_utc": "2026-08-04T23:05:00+00:00",
             "label": "Today 6:05 PM CT"
-          }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "San Jose",
-            "is_home": false,
-            "venue": "PayPal Park",
-            "datetime_utc": "2026-08-16T02:30:00+00:00",
-            "label": "Sat 8/15, 9:30 PM CT"
           }
         }
       ]

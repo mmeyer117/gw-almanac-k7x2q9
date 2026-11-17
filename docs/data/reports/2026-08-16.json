@@ -13,7 +13,54 @@
       "text": "In 1951, Browns owner Bill Veeck sent 3-foot-7 Eddie Gaedel to pinch-hit wearing number 1/8. He walked on four pitches and was banned from baseball the next day.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-15T18:20:00+00:00",
+            "team_score": "8",
+            "opp_score": "4",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-16T19:00:00+00:00",
+            "label": "Today 2:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "team_score": "3",
+            "opp_score": "1",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": false,
+            "venue": "Sporting Park",
+            "datetime_utc": "2026-08-20T00:00:00+00:00",
+            "label": "Wed 8/19, 7:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Open-Weight AI Won’t Crimp Demand for Picks and Shovels",
       "summary": "Some of the artificial intelligence boom’s biggest beneficiaries can cash in whether open models proliferate or not.",

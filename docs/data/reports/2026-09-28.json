@@ -13,7 +13,50 @@
       "text": "The largest blowout in NFL history is the 1940 championship: Bears 73, Washington 0. Washington had beaten the Bears three weeks earlier.",
       "sport": "football"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-09-27T19:10:00+00:00",
+            "team_score": "4",
+            "opp_score": "6",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": null
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Fri 10/2, 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Wed 9/30, 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Treasury Yields Climb to Fresh Highs; Tech Stocks Drop",
       "summary": "Oil price rises; Nvidia shares gain after buyback plan",

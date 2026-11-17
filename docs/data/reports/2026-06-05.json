@@ -26,18 +26,6 @@
             "datetime_utc": "2026-06-06T00:15:00+00:00",
             "label": "Today 7:15 PM CT"
           }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "Kansas City",
-            "is_home": true,
-            "venue": "Energizer Park",
-            "datetime_utc": "2026-07-17T00:30:00+00:00",
-            "label": "Thu 7/16, 7:30 PM CT"
-          }
         }
       ]
     },

@@ -13,7 +13,44 @@
       "text": "Rogers Hornsby hit .424 for the Cardinals in 1924 — the highest batting average of the modern era, and nobody has come within 30 points of it since.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-16T19:00:00+00:00",
+            "team_score": "11",
+            "opp_score": "4",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-08-17T17:40:00+00:00",
+            "label": "Today 12:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": false,
+            "venue": "Sporting Park",
+            "datetime_utc": "2026-08-20T00:00:00+00:00",
+            "label": "Wed 8/19, 7:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Tech Stocks Set to Gain, Oil Holds Steady",
       "summary": "This week brings earnings from Target, Walmart and others",

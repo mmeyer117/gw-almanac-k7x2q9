@@ -26,7 +26,8 @@
             "team_score": "4",
             "opp_score": "5",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Padres",
@@ -34,18 +35,6 @@
             "venue": "Busch Stadium",
             "datetime_utc": "2026-06-15T23:45:00+00:00",
             "label": "Today 6:45 PM CT"
-          }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "Kansas City",
-            "is_home": true,
-            "venue": "Energizer Park",
-            "datetime_utc": "2026-07-17T00:30:00+00:00",
-            "label": "Thu 7/16, 7:30 PM CT"
           }
         }
       ]

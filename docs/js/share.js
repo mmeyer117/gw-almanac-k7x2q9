@@ -50,7 +50,8 @@
         if (t.yesterday) {
           var y = t.yesterday;
           var res = y.draw ? "D" : (y.won ? "W" : "L");
-          parts.push("Yesterday: " + res + " " + y.team_score + "-" + y.opp_score + " " +
+          parts.push("Yesterday: " + res + " " + y.team_score + "-" + y.opp_score +
+            (y.overtime ? " (" + y.overtime + ")" : "") + " " +
             (y.is_home ? "vs. " : "@ ") + y.opponent);
         }
         if (t.next) {

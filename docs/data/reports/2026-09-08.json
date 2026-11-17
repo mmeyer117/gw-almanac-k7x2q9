@@ -13,7 +13,44 @@
       "text": "On September 8, 1998, Mark McGwire hit home run number 62 off Steve Trachsel at Busch Stadium, breaking Roger Maris's record — and hugged the Maris family in the front row.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Giants",
+            "is_home": false,
+            "venue": "Oracle Park",
+            "datetime_utc": "2026-09-08T00:10:00+00:00",
+            "team_score": "4",
+            "opp_score": "5",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Giants",
+            "is_home": false,
+            "venue": "Oracle Park",
+            "datetime_utc": "2026-09-09T01:45:00+00:00",
+            "label": "Today 8:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Portland",
+            "is_home": false,
+            "venue": "Providence Park",
+            "datetime_utc": "2026-09-10T02:30:00+00:00",
+            "label": "Tomorrow 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Oil Nears $100, Dow Drops",
       "summary": "Brent crude climbs after Houthi attacks on energy infrastructure in Saudi Arabia",

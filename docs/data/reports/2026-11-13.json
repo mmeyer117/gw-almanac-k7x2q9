@@ -16,18 +16,6 @@
     "stl_sports": {
       "teams": [
         {
-          "team": "Cardinals",
-          "emoji": "⚾",
-          "yesterday": null,
-          "next": {
-            "opponent": "Reds",
-            "is_home": false,
-            "venue": "Great American Ball Park",
-            "datetime_utc": "2027-03-25T20:10:00+00:00",
-            "label": "Thu 3/25, 3:10 PM CT"
-          }
-        },
-        {
           "team": "Blues",
           "emoji": "🏒",
           "yesterday": {
@@ -38,7 +26,8 @@
             "team_score": "1",
             "opp_score": "0",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": "SO"
           },
           "next": {
             "opponent": "Panthers",
@@ -46,18 +35,6 @@
             "venue": "Enterprise Center",
             "datetime_utc": "2026-11-15T00:00:00+00:00",
             "label": "Tomorrow 6:00 PM CT"
-          }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "LA Galaxy",
-            "is_home": false,
-            "venue": "",
-            "datetime_utc": "2027-02-21T03:00:00+00:00",
-            "label": "Sat 2/20, 9:00 PM CT"
           }
         }
       ]

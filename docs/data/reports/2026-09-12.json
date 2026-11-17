@@ -13,7 +13,44 @@
       "text": "Muggsy Bogues played 14 NBA seasons at 5-foot-3 — and blocked 39 shots, including one on Patrick Ewing.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "White Sox",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-12T00:15:00+00:00",
+            "team_score": "7",
+            "opp_score": "3",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "White Sox",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-12T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Minnesota",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-09-13T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Heart Disease, a Historic Strength for Big Pharma, Becomes a Weakness",
       "summary": "Heart disease remains humanity’s top killer, yet for drugmakers and Wall Street, it is becoming one of the hardest places to make money.",

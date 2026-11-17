@@ -13,7 +13,44 @@
       "text": "Wilt Chamberlain averaged 50.4 points per game for the entire 1961-62 NBA season — and played all but 8 minutes of the year.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Rockies",
+            "is_home": false,
+            "venue": "Coors Field",
+            "datetime_utc": "2026-09-05T00:40:00+00:00",
+            "team_score": "7",
+            "opp_score": "6",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Rockies",
+            "is_home": false,
+            "venue": "Coors Field",
+            "datetime_utc": "2026-09-06T00:10:00+00:00",
+            "label": "Today 7:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": false,
+            "venue": "BC Place",
+            "datetime_utc": "2026-09-06T02:30:00+00:00",
+            "label": "Today 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market News, Sept. 4, 2026: Short-Term Treasury Yields Climb After Strong Jobs Report",
       "summary": "The U.S. economy added 162,000 jobs in August, boosting chances of a rate hike; stocks slip",

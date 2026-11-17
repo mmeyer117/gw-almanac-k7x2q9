@@ -21,17 +21,18 @@
           "yesterday": {
             "opponent": "Diamondbacks",
             "is_home": false,
-            "venue": "Chase Field (NH)",
+            "venue": "Chase Field",
             "datetime_utc": "2026-07-18T20:10:00+00:00",
             "team_score": "3",
             "opp_score": "5",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Diamondbacks",
             "is_home": false,
-            "venue": "Chase Field (NH)",
+            "venue": "Chase Field",
             "datetime_utc": "2026-07-19T20:10:00+00:00",
             "label": "Today 3:10 PM CT"
           }

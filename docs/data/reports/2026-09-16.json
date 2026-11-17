@@ -13,7 +13,44 @@
       "text": "Kareem Abdul-Jabbar's career scoring record of 38,387 points stood for nearly 39 years before LeBron James passed it in 2023.",
       "sport": "basketball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Giants",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-15T23:45:00+00:00",
+            "team_score": "3",
+            "opp_score": "10",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Giants",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-16T17:15:00+00:00",
+            "label": "Today 12:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Toronto",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-09-20T00:30:00+00:00",
+            "label": "Sat 9/19, 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Fed Meeting Today: Markets Steady as Investors Await Rate Decision",
       "summary": "The 10-year Treasury yield falls below 5%, with oil retreating slightly",

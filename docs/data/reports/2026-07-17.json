@@ -38,7 +38,8 @@
             "team_score": "3",
             "opp_score": "2",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "LA Galaxy",

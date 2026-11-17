@@ -55,6 +55,19 @@
   var MONTHS = ["JAN", "FEB", "MAR", "APR", "MAY", "JUN", "JUL", "AUG", "SEP", "OCT", "NOV", "DEC"];
   var DOWS = ["SUN", "MON", "TUE", "WED", "THU", "FRI", "SAT"];
 
+  var TEAM_EMOJI = { "Cardinals": "⚾", "Blues": "🏒", "City SC": "⚽" };
+  // Standings convention per sport: hockey counts OT/shootout losses separately
+  var TEAM_RECORD = { "Cardinals": ["W", "L"], "Blues": ["W", "L", "OTL"], "City SC": ["W", "L", "D"] };
+  var BADGE_LABEL = { W: "win", L: "loss", OTL: "OT/SO loss", D: "draw" };
+  var BADGE_CHIP = { W: "W", L: "L", OTL: "OT", D: "D" };
+
+  /** Teams with results, most recently active first. */
+  function teamOrder() {
+    var tb = state.index.team_badges || {};
+    var last = function (t) { return Object.keys(tb[t]).sort().pop() || ""; };
+    return Object.keys(tb).sort(function (a, b) { return last(a) < last(b) ? 1 : -1; });
+  }
+
   function flapDate(dateStr) {
     var d = parseDate(dateStr);
     window.flapSet($flap, DOWS[d.getDay()] + " " + MONTHS[d.getMonth()] + " " + d.getDate());
@@ -135,7 +148,8 @@
             var y = t.yesterday;
             var res = y.draw ? "D" : (y.won ? "W" : "L");
             bits += "<div><span class='badge " + res + "'>" + res + "</span>" +
-              esc(y.team_score) + "–" + esc(y.opp_score) + " " +
+              esc(y.team_score) + "–" + esc(y.opp_score) +
+              (y.overtime ? " (" + esc(y.overtime) + ")" : "") + " " +
               (y.is_home ? "vs. " : "@ ") + esc(y.opponent) + "</div>";
           }
           if (t.next) {
@@ -304,8 +318,13 @@
     for (var day = 1; day <= daysInMonth; day++) {
       var ds = y + "-" + String(m + 1).padStart(2, "0") + "-" + String(day).padStart(2, "0");
       var has = state.dates.indexOf(ds) >= 0;
-      var badge = (state.index.badges || {})[ds];
-      var dot = has || badge ? '<span class="cal-dot' + (badge ? " " + badge : "") + '"></span>' : "";
+      var dots = "";
+      teamOrder().forEach(function (team) {
+        var b = (state.index.team_badges[team] || {})[ds];
+        if (b) dots += '<span class="cal-dot ' + b + '" title="' + esc(team + " " + BADGE_LABEL[b]) + '"></span>';
+      });
+      if (!dots && has) dots = '<span class="cal-dot"></span>';
+      var dot = dots ? '<span class="cal-dots">' + dots + "</span>" : "";
       if (has) {
         html += '<a class="cal-cell has-report' + (ds === todayStr ? " today-cell" : "") +
           '" href="#/day/' + ds + '">' + day + dot + "</a>";
@@ -315,9 +334,11 @@
     }
     html += "</div>";
     html += '<div class="cal-legend">' +
-      '<span><span class="cal-dot W"></span>Cards win</span>' +
-      '<span><span class="cal-dot L"></span>Cards loss</span>' +
-      '<span><span class="cal-dot"></span>report</span></div>';
+      '<span><span class="cal-dot W"></span>win</span>' +
+      '<span><span class="cal-dot L"></span>loss</span>' +
+      '<span><span class="cal-dot OTL"></span>OT loss / draw</span>' +
+      '<span><span class="cal-dot"></span>no game</span></div>' +
+      '<p class="stat-note" style="text-align:center">one dot per STL team that played</p>';
 
     zone.innerHTML = html;
     var prev = document.getElementById("cal-prev");
@@ -417,12 +438,16 @@
       var s = computeStats(reports);
       var html = "";
 
-      html += card("Cardinals Results", "⚾",
-        s.strip.length
-          ? '<div class="resultstrip">' + s.strip.map(function (r) {
-              return '<span class="chip ' + r.badge + '" title="' + esc(r.date) + '">' + r.badge + "</span>";
-            }).join("") + "</div><p class='stat-note'>" + s.record + " over the last " + s.strip.length + " games</p>"
-          : "<p class='stat-note'>No games yet.</p>");
+      s.teams.forEach(function (t) {
+        html += card(t.team + " Results", TEAM_EMOJI[t.team] || "🏟",
+          '<div class="team-record">' + t.record + '<span>' + t.recordFormat + "</span></div>" +
+          '<div class="resultstrip">' + t.recent.map(function (r) {
+            return '<span class="chip ' + r.badge + '" title="' + esc(r.date + " " + BADGE_LABEL[r.badge]) +
+              '">' + BADGE_CHIP[r.badge] + "</span>";
+          }).join("") + "</div>" +
+          "<p class='stat-note'>last " + t.recent.length + " games, oldest → newest · last 10: " +
+          t.last10 + " · " + t.games + " games in the archive</p>");
+      });
 
       html += card("Song Picker Tally", "🎵",
         '<div class="chart-wrap"><canvas id="ch-song" height="190"></canvas></div>' +
@@ -517,7 +542,6 @@
 
   function computeStats(reports) {
     var songCounts = {}, spotByWeek = {}, words = [], eras = {}, authors = {}, sports = {};
-    var strip = [];
 
     reports.forEach(function (rep) {
       var s = rep.sections || {};
@@ -538,12 +562,24 @@
       if (s.sports_fact) sports[s.sports_fact.sport] = (sports[s.sports_fact.sport] || 0) + 1;
     });
 
-    var badges = state.index.badges || {};
-    Object.keys(badges).sort().forEach(function (d) {
-      strip.push({ date: d, badge: badges[d] });
+    var teams = teamOrder().map(function (team) {
+      var tb = state.index.team_badges[team] || {};
+      var games = Object.keys(tb).sort().map(function (d) { return { date: d, badge: tb[d] }; });
+      var fmt = TEAM_RECORD[team] || ["W", "L"];
+      function rec(list) {
+        return fmt.map(function (code) {
+          return list.filter(function (g) { return g.badge === code; }).length;
+        }).join("-");
+      }
+      return {
+        team: team,
+        games: games.length,
+        record: rec(games),
+        recordFormat: fmt.join("-"),
+        last10: rec(games.slice(-10)),
+        recent: games.slice(-20),
+      };
     });
-    var w = strip.filter(function (r) { return r.badge === "W"; }).length;
-    var l = strip.filter(function (r) { return r.badge === "L"; }).length;
 
     var spotCounts = {};
     Object.keys(spotByWeek).forEach(function (wk) {
@@ -571,8 +607,7 @@
       authors: Object.keys(authors).sort(function (a, b) { return authors[b] - authors[a]; })
         .slice(0, 10).map(function (k) { return [k, authors[k]]; }),
       sportMix: toSorted(sports),
-      strip: strip,
-      record: w + "-" + l + (strip.length - w - l > 0 ? "-" + (strip.length - w - l) : ""),
+      teams: teams,
     };
   }
 
@@ -605,6 +640,7 @@
 
   fetchJSON("data/index.json").then(function (index) {
     state.index = index;
+    if (!index.team_badges) index.team_badges = { Cardinals: index.badges || {} };
     state.dates = index.dates.slice().sort();
     route();
   }).catch(function () {

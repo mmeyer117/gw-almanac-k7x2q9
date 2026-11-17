@@ -13,7 +13,44 @@
       "text": "Wrigley Field, which opened in 1914, didn't host a night game until August 1988 — the last big-league park to install lights.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-29T18:15:00+00:00",
+            "team_score": "2",
+            "opp_score": "6",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Pirates",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-30T18:15:00+00:00",
+            "label": "Today 1:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Dallas",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-30T23:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market News, Aug. 28, 2026: Warsh Comments Boost Rate-Hike Bets",
       "summary": "Yields rise after Fed chairman's speech focuses on inflation",

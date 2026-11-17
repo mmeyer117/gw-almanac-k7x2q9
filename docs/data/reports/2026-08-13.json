@@ -13,7 +13,44 @@
       "text": "Bob Gibson's 1.12 ERA in 1968 was so dominant that MLB lowered the mound and shrank the strike zone the following season.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Phillies",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-12T18:15:00+00:00",
+            "team_score": "7",
+            "opp_score": "1",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-14T18:20:00+00:00",
+            "label": "Tomorrow 1:20 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Sat 8/15, 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Stock Futures Tick Higher",
       "summary": "Asian markets climb on AI enthusiasm, yields dip",

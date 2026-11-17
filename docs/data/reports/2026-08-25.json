@@ -13,7 +13,34 @@
       "text": "Ichiro Suzuki collected 262 hits in 2004, breaking an 84-year-old single-season record — and he didn't reach MLB until he was 27.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Orioles",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-25T23:45:00+00:00",
+            "label": "Today 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Dallas",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-30T23:00:00+00:00",
+            "label": "Sun 8/30, 6:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Bitcoin Extends Rally, Crossing Above $80,000",
       "summary": "Cryptocurrency up over 20% over past week; oil retreats",

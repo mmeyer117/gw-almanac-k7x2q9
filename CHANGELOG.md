@@ -1,5 +1,20 @@
 # Changelog
 
+## v2.5 — 2026-11-16
+
+- **Next game only within 7 days** (all teams): offseason teams stay hidden
+  instead of advertising games months away.
+- **Fix: Cardinals results vanished after Aug 4.** ESPN's default schedule
+  jumps to the next season early; seasons are now requested explicitly
+  (this year + next). New `scripts/rebuild_sports.py` recomputed the sports
+  section in all reports — Cardinals archive now covers the full season
+  through Sept 27.
+- **Blues (and City SC) results on the site**: per-team results cards on
+  Stats (hockey record as W-L-OTL, soccer W-L-D), one calendar dot per
+  team that played. OT/shootout results tagged "(OT)"/"(SO)" in the day
+  view and chat text. `index.json` gains `team_badges`; legacy `badges`
+  kept for cached clients. Service worker -> ga-v3.
+
 ## v2.4 — 2026-06-12
 
 - Schedule hardened around the user's hard deadline (report ready by

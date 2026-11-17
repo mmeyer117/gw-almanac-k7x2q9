@@ -13,7 +13,56 @@
       "text": "Tom Dempsey, born without toes on his kicking foot, hit a 63-yard field goal in 1970 — a record that stood for 43 years.",
       "sport": "football"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-09-26T23:10:00+00:00",
+            "team_score": "2",
+            "opp_score": "3",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Brewers",
+            "is_home": false,
+            "venue": "American Family Field",
+            "datetime_utc": "2026-09-27T19:10:00+00:00",
+            "label": "Today 2:10 PM CT"
+          }
+        },
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": false,
+            "venue": "American Airlines Center",
+            "datetime_utc": "2026-10-03T01:00:00+00:00",
+            "label": "Fri 10/2, 8:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Wed 9/30, 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market News, Sept. 25, 2026: Bond Yields Drop With Oil Prices Near End of Volatile Week",
       "summary": "Dow rises amid hopes for a deal to reopen the Strait of Hormuz",

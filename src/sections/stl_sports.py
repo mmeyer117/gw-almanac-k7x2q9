@@ -7,8 +7,13 @@ Fixes vs v1 (all confirmed by probing the real API):
 - Game status lives at competitions[0].status, not event.status.
 - Scores can be objects ({value, displayValue}) or plain strings.
 - Soccer schedules return past results only; upcoming needs ?fixture=true.
+- The default (no ?season) schedule jumps to the NEXT season early — MLB
+  flipped to 2027 in Aug 2026, silently dropping the rest of 2026. Seasons
+  are always requested explicitly (ESPN labels a season by the year it
+  ends: NHL 2026-27 is season=2027).
 
-Rules: in-season teams only; only data present in the API response — never
+Rules: in-season teams only; next game shown only when it's within
+NEXT_GAME_WINDOW_DAYS; only data present in the API response — never
 fabricate pitchers, goalies, lineups, or series framing.
 
 `events_override` lets the backfill inject a pre-fetched, cached event list
@@ -40,6 +45,8 @@ TEAMS = {
 
 SCHEDULE_URL = "https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{team_id}/schedule"
 
+NEXT_GAME_WINDOW_DAYS = 7
+
 
 def _get(url, params=None):
     resp = requests.get(url, params=params, timeout=20,
@@ -58,17 +65,28 @@ def _score_value(raw):
     return str(raw)
 
 
-def fetch_team_events(team_name):
-    """All schedule events for a team (results + fixtures for soccer)."""
+def fetch_team_events(team_name, seasons=None):
+    """All schedule events for a team across the given ESPN season years
+    (default: this year and next, which covers every report date's
+    yesterday + next game). Results + fixtures for soccer, deduped."""
     info = TEAMS[team_name]
     url = SCHEDULE_URL.format(**info)
-    events = list(_get(url).get("events", []))
-    if info.get("needs_fixture_call"):
-        try:
-            events += _get(url, params={"fixture": "true"}).get("events", [])
-        except Exception:
-            pass
-    return events
+    if seasons is None:
+        year = now_ct().year
+        seasons = [year, year + 1]
+
+    by_id = {}
+    for season in seasons:
+        param_sets = [{"season": str(season)}]
+        if info.get("needs_fixture_call"):
+            param_sets.append({"season": str(season), "fixture": "true"})
+        for params in param_sets:
+            try:
+                for ev in _get(url, params=params).get("events", []):
+                    by_id[ev.get("id") or ev.get("date")] = ev
+            except Exception:
+                continue
+    return list(by_id.values())
 
 
 def _parse_event(ev, team_id):
@@ -102,6 +120,11 @@ def _parse_event(ev, team_id):
         draw = True
         won = False
 
+    # Hockey: "Final/OT" or "Final/SO" — an OT/shootout loss is its own
+    # standings column (W-L-OTL), so keep it distinguishable.
+    detail = (status.get("shortDetail") or status.get("detail") or "").upper()
+    overtime = "SO" if "/SO" in detail else ("OT" if "/OT" in detail else None)
+
     return {
         "datetime_utc": dt_utc,
         "completed": bool(status.get("completed")),
@@ -111,6 +134,7 @@ def _parse_event(ev, team_id):
         "opp_score": opp_score,
         "won": bool(won) if won is not None else None,
         "draw": draw,
+        "overtime": overtime,
         "venue": (comp.get("venue") or {}).get("fullName", ""),
     }
 
@@ -136,6 +160,9 @@ def _team_data(team_name, report_date, events):
         if upcoming and next_game is None:
             next_game = p
 
+    if next_game and (to_ct(next_game["datetime_utc"]).date() - report_date).days > NEXT_GAME_WINDOW_DAYS:
+        next_game = None
+
     if not yesterdays_game and not next_game:
         return None
 
@@ -150,7 +177,7 @@ def _team_data(team_name, report_date, events):
         }
         if with_score:
             out.update(team_score=p["team_score"], opp_score=p["opp_score"],
-                       won=p["won"], draw=p["draw"])
+                       won=p["won"], draw=p["draw"], overtime=p["overtime"])
         else:
             dt_ct = to_ct(p["datetime_utc"])
             out["label"] = game_time_label(dt_ct, report_date)
@@ -198,7 +225,8 @@ def format_text(data):
             else:
                 outcome = "W" if y.get("won") else "L"
             loc = "vs. " if y["is_home"] else "@ "
-            parts.append(f"Yesterday: {outcome} {y['team_score']}-{y['opp_score']} {loc}{y['opponent']}")
+            ot = f" ({y['overtime']})" if y.get("overtime") else ""
+            parts.append(f"Yesterday: {outcome} {y['team_score']}-{y['opp_score']}{ot} {loc}{y['opponent']}")
         n = t.get("next")
         if n:
             loc = "vs." if n["is_home"] else "@"

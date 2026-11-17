@@ -13,7 +13,44 @@
       "text": "The 1906 Cubs won 116 games and lost the World Series to the crosstown White Sox — a team nicknamed the 'Hitless Wonders' for their league-worst batting average.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Phillies",
+            "is_home": false,
+            "venue": "Citizens Bank Park",
+            "datetime_utc": "2026-08-23T17:35:00+00:00",
+            "team_score": "4",
+            "opp_score": "6",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Orioles",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-25T23:45:00+00:00",
+            "label": "Tomorrow 6:45 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Dallas",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-08-30T23:00:00+00:00",
+            "label": "Sun 8/30, 6:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Oil Drops as Investors Await Bessent’s Plan to Squeeze Iran",
       "summary": "Tech stocks start week under pressure",

@@ -26,7 +26,8 @@
             "team_score": "2",
             "opp_score": "4",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Sharks",

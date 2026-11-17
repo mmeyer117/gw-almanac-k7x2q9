@@ -26,7 +26,8 @@
             "team_score": "1",
             "opp_score": "3",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Red Wings",
@@ -47,15 +48,10 @@
             "team_score": "1",
             "opp_score": "0",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
-          "next": {
-            "opponent": "LA Galaxy",
-            "is_home": false,
-            "venue": "",
-            "datetime_utc": "2027-02-21T03:00:00+00:00",
-            "label": "Sat 2/20, 9:00 PM CT"
-          }
+          "next": null
         }
       ]
     },

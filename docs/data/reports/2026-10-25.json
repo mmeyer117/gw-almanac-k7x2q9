@@ -26,7 +26,8 @@
             "team_score": "0",
             "opp_score": "4",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Canadiens",
@@ -47,7 +48,8 @@
             "team_score": "0",
             "opp_score": "3",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Portland",

@@ -13,7 +13,44 @@
       "text": "The 1944 World Series was an all-St. Louis affair — Cardinals vs. Browns — with every game played at Sportsman's Park. The teams literally shared the stadium.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-14T18:20:00+00:00",
+            "team_score": "0",
+            "opp_score": "3",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-15T18:20:00+00:00",
+            "label": "Today 1:20 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Today 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Jane Street Suffers Loss of About $15 Billion Following Troubles at Situational Awareness",
       "summary": "The trading firm posted its worst month ever in July after bets at Leopold Aschenbrenner’s hedge fund soured.",

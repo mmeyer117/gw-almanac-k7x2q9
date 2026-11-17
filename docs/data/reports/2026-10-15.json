@@ -38,7 +38,8 @@
             "team_score": "0",
             "opp_score": "0",
             "won": false,
-            "draw": true
+            "draw": true,
+            "overtime": null
           },
           "next": {
             "opponent": "Minnesota",

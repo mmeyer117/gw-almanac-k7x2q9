@@ -26,7 +26,8 @@
             "team_score": "3",
             "opp_score": "2",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Mammoth",
@@ -34,18 +35,6 @@
             "venue": "Delta Center",
             "datetime_utc": "2026-11-13T02:00:00+00:00",
             "label": "Tomorrow 8:00 PM CT"
-          }
-        },
-        {
-          "team": "City SC",
-          "emoji": "⚽",
-          "yesterday": null,
-          "next": {
-            "opponent": "LA Galaxy",
-            "is_home": false,
-            "venue": "",
-            "datetime_utc": "2027-02-21T03:00:00+00:00",
-            "label": "Sat 2/20, 9:00 PM CT"
           }
         }
       ]

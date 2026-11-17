@@ -13,7 +13,44 @@
       "text": "The Blues reached the Stanley Cup Final in each of their first three seasons (1968-70) — and were swept all three times. It took 49 more years to win it.",
       "sport": "hockey"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Nationals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-19T00:15:00+00:00",
+            "team_score": "1",
+            "opp_score": "9",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Nationals",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-09-19T23:15:00+00:00",
+            "label": "Today 6:15 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Toronto",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-09-20T00:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market News, Sept. 18, 2026: Tech Stocks Climb as Treasury Yields Rise",
       "summary": "The 2-year Treasury yield moved to its highest level in two years in anticipation of more Fed rate hikes.",

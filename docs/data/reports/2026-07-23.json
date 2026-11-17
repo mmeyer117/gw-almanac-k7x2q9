@@ -26,7 +26,8 @@
             "team_score": "1",
             "opp_score": "0",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Diamondbacks",
@@ -47,7 +48,8 @@
             "team_score": "3",
             "opp_score": "1",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Colorado",

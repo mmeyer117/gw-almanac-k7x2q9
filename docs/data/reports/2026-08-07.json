@@ -13,7 +13,22 @@
       "text": "Bo Jackson is the only athlete named an All-Star in both MLB and the NFL Pro Bowl — and he considered football his hobby.",
       "sport": "football"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Rockies",
+            "is_home": true,
+            "venue": "Busch Stadium",
+            "datetime_utc": "2026-08-08T00:15:00+00:00",
+            "label": "Today 7:15 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Jobs Report Today: Stock Futures Tick Higher, Oil Slips",
       "summary": "July employment data set to offer clues as to Fed's next move",

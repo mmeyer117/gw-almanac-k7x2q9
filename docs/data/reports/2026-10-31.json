@@ -32,11 +32,11 @@
           "emoji": "⚽",
           "yesterday": null,
           "next": {
-            "opponent": "LA Galaxy",
-            "is_home": false,
-            "venue": "",
-            "datetime_utc": "2027-02-21T03:00:00+00:00",
-            "label": "Sat 2/20, 9:00 PM CT"
+            "opponent": "San Diego",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-10-31T19:00:00+00:00",
+            "label": "Today 2:00 PM CT"
           }
         }
       ]

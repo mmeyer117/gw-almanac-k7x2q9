@@ -48,7 +48,8 @@ def main():
     espn_events = {}
     for team in stl_sports.TEAMS:
         try:
-            espn_events[team] = stl_sports.fetch_team_events(team)
+            espn_events[team] = stl_sports.fetch_team_events(
+                team, seasons=range(start.year, end.year + 2))
             print(f"  {team}: {len(espn_events[team])} events")
         except Exception as e:
             print(f"  {team}: FAILED ({e})")

@@ -26,7 +26,8 @@
             "team_score": "6",
             "opp_score": "7",
             "won": false,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
           "next": {
             "opponent": "Reds",
@@ -47,15 +48,10 @@
             "team_score": "3",
             "opp_score": "0",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
-          "next": {
-            "opponent": "Kansas City",
-            "is_home": true,
-            "venue": "Energizer Park",
-            "datetime_utc": "2026-07-17T00:30:00+00:00",
-            "label": "Thu 7/16, 7:30 PM CT"
-          }
+          "next": null
         }
       ]
     },

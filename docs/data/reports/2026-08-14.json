@@ -13,7 +13,34 @@
       "text": "In 1999, Cardinal Fernando Tatis hit two grand slams in the same inning — both off the same pitcher, Chan Ho Park. No one else has ever done it.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Cubs",
+            "is_home": false,
+            "venue": "Wrigley Field",
+            "datetime_utc": "2026-08-14T18:20:00+00:00",
+            "label": "Today 1:20 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "San Jose",
+            "is_home": false,
+            "venue": "PayPal Park",
+            "datetime_utc": "2026-08-16T02:30:00+00:00",
+            "label": "Tomorrow 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: S&P Futures Steady After Record Close",
       "summary": "Oil is forging higher with Brent crude around $88",

@@ -13,7 +13,22 @@
       "text": "Bobby Orr is the only defenseman ever to lead the NHL in scoring — and he did it twice.",
       "sport": "hockey"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": null,
+          "next": {
+            "opponent": "Pirates",
+            "is_home": false,
+            "venue": "PNC Park",
+            "datetime_utc": "2026-09-22T22:40:00+00:00",
+            "label": "Today 5:40 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Oil Sinks Below $100, Lifting Tech Stocks",
       "summary": "Trump addressing world leaders this morning",

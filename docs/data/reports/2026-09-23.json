@@ -13,7 +13,44 @@
       "text": "The 1919 Stanley Cup Final was cancelled mid-series due to the influenza pandemic — one of only two years the Cup has not been awarded.",
       "sport": "hockey"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Pirates",
+            "is_home": false,
+            "venue": "PNC Park",
+            "datetime_utc": "2026-09-22T22:40:00+00:00",
+            "team_score": "0",
+            "opp_score": "2",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Pirates",
+            "is_home": false,
+            "venue": "PNC Park",
+            "datetime_utc": "2026-09-23T22:40:00+00:00",
+            "label": "Today 5:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Red Bull NY",
+            "is_home": false,
+            "venue": "Sports Illustrated Stadium",
+            "datetime_utc": "2026-09-30T23:30:00+00:00",
+            "label": "Wed 9/30, 6:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: 10-Year Treasury Yield Jumps Above 5%",
       "summary": "Nasdaq falls 1%; moves come as oil prices rise and a Fed governor says more rate hikes are likely",

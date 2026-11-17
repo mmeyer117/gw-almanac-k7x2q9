@@ -13,7 +13,44 @@
       "text": "Ozzie Smith won 13 consecutive Gold Gloves at shortstop and did a backflip on Opening Day. The Wizard earned the nickname.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-08-17T22:40:00+00:00",
+            "team_score": "5",
+            "opp_score": "6",
+            "won": false,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Reds",
+            "is_home": false,
+            "venue": "Great American Ball Park",
+            "datetime_utc": "2026-08-18T22:40:00+00:00",
+            "label": "Today 5:40 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Kansas City",
+            "is_home": false,
+            "venue": "Sporting Park",
+            "datetime_utc": "2026-08-20T00:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Global Bond Rout Deepens",
       "summary": "Growing fiscal deficits, inflation fears and massive AI spending push up borrowing costs",

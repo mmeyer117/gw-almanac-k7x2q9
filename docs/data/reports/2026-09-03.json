@@ -13,7 +13,44 @@
       "text": "Walter Johnson threw 110 shutouts in his career. No active pitcher has 15.",
       "sport": "baseball"
     },
-    "stl_sports": null,
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Cardinals",
+          "emoji": "⚾",
+          "yesterday": {
+            "opponent": "Dodgers",
+            "is_home": false,
+            "venue": "Dodger Stadium",
+            "datetime_utc": "2026-09-03T02:10:00+00:00",
+            "team_score": "8",
+            "opp_score": "6",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Dodgers",
+            "is_home": false,
+            "venue": "Dodger Stadium",
+            "datetime_utc": "2026-09-04T02:10:00+00:00",
+            "label": "Today 9:10 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "Vancouver",
+            "is_home": false,
+            "venue": "BC Place",
+            "datetime_utc": "2026-09-06T02:30:00+00:00",
+            "label": "Sat 9/5, 9:30 PM CT"
+          }
+        }
+      ]
+    },
     "market": {
       "headline": "Stock Market Today: Treasury Yields Retreat on Fed Official’s Rate Comments",
       "summary": "Dow opens higher after Fed’s Waller says he'd back rate hold if inflation data is supportive; yen rallies",

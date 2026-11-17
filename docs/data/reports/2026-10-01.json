@@ -38,15 +38,10 @@
             "team_score": "3",
             "opp_score": "0",
             "won": true,
-            "draw": false
+            "draw": false,
+            "overtime": null
           },
-          "next": {
-            "opponent": "LA Galaxy",
-            "is_home": true,
-            "venue": "Energizer Park",
-            "datetime_utc": "2026-10-11T23:00:00+00:00",
-            "label": "Sun 10/11, 6:00 PM CT"
-          }
+          "next": null
         }
       ]
     },

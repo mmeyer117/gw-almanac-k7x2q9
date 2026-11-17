@@ -1,5 +1,5 @@
 /* Minimal service worker: cache-first shell, network-first data. */
-var VERSION = "ga-v2";
+var VERSION = "ga-v3";
 var SHELL = [
   "./",
   "index.html",

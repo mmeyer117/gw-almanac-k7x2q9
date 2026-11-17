@@ -457,7 +457,23 @@ body {
 }
 .cal-dot.W { background: var(--green); }
 .cal-dot.L { background: var(--red); }
-.cal-dot.D { background: var(--amber); }
+.cal-dot.D, .cal-dot.OTL { background: var(--amber); }
+.cal-dots { display: flex; gap: 3px; }
+
+.team-record {
+  font-family: var(--serif-display);
+  font-weight: 900;
+  font-size: 28px;
+  line-height: 1;
+}
+.team-record span {
+  font-family: var(--mono);
+  font-weight: 500;
+  font-size: 11px;
+  letter-spacing: .12em;
+  color: var(--ink-soft);
+  margin-left: 8px;
+}
 
 .cal-legend {
   display: flex; gap: 16px; justify-content: center;
@@ -526,7 +542,8 @@ body {
 }
 .chip.W { background: var(--green); }
 .chip.L { background: var(--red); }
-.chip.D { background: var(--amber); color: #161616; }
+.chip.D, .chip.OTL { background: var(--amber); color: #161616; }
+.chip.OTL { font-size: 9.5px; }
 
 .word-wall { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px; }
 .word-wall a {
