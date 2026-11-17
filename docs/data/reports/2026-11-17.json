@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-17",
+  "display_date": "Tuesday, November 17, 2026",
+  "generated_at": "2026-11-17T12:00:12+00:00",
+  "sections": {
+    "word": {
+      "word": "stolid",
+      "part_of_speech": "adjective",
+      "definition": "Stolid describes someone or something that has or expresses little or no emotion.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/stolid-2026-11-17"
+    },
+    "sports_fact": {
+      "text": "The 'hat trick' came to hockey from cricket, where a 19th-century bowler who took three wickets in a row was awarded a hat by his club.",
+      "sport": "hockey"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Ducks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-18T01:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News: Global Stocks Downbeat Ahead of Nvidia Earnings",
+      "summary": "Tech shares around the world are in the red",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The United States has broken the second rule of war. That is: don't go fighting with your land army on the mainland in Asia. Rule One is, don't march on Moscow. I developed those two rules myself. You are learning now how important this second rule of war is.",
+      "author": "Bernard Montgomery"
+    },
+    "history": {
+      "year": 1775,
+      "text": "The city of Kuopio, Finland (belonging to Sweden at this time) is founded by King Gustav III of Sweden."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
