@@ -44,6 +44,9 @@ TEAMS = {
 }
 
 SCHEDULE_URL = "https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/teams/{team_id}/schedule"
+# Team schedules omit postseason games (e.g. MLS playoffs); the league
+# scoreboard, queried one date at a time, includes them.
+SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/{sport}/{league}/scoreboard"
 
 NEXT_GAME_WINDOW_DAYS = 7
 
@@ -65,10 +68,33 @@ def _score_value(raw):
     return str(raw)
 
 
-def fetch_team_events(team_name, seasons=None):
+def fetch_scoreboard_events(team_name, dates):
+    """The team's games found on the league scoreboard for each date."""
+    info = TEAMS[team_name]
+    url = SCOREBOARD_URL.format(**info)
+    found = []
+    for d in dates:
+        try:
+            events = _get(url, params={"dates": f"{d:%Y%m%d}"}).get("events", [])
+        except Exception:
+            continue
+        for ev in events:
+            comps = (ev.get("competitions") or [{}])[0].get("competitors", [])
+            if any(str(c.get("team", {}).get("id")) == info["team_id"] for c in comps):
+                found.append(ev)
+    return found
+
+
+def window_dates(report_date):
+    """Yesterday through the end of the next-game window."""
+    return [report_date + timedelta(days=i) for i in range(-1, NEXT_GAME_WINDOW_DAYS + 1)]
+
+
+def fetch_team_events(team_name, seasons=None, scoreboard_dates=()):
     """All schedule events for a team across the given ESPN season years
     (default: this year and next, which covers every report date's
-    yesterday + next game). Results + fixtures for soccer, deduped."""
+    yesterday + next game), plus scoreboard games on `scoreboard_dates`
+    (catches postseason). Results + fixtures for soccer, deduped."""
     info = TEAMS[team_name]
     url = SCHEDULE_URL.format(**info)
     if seasons is None:
@@ -86,10 +112,25 @@ def fetch_team_events(team_name, seasons=None):
                     by_id[ev.get("id") or ev.get("date")] = ev
             except Exception:
                 continue
+    for ev in fetch_scoreboard_events(team_name, scoreboard_dates):
+        by_id[ev.get("id") or ev.get("date")] = ev
     return list(by_id.values())
 
 
+def _is_preseason(ev):
+    """Preseason / spring training: scoreboard events carry season.type == 1,
+    schedule events carry seasonType {type, name}."""
+    season = ev.get("season") or {}
+    stype = ev.get("seasonType") or {}
+    if str(season.get("type")) == "1" or str(stype.get("type")) == "1":
+        return True
+    name = f"{stype.get('name', '')} {season.get('slug', '')}".lower()
+    return "preseason" in name or "spring" in name
+
+
 def _parse_event(ev, team_id):
+    if _is_preseason(ev):
+        return None
     try:
         dt_utc = parse_espn_date(ev["date"])
     except Exception:
@@ -125,8 +166,14 @@ def _parse_event(ev, team_id):
     detail = (status.get("shortDetail") or status.get("detail") or "").upper()
     overtime = "SO" if "/SO" in detail else ("OT" if "/OT" in detail else None)
 
+    # Unconfirmed kickoff (e.g. an if-necessary playoff game): ESPN fills in a
+    # placeholder time — never present it as real.
+    time_tbd = ev.get("timeValid") is False or comp.get("timeValid") is False or \
+        (status.get("shortDetail") or "").upper() == "TBD"
+
     return {
         "datetime_utc": dt_utc,
+        "time_tbd": time_tbd,
         "completed": bool(status.get("completed")),
         "opponent": opp_team.get("shortDisplayName") or opp_team.get("displayName") or "TBD",
         "is_home": is_home,
@@ -180,7 +227,7 @@ def _team_data(team_name, report_date, events):
                        won=p["won"], draw=p["draw"], overtime=p["overtime"])
         else:
             dt_ct = to_ct(p["datetime_utc"])
-            out["label"] = game_time_label(dt_ct, report_date)
+            out["label"] = game_time_label(dt_ct, report_date, time_tbd=p["time_tbd"])
         return out
 
     return {
@@ -201,7 +248,7 @@ def get_data(report_date, events_override=None):
             if events_override and team_name in events_override:
                 events = events_override[team_name]
             else:
-                events = fetch_team_events(team_name)
+                events = fetch_team_events(team_name, scoreboard_dates=window_dates(report_date))
         except Exception:
             continue
         if not events:

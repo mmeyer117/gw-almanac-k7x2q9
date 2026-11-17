@@ -8,7 +8,7 @@ Use after changing stl_sports logic, or to repair games ESPN's feed dropped.
 import json
 import os
 import sys
-from datetime import date
+from datetime import date, timedelta
 
 sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "src"))
 
@@ -25,9 +25,14 @@ def main():
     dates = [date.fromisoformat(fn[:-5]) for fn in files]
     seasons = range(dates[0].year, dates[-1].year + 2)
 
+    # Scoreboard scan over the whole archive catches postseason games that
+    # team schedules omit (one request per league per day).
+    span = (dates[-1] - dates[0]).days + stl_sports.NEXT_GAME_WINDOW_DAYS + 2
+    scan = [dates[0] + timedelta(days=i - 1) for i in range(span)]
+
     events = {}
     for team in stl_sports.TEAMS:
-        events[team] = stl_sports.fetch_team_events(team, seasons=seasons)
+        events[team] = stl_sports.fetch_team_events(team, seasons=seasons, scoreboard_dates=scan)
         print(f"{team}: {len(events[team])} events (seasons {list(seasons)})")
         if not events[team]:
             sys.exit(f"No events for {team} — refusing to wipe its data.")

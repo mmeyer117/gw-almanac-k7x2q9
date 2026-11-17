@@ -1,5 +1,16 @@
 # Changelog
 
+## v2.6 — 2026-11-17
+
+- **Playoff games**: ESPN team schedules omit the postseason (City SC's
+  first-round series vs. LAFC was invisible). The league scoreboard is now
+  checked for yesterday through the 7-day window on every run; rebuild/
+  backfill scan the scoreboard across their whole date range.
+- **Preseason/spring training excluded** from reports and records (the
+  scoreboard scan had surfaced four September Blues exhibitions).
+- **Unconfirmed kickoff times** (ESPN `timeValid: false`, e.g. an
+  if-necessary Game 3) display as "time TBD" instead of a placeholder time.
+
 ## v2.5 — 2026-11-16
 
 - **Next game only within 7 days** (all teams): offseason teams stay hidden

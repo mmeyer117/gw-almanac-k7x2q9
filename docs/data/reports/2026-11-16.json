@@ -26,6 +26,18 @@
             "datetime_utc": "2026-11-18T01:00:00+00:00",
             "label": "Tomorrow 7:00 PM CT"
           }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
         }
       ]
     },

@@ -22,8 +22,9 @@ def time_12h(dt):
     return f"{hour}:{dt.minute:02d} {ampm}"
 
 
-def game_time_label(dt_ct, report_date):
-    """'Today 7:15 PM CT' / 'Tomorrow 1:15 PM CT' / 'Sat 6/13, 7:15 PM CT'."""
+def game_time_label(dt_ct, report_date, time_tbd=False):
+    """'Today 7:15 PM CT' / 'Tomorrow 1:15 PM CT' / 'Sat 6/13, 7:15 PM CT'
+    / 'Wed 12/2, time TBD'."""
     d = dt_ct.date()
     if d == report_date:
         day = "Today"
@@ -31,6 +32,8 @@ def game_time_label(dt_ct, report_date):
         day = "Tomorrow"
     else:
         day = f"{dt_ct:%a} {dt_ct.month}/{dt_ct.day},"
+    if time_tbd:
+        return f"{day.rstrip(',')}, time TBD"
     return f"{day} {time_12h(dt_ct)} CT"
 
 

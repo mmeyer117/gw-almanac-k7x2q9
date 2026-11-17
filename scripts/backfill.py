@@ -48,8 +48,10 @@ def main():
     espn_events = {}
     for team in stl_sports.TEAMS:
         try:
+            scan = [start + timedelta(days=i - 1)
+                    for i in range((end - start).days + stl_sports.NEXT_GAME_WINDOW_DAYS + 2)]
             espn_events[team] = stl_sports.fetch_team_events(
-                team, seasons=range(start.year, end.year + 2))
+                team, seasons=range(start.year, end.year + 2), scoreboard_dates=scan)
             print(f"  {team}: {len(espn_events[team])} events")
         except Exception as e:
             print(f"  {team}: FAILED ({e})")
