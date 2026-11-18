@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-18",
+  "display_date": "Wednesday, November 18, 2026",
+  "generated_at": "2026-11-18T12:00:12+00:00",
+  "sections": {
+    "word": {
+      "word": "hobbyhorse",
+      "part_of_speech": "noun",
+      "definition": "Hobbyhorse refers to a topic that someone dwells on, returning to again and again, especially in conversation.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/hobbyhorse-2026-11-18"
+    },
+    "sports_fact": {
+      "text": "Stan Musial finished with exactly 3,630 hits: 1,815 at home and 1,815 on the road. Perfect symmetry over 22 seasons.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Ducks",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-18T01:00:00+00:00",
+            "team_score": "8",
+            "opp_score": "6",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Penguins",
+            "is_home": false,
+            "venue": "PPG Paints Arena",
+            "datetime_utc": "2026-11-20T00:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Stocks Set to Rise After Nvidia Earnings Soothe AI Jitters",
+      "summary": "Chip maker sought to reassure on its prospects without Jensen Huang",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Do you know how you make someone into a Dalek? Subtract Love, add Anger.",
+      "author": "Steven Moffat"
+    },
+    "history": {
+      "year": 1963,
+      "text": "The Bell Telephone Company introduces the first push-button telephone."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Dexter"
+    }
+  }
+}
