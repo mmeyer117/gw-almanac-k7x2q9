@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-19",
+  "display_date": "Thursday, November 19, 2026",
+  "generated_at": "2026-11-19T12:00:12+00:00",
+  "sections": {
+    "word": {
+      "word": "upbraid",
+      "part_of_speech": "verb",
+      "definition": "To upbraid someone is to speak to them in an angry or critical way in response to something they have done wrong—in other words, to scold them.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/upbraid-2026-11-19"
+    },
+    "sports_fact": {
+      "text": "Bob Gibson's 1.12 ERA in 1968 was so dominant that MLB lowered the mound and shrank the strike zone the following season.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Penguins",
+            "is_home": false,
+            "venue": "PPG Paints Arena",
+            "datetime_utc": "2026-11-20T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Anthropic IPO Today: AI Giant Prepares to Start Trading in High-Stakes Offering",
+      "summary": "Claude maker is first AI lab to go public",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "If you are called upon to govern humans, treat them humanely.",
+      "author": "Mikhail Kalinin"
+    },
+    "history": {
+      "year": 1847,
+      "text": "The second Canadian railway line, the Montreal and Lachine Railroad, is opened."
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
