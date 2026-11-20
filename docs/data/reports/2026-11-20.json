@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-20",
+  "display_date": "Friday, November 20, 2026",
+  "generated_at": "2026-11-20T12:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "ruthless",
+      "part_of_speech": "adjective",
+      "definition": "Ruthless means \"having no pity.\" It describes people, behaviors, circumstances, etc.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/ruthless-2026-11-20"
+    },
+    "sports_fact": {
+      "text": "In 1999, Cardinal Fernando Tatis hit two grand slams in the same inning — both off the same pitcher, Chan Ho Park. No one else has ever done it.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Penguins",
+            "is_home": false,
+            "venue": "PPG Paints Arena",
+            "datetime_utc": "2026-11-20T00:00:00+00:00",
+            "team_score": "5",
+            "opp_score": "2",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Devils",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-22T00:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Anthropic Stock Drops as Tech Rout Intensifies",
+      "summary": "S&amp;P 500 heads for longest losing streak since 2020",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "All do not develop in the same manner, or at the same pace. Nations, like men, often march to the beat of different drummers, and the precise solutions of the United States can neither be dictated nor transplanted to others. What is important is that all nations must march toward increasing freedom; toward justice for all; toward a society strong and flexible enough to meet the demands of all its own people, and a world of immense and dizzying change.",
+      "author": "Robert F. Kennedy"
+    },
+    "history": {
+      "year": 1994,
+      "text": "The Angolan government and UNITA rebels sign the Lusaka Protocol in Zambia, ending 19 years of civil war. (Localized fighting resumes the next year.)"
+    },
+    "spotlight": {
+      "persona": "Eli",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
