@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-21",
+  "display_date": "Saturday, November 21, 2026",
+  "generated_at": "2026-11-21T12:00:15+00:00",
+  "sections": {
+    "word": {
+      "word": "meet-cute",
+      "part_of_speech": "noun",
+      "definition": "Meet-cute refers to a cute, charming, or amusing first encounter between romantic partners.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/meet-cute-2026-11-21"
+    },
+    "sports_fact": {
+      "text": "The 1944 World Series was an all-St. Louis affair — Cardinals vs. Browns — with every game played at Sportsman's Park. The teams literally shared the stadium.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Devils",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-22T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Mon 11/23, 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "There are truths which are not for all men, nor for all times.",
+      "author": "Voltaire"
+    },
+    "history": {
+      "year": 1959,
+      "text": "American disc jockey Alan Freed, who had popularized the term \"rock and roll\" and music of that style, is fired from WABC radio over allegations he had participated in the payola scandal."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
