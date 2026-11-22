@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-22",
+  "display_date": "Sunday, November 22, 2026",
+  "generated_at": "2026-11-22T12:00:14+00:00",
+  "sections": {
+    "word": {
+      "word": "copacetic",
+      "part_of_speech": "adjective",
+      "definition": "Copacetic (less commonly spelled copasetic or copesetic ) describes things that are very satisfactory.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/copacetic-2026-11-22"
+    },
+    "sports_fact": {
+      "text": "In 1951, Browns owner Bill Veeck sent 3-foot-7 Eddie Gaedel to pinch-hit wearing number 1/8. He walked on four pitches and was banned from baseball the next day.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Devils",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-22T00:00:00+00:00",
+            "team_score": "9",
+            "opp_score": "6",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Oilers",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-23T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Tomorrow 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Nov. 20, 2026: Tech Rout Deepens as Nvidia, Anthropic Slide",
+      "summary": "Nasdaq tumbles 5.3%; Claude maker gives up most of its day-one gains after failing to soothe AI jitters",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "Sobriety of speech supplies a useful contrast to theatricality of manner. Nothing more enhances authority than silence. It is the crowning virtue of the strong, the refuge of the weak, the modesty of the proud, and pride of the humble, the prudence of the wise and the sense of fools. The man who is moved by desire or fear is naturally led to seek relief in words. If he yields to the temptation it is because by externalising his passion or his terror he can come to terms with them. To speak is to dilute one’s thoughts, to give vent to one’s ardour, in short, to dissipate one’s strength, whereas, what action demands is concentration. Silence is a necessary preliminary to the ordering of one’s thoughts.",
+      "author": "Charles de Gaulle"
+    },
+    "history": {
+      "year": 1987,
+      "text": "The Max Headroom signal hijacking incident takes place, in which a pirate broadcast interrupts television broadcasts in Chicago."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
