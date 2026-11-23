@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-23",
+  "display_date": "Monday, November 23, 2026",
+  "generated_at": "2026-11-23T12:00:19+00:00",
+  "sections": {
+    "word": {
+      "word": "optimization",
+      "part_of_speech": "noun",
+      "definition": "Optimization refers to an act, process, or methodology of making something (such as a design, system, or decision) as good, functional, or effective as possible.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/optimization-2026-11-23"
+    },
+    "sports_fact": {
+      "text": "Rogers Hornsby hit .424 for the Cardinals in 1924 — the highest batting average of the modern era, and nobody has come within 30 points of it since.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Oilers",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-23T00:00:00+00:00",
+            "team_score": "5",
+            "opp_score": "4",
+            "won": true,
+            "draw": false,
+            "overtime": "SO"
+          },
+          "next": {
+            "opponent": "Islanders",
+            "is_home": false,
+            "venue": "UBS Arena",
+            "datetime_utc": "2026-11-26T00:00:00+00:00",
+            "label": "Wed 11/25, 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:00:00+00:00",
+            "label": "Today 7:00 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Stock Futures Point to Recovery After Friday’s Bloodbath",
+      "summary": "Anthropic shares rise premarket",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I understood the life around me better, not from love, which everybody acknowledges to be a great teacher, but from estrangement, to which nobody has attributed the power of reinforcing insight; my knowledge is comparable to the snail's, gained through his tender horns and guarded jealously within his shelly cave.",
+      "author": "Nirad C. Chaudhuri"
+    },
+    "history": {
+      "year": 1981,
+      "text": "Iran–Contra affair: Ronald Reagan signs the top secret National Security Decision Directive 17 (NSDD-17), giving the Central Intelligence Agency the authority to recruit and support Contra rebels in Nicaragua."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": true
+    },
+    "song": {
+      "persona": "Max"
+    }
+  }
+}
