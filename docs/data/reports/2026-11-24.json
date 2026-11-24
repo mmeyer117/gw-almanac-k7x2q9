@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-24",
+  "display_date": "Tuesday, November 24, 2026",
+  "generated_at": "2026-11-24T12:00:27+00:00",
+  "sections": {
+    "word": {
+      "word": "dubious",
+      "part_of_speech": "adjective",
+      "definition": "Dubious describes a person who lacks a definite opinion or is doubtful about something; this sense of the word is usually used with about .",
+      "url": "https://www.merriam-webster.com/word-of-the-day/dubious-2026-11-24"
+    },
+    "sports_fact": {
+      "text": "Ozzie Smith won 13 consecutive Gold Gloves at shortstop and did a backflip on Opening Day. The Wizard earned the nickname.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Islanders",
+            "is_home": false,
+            "venue": "UBS Arena",
+            "datetime_utc": "2026-11-26T00:00:00+00:00",
+            "label": "Tomorrow 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": {
+            "opponent": "LAFC",
+            "is_home": true,
+            "venue": "Energizer Park",
+            "datetime_utc": "2026-11-24T01:15:00+00:00",
+            "team_score": "3",
+            "opp_score": "2",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "LAFC",
+            "is_home": false,
+            "venue": "BMO Stadium",
+            "datetime_utc": "2026-11-29T01:30:00+00:00",
+            "label": "Sat 11/28, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech Stocks Set to Dive Again After Epic Rally",
+      "summary": "Nasdaq futures point to 2% decline; Nvidia and Anthropic slump premarket",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "A free man thinks of death least of all things; and his wisdom is a meditation not of death but of life.",
+      "author": "Baruch Spinoza"
+    },
+    "history": {
+      "year": 1973,
+      "text": "A national speed limit is imposed on the Autobahn in Germany because of the 1973 oil crisis. The speed limit lasts only four months."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Jonas"
+    }
+  }
+}
