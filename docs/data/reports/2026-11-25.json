@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-25",
+  "display_date": "Wednesday, November 25, 2026",
+  "generated_at": "2026-11-25T12:00:21+00:00",
+  "sections": {
+    "word": {
+      "word": "arbiter",
+      "part_of_speech": "noun",
+      "definition": "An arbiter is a person with power to decide a dispute, or a person or agency whose judgment or opinion is considered authoritative.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/arbiter-2026-11-25"
+    },
+    "sports_fact": {
+      "text": "On November 25, 1980, Roberto Durán turned away from Sugar Ray Leonard in the eighth round muttering 'No más' — boxing's most famous surrender.",
+      "sport": "boxing"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Islanders",
+            "is_home": false,
+            "venue": "UBS Arena",
+            "datetime_utc": "2026-11-26T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": false,
+            "venue": "BMO Stadium",
+            "datetime_utc": "2026-11-29T01:30:00+00:00",
+            "label": "Sat 11/28, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market Today: Tech-Led Slide Continues as Confidence in AI Trade Weakens",
+      "summary": "Investors await inflation data that could affect Fed's rate path, plus tariffs announcement",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "I write just because the fire of my emotion is burning. Had I not, I would not have been able to find peace.",
+      "author": "Ba Jin"
+    },
+    "history": {
+      "year": 1931,
+      "text": "Wilhelm Schäfer leaves the Nazi Party and hands over the Boxheim Documents to the Frankfurt police."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
