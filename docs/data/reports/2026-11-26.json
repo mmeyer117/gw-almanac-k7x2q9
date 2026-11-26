@@ -1,0 +1,75 @@
+{
+  "date": "2026-11-26",
+  "display_date": "Thursday, November 26, 2026",
+  "generated_at": "2026-11-26T12:00:16+00:00",
+  "sections": {
+    "word": {
+      "word": "felicitous",
+      "part_of_speech": "adjective",
+      "definition": "Felicitous is an adjective most often used in formal speech and writing to describe something that is very well expressed or suited for some purpose or situation.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/felicitous-2026-11-26"
+    },
+    "sports_fact": {
+      "text": "Nolan Ryan threw seven no-hitters, the last one at age 44 — an age when most pitchers have been retired for a decade.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Islanders",
+            "is_home": false,
+            "venue": "UBS Arena",
+            "datetime_utc": "2026-11-26T00:00:00+00:00",
+            "team_score": "2",
+            "opp_score": "3",
+            "won": false,
+            "draw": false,
+            "overtime": "SO"
+          },
+          "next": {
+            "opponent": "Stars",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-27T19:00:00+00:00",
+            "label": "Tomorrow 1:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": false,
+            "venue": "BMO Stadium",
+            "datetime_utc": "2026-11-29T01:30:00+00:00",
+            "label": "Sat 11/28, 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stock Market News, Nov. 25, 2026: Stocks Pare Losses as Tech Selloff Eases",
+      "summary": "Nasdaq tumbles; Nvidia and Micron slump",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The theater chose me. As I said, I started with poetry, and I also wrote criticism and dialogue. But I realized that I was most successful at dialogue. Perhaps I abandoned criticism because I am full of contradictions, and when you write an essay you are not supposed to contradict yourself. But in the theater, by inventing various characters, you can. My characters are contradictory not only in their language, but in their behavior as well.",
+      "author": "Eugène Ionesco"
+    },
+    "history": {
+      "year": 1914,
+      "text": "HMS Bulwark is destroyed by a large internal explosion with the loss of 741 men while at anchor near Sheerness."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Archie"
+    }
+  }
+}
