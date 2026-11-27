@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-27",
+  "display_date": "Friday, November 27, 2026",
+  "generated_at": "2026-11-27T12:00:24+00:00",
+  "sections": {
+    "word": {
+      "word": "injunction",
+      "part_of_speech": "noun",
+      "definition": "An injunction is an order from a court of law that says something must be done or must not be done.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/injunction-2026-11-27"
+    },
+    "sports_fact": {
+      "text": "Rickey Henderson stole 1,406 bases. Second place is 468 steals behind. He also scored more runs than anyone who ever played.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": null,
+          "next": {
+            "opponent": "Stars",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-27T19:00:00+00:00",
+            "label": "Today 1:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": false,
+            "venue": "BMO Stadium",
+            "datetime_utc": "2026-11-29T01:30:00+00:00",
+            "label": "Tomorrow 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Stocks Poised to End Week Strong as Investors Take Break From AI Jitters",
+      "summary": "U.S. stock futures rallied ahead of a shorter session today, with all three major indexes standing to extend gains this week.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "The Moment is freedom. — I couldn't live by a rigid schedule. I try to live freely from moment to moment, letting things happen and adjusting to them.",
+      "author": "Bruce Lee"
+    },
+    "history": {
+      "year": 1940,
+      "text": "In Romania, the ruling Iron Guard fascist party assassinates over 60 of arrested King Carol II of Romania's aides and other political dissidents."
+    },
+    "spotlight": {
+      "persona": "Archie",
+      "is_new": false
+    },
+    "song": {
+      "persona": "Porter"
+    }
+  }
+}
