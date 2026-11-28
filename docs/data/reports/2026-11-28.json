@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-28",
+  "display_date": "Saturday, November 28, 2026",
+  "generated_at": "2026-11-28T12:00:13+00:00",
+  "sections": {
+    "word": {
+      "word": "parse",
+      "part_of_speech": "verb",
+      "definition": "To parse or parse through something is to study it by looking closely at its parts, or in other words to analyze it critically.",
+      "url": "https://www.merriam-webster.com/word-of-the-day/parse-2026-11-28"
+    },
+    "sports_fact": {
+      "text": "Ted Williams hit .406 in 1941 and refused to sit out the final-day doubleheader to protect the mark — he went 6-for-8 instead.",
+      "sport": "baseball"
+    },
+    "stl_sports": {
+      "teams": [
+        {
+          "team": "Blues",
+          "emoji": "🏒",
+          "yesterday": {
+            "opponent": "Stars",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-27T19:00:00+00:00",
+            "team_score": "5",
+            "opp_score": "3",
+            "won": true,
+            "draw": false,
+            "overtime": null
+          },
+          "next": {
+            "opponent": "Capitals",
+            "is_home": true,
+            "venue": "Enterprise Center",
+            "datetime_utc": "2026-11-29T00:00:00+00:00",
+            "label": "Today 6:00 PM CT"
+          }
+        },
+        {
+          "team": "City SC",
+          "emoji": "⚽",
+          "yesterday": null,
+          "next": {
+            "opponent": "LAFC",
+            "is_home": false,
+            "venue": "BMO Stadium",
+            "datetime_utc": "2026-11-29T01:30:00+00:00",
+            "label": "Today 7:30 PM CT"
+          }
+        }
+      ]
+    },
+    "market": {
+      "headline": "Americans Are More Exposed to the Stock Market Than Ever Before",
+      "summary": "A wave of investment in U.S. stock funds has continued even during a dizzying market downturn.",
+      "source": "WSJ Markets"
+    },
+    "quote": {
+      "text": "You must remember that an oak tree is not a crime against the acorn.",
+      "author": "David Zindell"
+    },
+    "history": {
+      "year": 1964,
+      "text": "Mariner program: NASA launches the Mariner 4 probe toward Mars."
+    },
+    "spotlight": null,
+    "song": {
+      "persona": "Eli"
+    }
+  }
+}
